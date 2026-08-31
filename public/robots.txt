@@ -1,0 +1,7 @@
+# Source: https://polona.pl/item-view/0782bd3a-4d20-41be-86f8-bcdfc65555c5?page=0
+User-agent: *
+Allow: /harcerz-w-polu/
+
+Sitemap: https://jfpio.github.io/harcerz-w-polu/sitemap-index.xml
+LLMs: https://jfpio.github.io/harcerz-w-polu/llms.txt
+LLMs-Full: https://jfpio.github.io/harcerz-w-polu/llms-full.txt

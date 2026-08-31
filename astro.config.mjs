@@ -27,6 +27,24 @@ export default defineConfig({
         { tag: 'meta', attrs: { property: 'og:image', content: `${publicSite}/book/cover.jpg` } },
         { tag: 'meta', attrs: { name: 'twitter:card', content: 'summary_large_image' } },
         { tag: 'meta', attrs: { name: 'twitter:image', content: `${publicSite}/book/cover.jpg` } },
+        {
+          tag: 'link',
+          attrs: {
+            rel: 'alternate',
+            type: 'text/plain',
+            title: 'Pełna transkrypcja dla modeli językowych',
+            href: `${publicSite}/llms-full.txt`,
+          },
+        },
+        {
+          tag: 'link',
+          attrs: {
+            rel: 'alternate',
+            type: 'text/markdown',
+            title: 'Pełna transkrypcja Markdown',
+            href: `${publicSite}/book/harcerz-w-polu.md`,
+          },
+        },
       ],
       sidebar: [
         { label: 'Start', slug: 'index' },

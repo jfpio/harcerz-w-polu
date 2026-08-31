@@ -520,6 +520,15 @@ Status: transkrypcja OCR beta wykonana przy użyciu Mistral OCR, bez modernizacj
 Do analizy całej książki użyj najpierw `llms-full.txt` albo pełnego pliku Markdown. Do cytowania konkretnych gier korzystaj z adresów stron WWW lub z indeksu JSON.
 """
     (PUBLIC / "llms.txt").write_text(llms, encoding="utf-8")
+    robots = f"""# Source: {POLONA_URL}
+User-agent: *
+Allow: /harcerz-w-polu/
+
+Sitemap: {PUBLIC_SITE}/sitemap-index.xml
+LLMs: {PUBLIC_SITE}/llms.txt
+LLMs-Full: {PUBLIC_SITE}/llms-full.txt
+"""
+    (PUBLIC / "robots.txt").write_text(robots, encoding="utf-8")
     public_game_index = {
         "title": "Harcerz w polu. Zabawy i gry terenowe",
         "sourceUrl": POLONA_URL,

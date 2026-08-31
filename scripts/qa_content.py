@@ -131,6 +131,7 @@ def main() -> None:
         ROOT / "public" / "book" / "harcerz-w-polu.md",
         ROOT / "public" / "book" / "harcerz-w-polu.txt",
         ROOT / "public" / "book" / "games.json",
+        ROOT / "public" / "robots.txt",
     ]
     for path in llm_files:
         if not path.exists():
