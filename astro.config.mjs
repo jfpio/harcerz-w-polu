@@ -37,27 +37,27 @@ export default defineConfig({
         },
         {
           label: 'Orientowanie się w terenie',
-          collapsed: true,
+          collapsed: false,
           items: [{ autogenerate: { directory: 'gry/orientowanie' } }],
         },
         {
           label: 'Wzrok i spostrzegawczość',
-          collapsed: true,
+          collapsed: false,
           items: [{ autogenerate: { directory: 'gry/wzrok-spostrzegawczosc' } }],
         },
         {
           label: 'Słuch',
-          collapsed: true,
+          collapsed: false,
           items: [{ autogenerate: { directory: 'gry/sluch' } }],
         },
         {
           label: 'Zwiady',
-          collapsed: true,
+          collapsed: false,
           items: [{ autogenerate: { directory: 'gry/zwiady' } }],
         },
         {
           label: 'Ćwiczenia w większym zespole',
-          collapsed: true,
+          collapsed: false,
           items: [{ autogenerate: { directory: 'gry/wiekszy-zespol' } }],
         },
         { label: 'O wydaniu cyfrowym', slug: 'o-wydaniu' },

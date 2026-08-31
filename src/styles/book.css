@@ -60,6 +60,34 @@ body {
   border-radius: 0.35rem;
 }
 
+.book-cover-inline {
+  float: right;
+  width: min(13rem, 40%);
+  margin: 0 0 1.5rem 2rem;
+  border-radius: 0.35rem;
+  box-shadow: 0 1rem 1.5rem rgb(27 19 10 / 24%);
+}
+
+.book-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.25rem 0 2rem;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+.book-actions a {
+  border: 1px solid var(--sl-color-accent);
+  border-radius: 0.35rem;
+  padding: 0.45rem 0.7rem;
+  text-decoration: none;
+}
+
+.book-actions a:first-child {
+  color: var(--sl-color-black);
+  background: var(--sl-color-accent);
+}
+
 .source-note {
   font-family: Inter, ui-sans-serif, system-ui, sans-serif;
   font-size: 0.9rem;
@@ -67,4 +95,12 @@ body {
   border-top: 1px solid var(--sl-color-gray-5);
   margin-top: 2.5rem;
   padding-top: 1rem;
+}
+
+@media (max-width: 40rem) {
+  .book-cover-inline {
+    float: none;
+    width: min(12rem, 70%);
+    margin: 0 0 1.25rem;
+  }
 }

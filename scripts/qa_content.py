@@ -125,6 +125,24 @@ def main() -> None:
     if not public_pdf.exists() or public_pdf.stat().st_size != 69_337_979:
         fail("Published PDF is missing or does not match the inspected source size", errors)
 
+    llm_files = [
+        ROOT / "public" / "llms.txt",
+        ROOT / "public" / "llms-full.txt",
+        ROOT / "public" / "book" / "harcerz-w-polu.md",
+        ROOT / "public" / "book" / "harcerz-w-polu.txt",
+        ROOT / "public" / "book" / "games.json",
+    ]
+    for path in llm_files:
+        if not path.exists():
+            fail(f"Missing LLM-friendly export {path.relative_to(ROOT)}", errors)
+            continue
+        content = path.read_text(encoding="utf-8")
+        if POLONA_URL not in content:
+            fail(f"Missing Polona provenance in {path.relative_to(ROOT)}", errors)
+    full_text = ROOT / "public" / "llms-full.txt"
+    if full_text.exists() and full_text.stat().st_size < 300_000:
+        fail("Full LLM text export is unexpectedly small", errors)
+
     dist = ROOT / "dist"
     if dist.exists():
         html_files = sorted(dist.glob("**/*.html"))

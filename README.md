@@ -18,6 +18,17 @@ Repozytorium zachowuje oryginalny PDF oraz trzy warstwy wydania cyfrowego:
 
 Transkrypcja zachowuje pisownię wydania z 1946 roku. Ma status publicznej wersji beta: poprawiane są błędy OCR, ale tekst nie jest modernizowany.
 
+## Użycie z modelami językowymi
+
+Dla ChatGPT, Claude, Perplexity i podobnych narzędzi najprostsze wejście to publiczny plik `llms-full.txt` albo pełny Markdown:
+
+- <https://jfpio.github.io/harcerz-w-polu/llms.txt>
+- <https://jfpio.github.io/harcerz-w-polu/llms-full.txt>
+- <https://jfpio.github.io/harcerz-w-polu/book/harcerz-w-polu.md>
+- <https://jfpio.github.io/harcerz-w-polu/book/harcerz-w-polu.txt>
+
+MCP nie jest wymagany dla pierwszej wersji, bo książka jest publiczna, statyczna i mieści się w pojedynczym pliku tekstowym. MCP ma sens później, jeśli potrzebne będzie programowe wyszukiwanie po grach, zwracanie cytatów z lokalizacją albo integracja wielu książek.
+
 ## Praca lokalna
 
 Wymagane są Node.js 24+, Python 3 oraz Poppler do przygotowania obrazów ze skanu.

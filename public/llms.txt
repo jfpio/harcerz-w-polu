@@ -1,0 +1,21 @@
+# Harcerz w polu
+
+Cyfrowa transkrypcja książki: Zygmunt Wyrobek, „Harcerz w polu. Zabawy i gry terenowe”, wydanie piąte, Kraków 1946.
+
+Źródło skanu: Polona / Biblioteka Narodowa, https://polona.pl/item-view/0782bd3a-4d20-41be-86f8-bcdfc65555c5?page=0.
+Prawa: rekord Polony oznacza obiekt jako „Domena publiczna”.
+Status: transkrypcja OCR beta wykonana przy użyciu Mistral OCR, bez modernizacji języka i pisowni.
+
+## Najważniejsze linki
+
+- Strona WWW: https://jfpio.github.io/harcerz-w-polu/
+- Pełna transkrypcja Markdown: https://jfpio.github.io/harcerz-w-polu/book/harcerz-w-polu.md
+- Pełna transkrypcja TXT: https://jfpio.github.io/harcerz-w-polu/book/harcerz-w-polu.txt
+- Pełna transkrypcja jako llms-full.txt: https://jfpio.github.io/harcerz-w-polu/llms-full.txt
+- Indeks 117 gier JSON: https://jfpio.github.io/harcerz-w-polu/book/games.json
+- Oryginalny PDF: https://jfpio.github.io/harcerz-w-polu/book/harcerz-w-polu.pdf
+- Rekord Polony: https://polona.pl/item-view/0782bd3a-4d20-41be-86f8-bcdfc65555c5?page=0
+
+## Sugerowane użycie
+
+Do analizy całej książki użyj najpierw `llms-full.txt` albo pełnego pliku Markdown. Do cytowania konkretnych gier korzystaj z adresów stron WWW lub z indeksu JSON.

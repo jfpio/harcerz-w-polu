@@ -19,9 +19,11 @@ ROOT = Path(__file__).resolve().parents[1]
 CHUNKS = ROOT / "data" / "ocr" / "chunks"
 REPORTS = ROOT / "data" / "ocr" / "reports"
 DOCS = ROOT / "src" / "content" / "docs"
+PUBLIC = ROOT / "public"
 ASSETS = ROOT / "public" / "book" / "assets"
 POLONA_URL = "https://polona.pl/item-view/0782bd3a-4d20-41be-86f8-bcdfc65555c5?page=0"
 BASE = "/harcerz-w-polu"
+PUBLIC_SITE = "https://jfpio.github.io/harcerz-w-polu"
 
 GAME_HEADING = re.compile(
     r"^\s*#{1,6}\s+(?:\*\*)?(?P<number>\d{1,3})[.)]\s+(?P<title>.+?)(?:\*\*)?\s*$"
@@ -409,37 +411,34 @@ def write_index(game_index: list[dict[str, Any]]) -> None:
     frontmatter = [
         "title: Harcerz w polu",
         "description: Cyfrowa transkrypcja książki Zygmunta Wyrobka „Harcerz w polu. Zabawy i gry terenowe”.",
-        "template: splash",
-        "hero:",
-        "  title: Harcerz w polu",
-        "  tagline: Zabawy i gry terenowe — cyfrowa transkrypcja piątego wydania z 1946 roku.",
-        "  image:",
-        "    file: ../../assets/cover.jpg",
-        "    alt: Fotografia okładki książki Harcerz w polu",
-        "  actions:",
-        "    - text: Czytaj od początku",
-        f"      link: {BASE}/wprowadzenie/01-przedmowy/",
-        "      icon: right-arrow",
-        "    - text: Przeglądaj gry",
-        f"      link: {BASE}/{first_game['route']}/",
-        "      variant: secondary",
-        "    - text: Zobacz w Polonie",
-        f"      link: {POLONA_URL}",
-        "      variant: minimal",
-        "      icon: external",
-        "    - text: Pobierz oryginalny PDF",
-        f"      link: {BASE}/book/harcerz-w-polu.pdf",
-        "      variant: minimal",
-        "      icon: download",
         "pagefind: false",
         "editUrl: false",
     ]
     body = f"""
+<img class="book-cover-inline" src="{BASE}/book/cover.jpg" alt="Fotografia okładki książki Harcerz w polu" />
+
+**Zabawy i gry terenowe — cyfrowa transkrypcja piątego wydania z 1946 roku.**
+
+<p class="book-actions">
+  <a href="{BASE}/wprowadzenie/01-przedmowy/">Czytaj od początku</a>
+  <a href="{BASE}/{first_game['route']}/">Przeglądaj gry</a>
+  <a href="{POLONA_URL}">Zobacz w Polonie</a>
+  <a href="{BASE}/book/harcerz-w-polu.pdf">Pobierz oryginalny PDF</a>
+</p>
+
 ## Wydanie cyfrowe
 
 To publiczna wersja beta wiernej transkrypcji książki **Zygmunta Wyrobka**, wydanej w Krakowie przez Wydawnictwo Zakładu Narodowego imienia Ossolińskich w 1946 roku.
 
 Książka obejmuje **117 zabaw, ćwiczeń i gier terenowych**. Każda gra ma własny adres, odsyłacz do właściwych stron skanu i możliwość zaproponowania korekty na GitHubie.
+
+## Użycie z modelami językowymi
+
+Najprostszy wariant to podać modelowi link do pełnej wersji tekstowej albo Markdown:
+
+- [Instrukcja dla modeli i indeks linków]({BASE}/llms.txt)
+- [Pełna transkrypcja w Markdown]({BASE}/book/harcerz-w-polu.md)
+- [Pełna transkrypcja w TXT]({BASE}/book/harcerz-w-polu.txt)
 
 ## Źródło i prawa
 
@@ -448,6 +447,89 @@ Skan pobrano z [Polony / Biblioteki Narodowej]({POLONA_URL}). Rekord Polony ozna
 > **Status: transkrypcja OCR — wersja beta.** Błędy rozpoznania można poprawiać przez odsyłacz „Edytuj stronę”.
 """
     write_document(DOCS / "index.mdx", frontmatter, body)
+
+
+def strip_frontmatter(markdown: str) -> str:
+    if markdown.startswith("---\n"):
+        _, _, rest = markdown.partition("\n---\n")
+        return rest.strip()
+    return markdown.strip()
+
+
+def plain_text(markdown: str) -> str:
+    text = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\1", markdown)
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"^>\s?", "", text, flags=re.M)
+    text = re.sub(r"[*_`#]", "", text)
+    text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def write_llm_exports(game_index: list[dict[str, Any]]) -> None:
+    ordered_docs = [
+        DOCS / "wprowadzenie" / "01-przedmowy.md",
+        DOCS / "wprowadzenie" / "02-od-wydawnictwa.md",
+        DOCS / "wprowadzenie" / "03-znaczenie-gier-terenowych.md",
+        DOCS / "wprowadzenie" / "04-wskazowki-metodyczne.md",
+    ]
+    ordered_docs.extend(DOCS / f"{game['route']}.md" for game in game_index)
+
+    sections = [
+        "# Harcerz w polu. Zabawy i gry terenowe",
+        "",
+        "Zygmunt Wyrobek, wydanie piąte, Kraków 1946.",
+        f"Źródło skanu: Polona / Biblioteka Narodowa, {POLONA_URL}.",
+        "Prawa: rekord Polony oznacza obiekt jako „Domena publiczna”.",
+        "Status transkrypcji: OCR beta, bez modernizacji języka i pisowni.",
+        "",
+    ]
+    for path in ordered_docs:
+        if not path.exists():
+            raise RuntimeError(f"Missing generated document for LLM export: {path}")
+        sections.append(strip_frontmatter(path.read_text(encoding="utf-8")))
+        sections.append("")
+
+    full_markdown = "\n".join(sections).strip() + "\n"
+    book_dir = PUBLIC / "book"
+    book_dir.mkdir(parents=True, exist_ok=True)
+    (book_dir / "harcerz-w-polu.md").write_text(full_markdown, encoding="utf-8")
+    (book_dir / "harcerz-w-polu.txt").write_text(plain_text(full_markdown) + "\n", encoding="utf-8")
+    (PUBLIC / "llms-full.txt").write_text(full_markdown, encoding="utf-8")
+
+    llms = f"""# Harcerz w polu
+
+Cyfrowa transkrypcja książki: Zygmunt Wyrobek, „Harcerz w polu. Zabawy i gry terenowe”, wydanie piąte, Kraków 1946.
+
+Źródło skanu: Polona / Biblioteka Narodowa, {POLONA_URL}.
+Prawa: rekord Polony oznacza obiekt jako „Domena publiczna”.
+Status: transkrypcja OCR beta wykonana przy użyciu Mistral OCR, bez modernizacji języka i pisowni.
+
+## Najważniejsze linki
+
+- Strona WWW: {PUBLIC_SITE}/
+- Pełna transkrypcja Markdown: {PUBLIC_SITE}/book/harcerz-w-polu.md
+- Pełna transkrypcja TXT: {PUBLIC_SITE}/book/harcerz-w-polu.txt
+- Pełna transkrypcja jako llms-full.txt: {PUBLIC_SITE}/llms-full.txt
+- Indeks 117 gier JSON: {PUBLIC_SITE}/book/games.json
+- Oryginalny PDF: {PUBLIC_SITE}/book/harcerz-w-polu.pdf
+- Rekord Polony: {POLONA_URL}
+
+## Sugerowane użycie
+
+Do analizy całej książki użyj najpierw `llms-full.txt` albo pełnego pliku Markdown. Do cytowania konkretnych gier korzystaj z adresów stron WWW lub z indeksu JSON.
+"""
+    (PUBLIC / "llms.txt").write_text(llms, encoding="utf-8")
+    public_game_index = {
+        "title": "Harcerz w polu. Zabawy i gry terenowe",
+        "sourceUrl": POLONA_URL,
+        "rightsStatement": "Domena publiczna według rekordu Polony",
+        "status": "ocr-beta",
+        "games": game_index,
+    }
+    (book_dir / "games.json").write_text(
+        json.dumps(public_game_index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
 
 
 def write_table_of_contents(game_index: list[dict[str, Any]]) -> None:
@@ -566,6 +648,7 @@ def main() -> None:
     write_index(game_index)
     write_table_of_contents(game_index)
     write_about()
+    write_llm_exports(game_index)
     write_quality_report(pages, game_index)
     (ROOT / "data" / "ocr" / "games.json").write_text(
         json.dumps(game_index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
