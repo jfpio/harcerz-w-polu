@@ -17,9 +17,7 @@ sidebar:
 
 > **Transkrypcja OCR — wersja beta.** Tekst zachowuje pisownię wydania z 1946 roku. Jeżeli zauważysz błąd rozpoznania, użyj odsyłacza „Edytuj stronę” na dole.
 
-Z przeciwnych stron, z oddalenia 2—4 km, podchodzą ku sobie dwa zastępy harcerskie. Obydwa wyruszają o tym samym czasie. Droga jest tak wybrana, że muszą się one spotkać; wyznacza się mianowicie
-
-miejsce, do którego każdy zastęp ma dotrzeć, i 2 punkty, które ma minąć.
+Z przeciwnych stron, z oddalenia 2—4 km, podchodzą ku sobie dwa zastępy harcerskie. Obydwa wyruszają o tym samym czasie. Droga jest tak wybrana, że muszą się one spotkać; wyznacza się mianowicie miejsce, do którego każdy zastęp ma dotrzeć, i 2 punkty, które ma minąć.
 
 Ponieważ każdy zastęp wie, że na swej drodze napotka przeciwnika, a droga prowadzi przez teren mieszany, częściowo zakryty, dający wiele osłon ułatwiających podchodzenie — przeto idzie w formacji rozrzuconej, «z okiem» na czele.
 
@@ -29,9 +27,7 @@ Na drodze znajduje się sędzia z białą opaską na kapeluszu i ten w razie syg
 
 W czasie tego podchodzenia wolno używać wszelkich podstępów: wdrapywania się na drzewa, podkradania się za wozem lub na wozie itp. z wyjątkiem przebierania się.
 
-Po skończeniu ćwiczenia powtarza się je, puszczając zastępy w przeciwnych kierunkach. Jeżeli
-
-określa się czas, w którym zastępy mają dojść do celu, to powinien on być długi, ażeby umożliwić wyzyskanie wszystkich warunków sprzyjających podchodzeniu.
+Po skończeniu ćwiczenia powtarza się je, puszczając zastępy w przeciwnych kierunkach. Jeżeli określa się czas, w którym zastępy mają dojść do celu, to powinien on być długi, ażeby umożliwić wyzyskanie wszystkich warunków sprzyjających podchodzeniu.
 
 ---
 

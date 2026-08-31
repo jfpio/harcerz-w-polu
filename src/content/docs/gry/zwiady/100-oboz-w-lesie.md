@@ -19,9 +19,7 @@ sidebar:
 
 > **Gra oznaczona w książce gwiazdką:** odpowiedniejsza dla starszych harcerzy.
 
-Ćwiczenie odbywa się w jasny wieczór. Biali obozują w lesie; dokoła straże. Obóz — to zatknięta chorągiew a obok niej kilku harcerzy przy ognisku ew. przy latarni, o ile ogniska rozpalać nie można. Teren
-
-przed lasem przeszukują patrole i to od strony, z której należy się obawiać nadejścia czerwonych.
+Ćwiczenie odbywa się w jasny wieczór. Biali obozują w lesie; dokoła straże. Obóz — to zatknięta chorągiew a obok niej kilku harcerzy przy ognisku ew. przy latarni, o ile ogniska rozpalać nie można. Teren przed lasem przeszukują patrole i to od strony, z której należy się obawiać nadejścia czerwonych.
 
 Czerwoni stoją w A, a mając wiadomości o obozowaniu w lesie białych, wysyłają dwa patrole w kierunkach m—n z poleceniem przeszukania tej okolicy i wysłedzenia stanowiska białych.
 

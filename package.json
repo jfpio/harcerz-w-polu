@@ -9,6 +9,7 @@
     "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
     "ocr": "python3 scripts/ocr_book.py 'Harcerz w polu zabawy i gry terenowe.pdf'",
     "content": "python3 scripts/build_content.py",
+    "test": "python3 -m unittest scripts/test_line_breaks.py",
     "qa": "python3 scripts/qa_content.py"
   },
   "dependencies": {

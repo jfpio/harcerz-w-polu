@@ -19,11 +19,7 @@ sidebar:
 
 > **Gra oznaczona w książce gwiazdką:** odpowiedniejsza dla starszych harcerzy.
 
-Kierownik wskazuje jednemu harcerzowi miejsce, w którym ma ukryć chorągiew. Nikt nie zna tego
-
-miejsca. Harcerz rusza w drogę z punktu A, kluczy przechodząc przez różny teren, ażeby utrudnić tropienie, lecz znaczy dokładnie swą drogę umówionymi znakami. Z nim idzie 3 bezstronnych, którzy po ukryciu chorągwi ustalają granicę dookoła schowka w promieniu 100 do 300 kroków. Robią to sporządzając pobieżne szkice, w których zaznaczają wokół wpadające w oko przedmioty terenu, a gdzie potrzeba, znaczą tę granicę, np. kredą na drzwiach stojącej tam
-
-chaty. Cały teren powinien się nadawać do krycia i przekradania się.
+Kierownik wskazuje jednemu harcerzowi miejsce, w którym ma ukryć chorągiew. Nikt nie zna tego miejsca. Harcerz rusza w drogę z punktu A, kluczy przechodząc przez różny teren, ażeby utrudnić tropienie, lecz znaczy dokładnie swą drogę umówionymi znakami. Z nim idzie 3 bezstronnych, którzy po ukryciu chorągwi ustalają granicę dookoła schowka w promieniu 100 do 300 kroków. Robią to sporządzając pobieżne szkice, w których zaznaczają wokół wpadające w oko przedmioty terenu, a gdzie potrzeba, znaczą tę granicę, np. kredą na drzwiach stojącej tam chaty. Cały teren powinien się nadawać do krycia i przekradania się.
 
 W trzy kwadranse później rusza po dwóch harcerzy z każdego zastępu, którzy idą znaczonym tropem, ażeby znaleźć chorągiew. Każda dwójka tropi dla siebie, a sprytnie, ażeby nie ułatwić pracy rywalom z innych zastępów. Kto dojdzie do chorągwi, temu nie wolno jej zabierać; bierze on tylko kartkę z nazwą swego zastępu (dla każdego z szukających jest kartka przy chorąkwi) i stara się ją zanieść kierownikowi, który czeka na to, w miejscu wszystkim znanym B, oddalonym o kilkaset kroków od schowka.
 

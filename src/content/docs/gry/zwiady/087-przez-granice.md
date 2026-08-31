@@ -29,9 +29,7 @@ Zachowanie się przy spotkaniu z przeciwnikiem może być różne. I tak: harcer
 
 Kto brał kiedykolwiek udział w ćwiczeniach harcerskich, ten łatwo sobie uprzytomni, ile rozmaitości, niespodzianek i uroku zawiera opisywane ćwiczenie. Pomysłowość, szybkie wyzyskanie danej sytuacji, cierpliwość w wyczekiwaniu na odpowiednią chwilę do działania, osobista zręczność itd. — wszystko to święci wielkie triumfy.
 
-A zadanie nie jest łatwe. Bo najpierw nieprzyjaciel wybrał takie punkty obserwacyjne, które trudno odnaleźć, następnie co krok można napotkać wroga,
-
-a wreszcie trzeba nie tylko zdobyć wiadomości, ale je i z powrotem przenieść przez granicę i to do miejsca oznaczonego chorągwią. Tylko więc wielka czujność i większe jeszcze od niej panowanie nad sobą, ostrożność jak najdalej idącą, a przede wszystkim cierpliwość mogą sprowadzić dodatnie wyniki.
+A zadanie nie jest łatwe. Bo najpierw nieprzyjaciel wybrał takie punkty obserwacyjne, które trudno odnaleźć, następnie co krok można napotkać wroga, a wreszcie trzeba nie tylko zdobyć wiadomości, ale je i z powrotem przenieść przez granicę i to do miejsca oznaczonego chorągwią. Tylko więc wielka czujność i większe jeszcze od niej panowanie nad sobą, ostrożność jak najdalej idącą, a przede wszystkim cierpliwość mogą sprowadzić dodatnie wyniki.
 
 Po 1½—2 godzin następuje odtrąbienie i wspólna zbiórka. Wtedy obaj dowódcy wykazują, co ich wywiadowcy przynieśli i ilu wzięto niewolnika, a kierownik przyznaje jednej stronie zwycięstwo.
 
@@ -39,9 +37,7 @@ Granica dzieląca teren powinna być tak długa, by nie dopuszczała obstawienia
 
 b) Prostszą odmianą poprzedniego ćwiczenia będzie, gdy tylko jedna strona podkrada się dla wywiadu — oczywiście w terenie, który to umożliwia. Biali zajmują wówczas wzdłuż i wszerz przestrzeń kilkudziesięciu kroków, w którą można wglądać dopiero z niewielkiej odległości. Tutaj rozstawiają się w różny sposób: w jednym miejscu znajduje się jeden harcerz, o 10 kroków od niego grupa 4 harcerzy, potem po większej przerwie 2 harcerzy, w środku wbita chorągiew, gdzie indziej trójnóg z lasek itp. Nikomu nie wolno opuścić zajętego miejsca.
 
-Czerwoni podkradają się z odległości 500—1000 kroków. Mają za zadanie jak najwięcej się zbliżyć i przekonać, które punkty są przez nieprzyjaciela obsadzone, jakie jest jego ustawienie, co się poza nim znajduje itp. Jeżeli kto zostanie odkryty i biały go obwoła, np. z odległości 40—50 kroków, ten staje się
-
-niewolnikiem. Zebrane wiadomości komunikuje się kierownikowi stojącemu przy chorągwi między obu partiami.
+Czerwoni podkradają się z odległości 500—1000 kroków. Mają za zadanie jak najwięcej się zbliżyć i przekonać, które punkty są przez nieprzyjaciela obsadzone, jakie jest jego ustawienie, co się poza nim znajduje itp. Jeżeli kto zostanie odkryty i biały go obwoła, np. z odległości 40—50 kroków, ten staje się niewolnikiem. Zebrane wiadomości komunikuje się kierownikowi stojącemu przy chorągwi między obu partiami.
 
 Po upływie oznaczonego czasu (1—2 godz.) ocenia się wartość wywiadu czerwonych, a czujność białych i biorąc nadto w rachubę jakość terenu, czy był łatwy, czy trudny do podchodzenia, jak również to, że czerwoni mieli w ogóle trudniejsze zadanie — przyznaje się jednej stronie zwycięstwo.
 

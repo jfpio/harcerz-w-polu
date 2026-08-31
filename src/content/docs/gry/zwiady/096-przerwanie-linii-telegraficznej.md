@@ -31,9 +31,7 @@ zostaje w odwodzie. Ich komendant zadecyduje, czy obsadzi się wszystkie słupy,
 
 Czerwoni w sile 1 zastępu mają przerwać linię telegraficzną. Uda się im to, jeżeli zdołają jeden słup obwiązać wokół trzema sznurami lub chustkami. Biały jednak broni słupa i może zabić czerwonego przez zerwanie mu z ramienia opaski z włóczki.
 
-Jak wobec tych ogólnych prawideł wypadnie ćwiczenie? Oto biali, spodziewając się napadu a nie wiedząc, skąd grozi, wysyłają w obie strony wywiadowców, z których każdy pilnie donosi komendzie swoje spostrzeżenia: gdzie się czerwoni zbierają lub dokąd zmierzają. Na tej podstawie wysyła komendant cichaczem część rezerwy w zagrożone punkty i tam czeka na
-
-wroga albo też zmusza go swą przewagą do cofnięcia się i w ten sposób nie dopuszcza do zamachu.
+Jak wobec tych ogólnych prawideł wypadnie ćwiczenie? Oto biali, spodziewając się napadu a nie wiedząc, skąd grozi, wysyłają w obie strony wywiadowców, z których każdy pilnie donosi komendzie swoje spostrzeżenia: gdzie się czerwoni zbierają lub dokąd zmierzają. Na tej podstawie wysyła komendant cichaczem część rezerwy w zagrożone punkty i tam czeka na wroga albo też zmusza go swą przewagą do cofnięcia się i w ten sposób nie dopuszcza do zamachu.
 
 Lecz czerwoni też nie zasypiają gruszek w popiele. Starają się wprowadzić białych na mylny trop, udają złudne napady itp., by w odpowiedniej chwili w najmniej spodziewanym miejscu wypaść i obwiązać słup niestrzeżony. Gwizd — bieg na ratunek, — lecz wszystko już za późno. Odważają się także na napad na miejsce strzeżone, bo oto, gdy jeden zaprząta sobą białego, zręcznie unikając zerwania opaski, drugi a może i trzeci tymczasem słup obwiązuje. A kto wie, czy cały ten wypad, choć z hałasem zrobiony i choć się nań aż trzech poświęca, ażeby tylko jak najwięcej ściągnąć wroga — nie jest też pozorny? Bo nagle ukazuje się dwóch czerwonych w oddalonym miejscu i obwiązuje nieobronione słupy.
 

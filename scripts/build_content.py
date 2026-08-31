@@ -14,6 +14,11 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable
 
+try:
+    from scripts.line_breaks import Line, clean_lines
+except ModuleNotFoundError:
+    from line_breaks import Line, clean_lines
+
 
 ROOT = Path(__file__).resolve().parents[1]
 CHUNKS = ROOT / "data" / "ocr" / "chunks"
@@ -28,12 +33,6 @@ PUBLIC_SITE = "https://jfpio.github.io/harcerz-w-polu"
 GAME_HEADING = re.compile(
     r"^\s*#{1,6}\s+(?:\*\*)?(?P<number>\d{1,3})[.)]\s+(?P<title>.+?)(?:\*\*)?\s*$"
 )
-
-
-@dataclass(frozen=True)
-class Line:
-    text: str
-    pdf_page: int
 
 
 @dataclass(frozen=True)
@@ -138,8 +137,27 @@ def build_lines(pages: list[dict[str, Any]]) -> list[Line]:
     lines: list[Line] = []
     for page in pages:
         pdf_page = int(page["index"]) + 1
+        page_height = int((page.get("dimensions") or {}).get("height") or 0) or None
+        block_lookup: dict[str, list[dict[str, Any]]] = {}
+        for block in page.get("blocks", []):
+            content = re.sub(r"\s+", " ", str(block.get("content", ""))).strip()
+            if content:
+                block_lookup.setdefault(content, []).append(block)
         for text in page_markdown(page).splitlines():
-            lines.append(Line(text.rstrip(), pdf_page))
+            value = text.rstrip()
+            key = re.sub(r"\s+", " ", value).strip()
+            candidates = block_lookup.get(key, [])
+            block = candidates.pop(0) if candidates else {}
+            lines.append(
+                Line(
+                    value,
+                    pdf_page,
+                    block_type=block.get("type"),
+                    top=block.get("top_left_y"),
+                    bottom=block.get("bottom_right_y"),
+                    page_height=page_height,
+                )
+            )
         lines.append(Line("", pdf_page))
     return lines
 
@@ -215,19 +233,21 @@ def find_toc_start(lines: list[Line], after_index: int) -> int:
     return len(lines)
 
 
-def clean_body(lines: Iterable[Line], *, drop_first_heading: bool = False) -> str:
-    values = [line.text for line in lines]
-    if drop_first_heading:
-        while values and not values[0].strip():
-            values.pop(0)
-        if values:
-            values.pop(0)
-    text = "\n".join(values).strip()
+def clean_body(
+    lines: Iterable[Line],
+    *,
+    document: str,
+    line_breaks: list[dict[str, Any]],
+    drop_first_heading: bool = False,
+) -> str:
+    text = clean_lines(
+        lines,
+        document=document,
+        report=line_breaks,
+        drop_first_heading=drop_first_heading,
+    )
     # One running title was read into the middle of the word "mapie" on PDF page 55.
     text = re.sub(r"na\s+marcerz w polu\s+pie", "na mapie", text, flags=re.I)
-    # Join words split typographically at the end of a scanned line or page.
-    text = re.sub(r"(?<=\w)-\n{1,2}(?=[a-ząćęłńóśźż])", "", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
     return text
 
 
@@ -290,7 +310,11 @@ def make_games(lines: list[Line]) -> list[Game]:
     return games
 
 
-def write_games(lines: list[Line], games: list[Game]) -> list[dict[str, Any]]:
+def write_games(
+    lines: list[Line],
+    games: list[Game],
+    line_breaks: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
     index: list[dict[str, Any]] = []
     for game in games:
         segment = lines[game.start : game.end]
@@ -299,7 +323,12 @@ def write_games(lines: list[Line], games: list[Game]) -> list[dict[str, Any]]:
         slug = f"{game.number:03d}-{slugify(game.title)}"
         route = f"gry/{game.section_key}/{slug}"
         filename = DOCS / "gry" / game.section_key / f"{slug}.md"
-        body = clean_body(segment, drop_first_heading=True)
+        body = clean_body(
+            segment,
+            document=route,
+            line_breaks=line_breaks,
+            drop_first_heading=True,
+        )
         beta = (
             "> **Transkrypcja OCR — wersja beta.** Tekst zachowuje pisownię wydania z 1946 roku. "
             "Jeżeli zauważysz błąd rozpoznania, użyj odsyłacza „Edytuj stronę” na dole.\n\n"
@@ -346,7 +375,11 @@ def find_heading(lines: list[Line], title: str, *, after: int = 0) -> int:
     raise RuntimeError(f"Heading not found: {title}")
 
 
-def write_intro_documents(lines: list[Line], games: list[Game]) -> None:
+def write_intro_documents(
+    lines: list[Line],
+    games: list[Game],
+    line_breaks: list[dict[str, Any]],
+) -> None:
     boundaries = [
         ("01-przedmowy.md", "Przedmowy do wydań", "PRZEDMOWA DO I WYDANIA", "OD WYDAWNICTWA"),
         ("02-od-wydawnictwa.md", "Od Wydawnictwa", "OD WYDAWNICTWA", "ZNACZENIE GIER TERENOWYCH"),
@@ -368,6 +401,8 @@ def write_intro_documents(lines: list[Line], games: list[Game]) -> None:
         end = find_heading(lines, end_title, after=start + 1)
         segment = lines[start:end]
         pdf_pages = page_range(segment)
+        route = f"wprowadzenie/{filename.removesuffix('.md')}"
+        body = clean_body(segment, document=route, line_breaks=line_breaks)
         frontmatter = [
             f"title: {yaml_string(title)}",
             f"description: {yaml_string(f'{title} — Harcerz w polu, wydanie z 1946 roku.')}",
@@ -379,14 +414,16 @@ def write_intro_documents(lines: list[Line], games: list[Game]) -> None:
         write_document(
             DOCS / "wprowadzenie" / filename,
             frontmatter,
-            beta + clean_body(segment) + source_note(pdf_pages),
+            beta + body + source_note(pdf_pages),
         )
 
     for section_start, _, key, label in SECTIONS:
         first_game = next(game for game in games if game.number == section_start)
         section_heading = find_section_heading(lines, key, first_game.start)
         segment = lines[section_heading:first_game.start]
-        if not clean_body(segment):
+        route = f"gry/{key}"
+        body = clean_body(segment, document=route, line_breaks=line_breaks)
+        if not body:
             continue
         pdf_pages = page_range(segment)
         frontmatter = [
@@ -401,7 +438,7 @@ def write_intro_documents(lines: list[Line], games: list[Game]) -> None:
             DOCS / "gry" / key / "000-wprowadzenie.md",
             frontmatter,
             "> **Transkrypcja OCR — wersja beta.** Zachowano historyczną pisownię wydania.\n\n"
-            + clean_body(segment)
+            + body
             + source_note(pdf_pages),
         )
 
@@ -592,7 +629,32 @@ Transkrypcja ma status publicznej wersji beta. Na dole każdej strony znajduje s
     write_document(DOCS / "o-wydaniu.md", frontmatter, body)
 
 
-def write_quality_report(pages: list[dict[str, Any]], game_index: list[dict[str, Any]]) -> None:
+def write_line_break_report(entries: list[dict[str, Any]]) -> dict[str, int]:
+    REPORTS.mkdir(parents=True, exist_ok=True)
+    summary = {
+        "detected": len(entries),
+        "autoJoined": sum(entry["action"] == "auto-joined" for entry in entries),
+        "review": sum(entry["action"] == "review" for entry in entries),
+        "highConfidence": sum(entry["confidence"] == "high" for entry in entries),
+        "mediumConfidence": sum(entry["confidence"] == "medium" for entry in entries),
+    }
+    payload = {
+        "status": "ocr-beta",
+        "summary": summary,
+        "entries": entries,
+    }
+    (REPORTS / "line-breaks.json").write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    return summary
+
+
+def write_quality_report(
+    pages: list[dict[str, Any]],
+    game_index: list[dict[str, Any]],
+    line_break_summary: dict[str, int],
+) -> None:
     REPORTS.mkdir(parents=True, exist_ok=True)
     low_confidence: list[dict[str, Any]] = []
     page_summary: list[dict[str, Any]] = []
@@ -622,6 +684,7 @@ def write_quality_report(pages: list[dict[str, Any]], game_index: list[dict[str,
         "status": "ocr-beta",
         "pages": len(pages),
         "games": len(game_index),
+        "lineBreaks": line_break_summary,
         "pageSummary": page_summary,
         "lowConfidence": low_confidence,
     }
@@ -636,8 +699,11 @@ def write_quality_report(pages: list[dict[str, Any]], game_index: list[dict[str,
         f"- Gry: {len(game_index)}",
         f"- Średnia pewność stron: {sum(averages) / len(averages):.4f}" if averages else "- Średnia pewność: brak",
         f"- Strony zawierające słowa poniżej 0,80: {len(low_confidence)}",
+        f"- Wykryte podejrzane podziały akapitów: {line_break_summary['detected']}",
+        f"- Automatycznie scalone: {line_break_summary['autoJoined']}",
+        f"- Do ręcznej weryfikacji: {line_break_summary['review']}",
         "",
-        "Pełna lista słów i ocen znajduje się w `quality.json`.",
+        "Pełna lista słów i ocen znajduje się w `quality.json`, a decyzje dotyczące podziałów w `line-breaks.json`.",
     ]
     (REPORTS / "README.md").write_text("\n".join(report_md) + "\n", encoding="utf-8")
 
@@ -647,18 +713,20 @@ def main() -> None:
     ASSETS.mkdir(parents=True, exist_ok=True)
     lines = build_lines(pages)
     games = make_games(lines)
+    line_breaks: list[dict[str, Any]] = []
 
     for generated_dir in [DOCS / "gry", DOCS / "wprowadzenie"]:
         if generated_dir.exists():
             shutil.rmtree(generated_dir)
 
-    game_index = write_games(lines, games)
-    write_intro_documents(lines, games)
+    game_index = write_games(lines, games, line_breaks)
+    write_intro_documents(lines, games, line_breaks)
     write_index(game_index)
     write_table_of_contents(game_index)
     write_about()
     write_llm_exports(game_index)
-    write_quality_report(pages, game_index)
+    line_break_summary = write_line_break_report(line_breaks)
+    write_quality_report(pages, game_index, line_break_summary)
     (ROOT / "data" / "ocr" / "games.json").write_text(
         json.dumps(game_index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )

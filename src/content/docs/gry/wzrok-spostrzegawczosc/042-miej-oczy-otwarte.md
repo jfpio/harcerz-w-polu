@@ -27,9 +27,7 @@ Rys. 28.
 
 o kilka minut później od białego. Po przyjściu ma np. wyrysować kontury kapliczki albo na kartce naszkicować wybitnie widzialne stamtąd przedmioty terenu itp.
 
-Po odejściu czerwonego harcerza odchodzi i biały niepostrzeżenie. Zastępowy, odbierając rysunek od czerwonego, zapytuje go, czy widział nadto co ciekawego i w razie odmownej odpowiedzi każe białemu
-
-opisać wszystkie jego czynności. Drugim razem będzie miał czerwony oczy otwarte.
+Po odejściu czerwonego harcerza odchodzi i biały niepostrzeżenie. Zastępowy, odbierając rysunek od czerwonego, zapytuje go, czy widział nadto co ciekawego i w razie odmownej odpowiedzi każe białemu opisać wszystkie jego czynności. Drugim razem będzie miał czerwony oczy otwarte.
 
 W ten sposób można rozstawić szereg harcerzy w różnych punktach, a innym dać zlecenie wykonania jakiegoś zadania w tych samych punktach. Można wysłać także cały zastęp, któremu trudniej się ukryć tym bardziej, jeśli nadejdzie nie jeden, lecz kilku nieprzyjaciół.
 

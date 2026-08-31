@@ -19,9 +19,7 @@ sidebar:
 
 Wskaż zastępowi daleki a nie zanadto wybitny, a z drugiej strony nie nazbyt trudny do rozpoznania i odnalezienia przedmiot terenu. Pozwól go obserwować przez chwilę dla ustalenia jego położenia względem innych wybitnych przedmiotów, a potem każ dotrzeć do niego dowolną drogą i to, o ile się da, w ukryciu. A wybierz taki przedmiot w nieznanym a przynajmniej mało znanym terenie, który znikać będzie z oczu w czasie pochodu. Utrudnisz ćwiczenie, jeżeli każesz naprzód iść przez 5—10 minut w pewnym kierunku, a dopiero po tym czasie zawrócić na poszukiwanie wskazanego przedmiotu.
 
-Po zaobserwowaniu położenia przedmiotu względem innych okolicznych zastęp będzie musiał ustawicznie rozglądać się i orientować szczególnie wtedy, jeśli zajdzie z innej strony, niż wyruszył, bo wówczas cała konfiguracja terenu inaczej mu będzie się przedstawiać — będzie krążył wokół, aż w końcu dojdzie do
-
-celu. Idąc z zastępem, musisz kontrolować jego drogę, tj. wymagać, ażeby posuwał się w ukryciu. Właśnie to przystosowanie marszu do ukształtowania terenu utrudnia znalezienie szukanego przedmiotu.
+Po zaobserwowaniu położenia przedmiotu względem innych okolicznych zastęp będzie musiał ustawicznie rozglądać się i orientować szczególnie wtedy, jeśli zajdzie z innej strony, niż wyruszył, bo wówczas cała konfiguracja terenu inaczej mu będzie się przedstawiać — będzie krążył wokół, aż w końcu dojdzie do celu. Idąc z zastępem, musisz kontrolować jego drogę, tj. wymagać, ażeby posuwał się w ukryciu. Właśnie to przystosowanie marszu do ukształtowania terenu utrudnia znalezienie szukanego przedmiotu.
 
 Takie wypadki zachodzą często przy wysyłce patrolu na wywiady, gdy brak zastępowi mapy, gdy musi schodzić z drogi nieprzyjacielskim oddziałom, gdy musi unikać zamieszkałych miejsc itp.
 

@@ -27,9 +27,7 @@ Jedno zastrzeżenie: nie wolno dołączać się do cudzych tropów — gdy się 
 
 Do gry tej można dodać także walkę. Mianowicie, w kryjówce przygotowali tropieni stos śnieżek i poczynają prażyć nimi prześladowców. Ci nie pozostają dłużni, walka wre na dobre. Napastnika zabija jeden celny strzał, tropionego dopiero dwa strzały.
 
-A wtedy można rozstrzygnąć rzecz w sposób następujący: tropieni wygrają, jeżeli ich nie znaleziono
-
-w określonym czasie i jeżeli ponadto zwycięża w walce, tj. zabiją np. połowę napadających — napastnicy wygrają, jeżeli na czas dojdą do ściganych i zabiją ich nie straciwszy połowy swych ludzi. Inny wynik stanowi nierozegraną.
+A wtedy można rozstrzygnąć rzecz w sposób następujący: tropieni wygrają, jeżeli ich nie znaleziono w określonym czasie i jeżeli ponadto zwycięża w walce, tj. zabiją np. połowę napadających — napastnicy wygrają, jeżeli na czas dojdą do ściganych i zabiją ich nie straciwszy połowy swych ludzi. Inny wynik stanowi nierozegraną.
 
 Grę tę można uprawiać także na nartach.
 

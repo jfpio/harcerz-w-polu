@@ -21,9 +21,7 @@ Zastęp obozuje na polanie: rozbija namioty, zakłada ogniska, gotuje itd., wyko
 
 Zastęp przeciwny (który tymczasem odbywał ćwiczenie w innym miejscu) stara się wykryć miejsce opuszczonego biwaku (nb. teren poszukiwań musi być z góry określony), a po wykryciu go zebrać jak najwięcej wiadomości o obozujących li tylko na podstawie pozostawionych śladów. Każdy notuje, co zauważył i co znalazł, i jakie z tego wyciąga wnioski.
 
-Potem zbierają się oba zastępy, poszczególni harcerze zdają sprawozdanie na podstawie swych notatek, a kierownik najlepiej patrzącemu i wnioskującemu przyznaje pierwszeństwo, oceniając punktami
-
-wartość spostrzeżeń i wniosków (za dobrą ocenę daje oczywiście więcej punktów niż za stwierdzenie faktu). Drugi zastęp, po wysłuchaniu relacyj, stwierdza, co w spostrzeżeniach opuszczono.
+Potem zbierają się oba zastępy, poszczególni harcerze zdają sprawozdanie na podstawie swych notatek, a kierownik najlepiej patrzącemu i wnioskującemu przyznaje pierwszeństwo, oceniając punktami wartość spostrzeżeń i wniosków (za dobrą ocenę daje oczywiście więcej punktów niż za stwierdzenie faktu). Drugi zastęp, po wysłuchaniu relacyj, stwierdza, co w spostrzeżeniach opuszczono.
 
 Na co należy zwracać uwagę? Ile było ognisk, — jak długo ogień się palił, — jak dawno go zagaszono, — którędy zastęp przyszedł, a którędy odszedł, — ile rozbito namiotów i gdzie i ilu było w obozie, — co gotowano, — jakie pozostawiono przedmioty i jakie wnioski można z nich wyciągnąć itd. Kto ma oczy otwarte, a umie nie tylko patrzeć, ale i widzieć, ten wiele spostrzeże, choć się na pozór wydaje, że niewiele jest do zobaczenia.
 

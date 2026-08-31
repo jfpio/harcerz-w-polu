@@ -28,9 +28,7 @@ Rys. 32.
 
 ażeby ją wyjąć i odnieść na odległość 10 kroków.
 Komu się to uda, ten zdobywa kreskę. Harcerz z zawiązanymi oczami nadstawia uszu i śledzi każdy
-szmer, a jeśli co usłyszy, wyciąga rękę w odpowiednim kierunku i woła: «stój!». Zastępowy rozstrzyga,
-
-czy spostrzeżenie jest słuszne i albo je prostuje, a zabawa toczy się dalej, albo każe się usunąć temu, który się zdradził, a podkrada się następny. Po każdej wygranej zmienia się podsłuchującego, a chorągiewkę wbija się w innym, nieznanym mu punkcie.
+szmer, a jeśli co usłyszy, wyciąga rękę w odpowiednim kierunku i woła: «stój!». Zastępowy rozstrzyga, czy spostrzeżenie jest słuszne i albo je prostuje, a zabawa toczy się dalej, albo każe się usunąć temu, który się zdradził, a podkrada się następny. Po każdej wygranej zmienia się podsłuchującego, a chorągiewkę wbija się w innym, nieznanym mu punkcie.
 
 Jeżeli jest więcej grających, można polecić podkradanie się kilku równocześnie, lecz z odległości 10—15 kroków od chorągiewki podkrada się już tylko jeden, bo inaczej trudno nieraz rozstrzygnąć, kto właściwie się szelestem zdradził.
 

@@ -41,9 +41,7 @@ b) Dodajmy do poprzedniego ćwiczenia małą odmianę, a mianowicie, że główn
 
 Nie znajdzie on bowiem swego oddziału tam, gdzie spodziewał się go zastać, brak mu przy tym wszelkich wskazówek, czy oddział jeszcze nie nadszedł, czy już ów punkt minął, i musi polegać jedynie na własnym sprycie i na własnym zmyśle orientacyjnym, aby rozkaz spełnić i raport doręczyć.
 
-Jeżeli zaś na drodze marszu głównego oddziału faktycznie został umieszczony jakiś nieprzyjacielski oddziałek, który zmusił maszerujący oddział do zboczenia od pierwotnego kierunku marszu — to przez
-
-to trudności i dla gońca, i dla patrolu, wysłanego na zwiady, a obecnie odciętego, wzmogą się dziesięciokrotnie. Nie tylko bowiem będzie szło o doręczenie raportów i znalezienie własnego oddziału, o samodzielne orientowanie się w terenie, ale i o przedarcie się przez nieprzyjaciela, któremu zależy na przejęciu raportów. Musi to zrobić i goniec, i cały patrol wywiadowczy.
+Jeżeli zaś na drodze marszu głównego oddziału faktycznie został umieszczony jakiś nieprzyjacielski oddziałek, który zmusił maszerujący oddział do zboczenia od pierwotnego kierunku marszu — to przez to trudności i dla gońca, i dla patrolu, wysłanego na zwiady, a obecnie odciętego, wzmogą się dziesięciokrotnie. Nie tylko bowiem będzie szło o doręczenie raportów i znalezienie własnego oddziału, o samodzielne orientowanie się w terenie, ale i o przedarcie się przez nieprzyjaciela, któremu zależy na przejęciu raportów. Musi to zrobić i goniec, i cały patrol wywiadowczy.
 
 ![img-0.jpeg](/harcerz-w-polu/book/assets/page-081-img-0.jpeg)
 

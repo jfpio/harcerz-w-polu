@@ -29,9 +29,7 @@ A więc np. komu opaska zostanie zerwana z ramienia (kolorowa włóczka), ten wz
 
 Zwycięża ta partia, która list zdobędzie. Przeciwna może jej zwycięstwo zniweczyć przez wzięcie do niewoli przynajmniej połowy zastępu. Przed obliczaniem niewolnika odbywa się jednak wymiana, gdyż i strona przeciwna może mieć jeńców.
 
-Z powyższego opisu można sobie przedstawić przebieg ćwiczenia. Zastępowy białych (czerwonych) rozdziela cały teren między harcerzy, podając im sposoby porozumiewania się, np. znak: «na pomoc» — «znalazłem» — «nieprzyjaciel na tropie listu» — «list porwał nieprzyjaciel» itp. Każdy przeszukuje swój odcinek, przy czym zwiadowcy myszkują raz pojedynczo, raz parami, to się rozdzielają, to znów łączą. Ponieważ jest o wiele ważniejsze zdobycie listu niż wzięcie niewolnika, przeto w zasadzie unika się spotkań
-
-i tylko wtedy zmusza się przeciwnika do cofnięcia się lub robi nań zasadzkę (ew. przy wezwanej pomocy), gdy ten zbyt bruździ i uniemożliwia szukanie. To samo robią i czerwoni.
+Z powyższego opisu można sobie przedstawić przebieg ćwiczenia. Zastępowy białych (czerwonych) rozdziela cały teren między harcerzy, podając im sposoby porozumiewania się, np. znak: «na pomoc» — «znalazłem» — «nieprzyjaciel na tropie listu» — «list porwał nieprzyjaciel» itp. Każdy przeszukuje swój odcinek, przy czym zwiadowcy myszkują raz pojedynczo, raz parami, to się rozdzielają, to znów łączą. Ponieważ jest o wiele ważniejsze zdobycie listu niż wzięcie niewolnika, przeto w zasadzie unika się spotkań i tylko wtedy zmusza się przeciwnika do cofnięcia się lub robi nań zasadzkę (ew. przy wezwanej pomocy), gdy ten zbyt bruździ i uniemożliwia szukanie. To samo robią i czerwoni.
 
 Ostatecznie ktoś odnalazł schowek listu. I wtedy albo go zabiera, unikając wszelkich spotkań a szukając oparcia o swoich, albo jeżeli obecność nieprzyjaciela uniemożliwia zabranie listu, zawiadamia o tym przyjaciół i z ich pomocą go unosi. Ostentacyjne zabranie listu może pociągnąć za sobą jego utratę, gdyż przeciwnik może zerwać opaskę, a wtedy list musi być oddany. Może koło schowka przyjść nawet do spotkania wręcz, a w czasie utarczki uda się komuś list porwać i z nim czmychnąć.
 

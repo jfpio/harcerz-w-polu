@@ -19,9 +19,7 @@ sidebar:
 
 > **Gra oznaczona w książce gwiazdką:** odpowiedniejsza dla starszych harcerzy.
 
-Zastęp harcerski, i to każdy harcerz z osobna, ma wyszukać jakiś przedmiot terenu na oznaczonej z góry przestrzeni kilku kilometrów kwadratowych. Niech to będzie chata, loch, zagajnik, stos belek itp. W celu zmuszenia zwiadowcy do orientowania się według stron świata dodaj, że ów przedmiot leży
-
-w kierunku PnW od przydrożnego krzyża, inny w kierunku PdPdZ od drzewa samotnie stojącego itp. Wskazówki te powinny być ścisłe na podstawie naocznego stwierdzenia rzeczy lub na podstawie mapy.
+Zastęp harcerski, i to każdy harcerz z osobna, ma wyszukać jakiś przedmiot terenu na oznaczonej z góry przestrzeni kilku kilometrów kwadratowych. Niech to będzie chata, loch, zagajnik, stos belek itp. W celu zmuszenia zwiadowcy do orientowania się według stron świata dodaj, że ów przedmiot leży w kierunku PnW od przydrożnego krzyża, inny w kierunku PdPdZ od drzewa samotnie stojącego itp. Wskazówki te powinny być ścisłe na podstawie naocznego stwierdzenia rzeczy lub na podstawie mapy.
 
 Każdy ma swój przedmiot wyszukać, dobrze go obejrzeć, zapamiętać jego charakterystyczne cechy i naszkicować jego położenie względem stron świata i najbliższych okolicznych przedmiotów. Na miejscu zbiórki porównuje się szkice i wskazuje błędy. Można oznaczyć z góry czas poszukiwań.
 

@@ -2,6 +2,13 @@
   "status": "ocr-beta",
   "pages": 260,
   "games": 117,
+  "lineBreaks": {
+    "detected": 153,
+    "autoJoined": 141,
+    "review": 12,
+    "highConfidence": 141,
+    "mediumConfidence": 12
+  },
   "pageSummary": [
     {
       "pdfPage": 1,

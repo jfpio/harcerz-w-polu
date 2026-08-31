@@ -31,9 +31,7 @@ Bieg harcerski może być stosunkowo krótką zabawą, a może trwać i cały dz
 
 Skoro mowa o czasie, to należy podkreślić, że te okoliczności należy poważnie wziąć w rachubę przy układaniu biegu. Na każdą przeszkodę musi być mianowicie dokładnie określony czas, w jakim ma być ona pokonana, czas który zastępowi poda dany sędzia. Oczywiście muszą być i wskazówki dla sędziego, jakie objaśnienia wolno mu podać harcerzom, a co ma bezwzględnie zostawić ich pomysłowości.
 
-Po upływie czasu wyznaczonego na pokonanie przeszkody, sędzia przerywa pracę, bez względu na to,
-
-czy i jak zadanie zostało wykonane, w każdym razie, jeżeli je błędnie lub źle wykonano, winien harcerzy pouczyć, co było dobrego, a co złego, i puścić ich w dalszą drogę.
+Po upływie czasu wyznaczonego na pokonanie przeszkody, sędzia przerywa pracę, bez względu na to, czy i jak zadanie zostało wykonane, w każdym razie, jeżeli je błędnie lub źle wykonano, winien harcerzy pouczyć, co było dobrego, a co złego, i puścić ich w dalszą drogę.
 
 Bieg harcerski może stanowić pewną zamkniętą całość, tj. mieć pewien ogólny temat, a wszystkie przeszkody (a może ich być nawet 10) odpowiadają temu tematowi i są niejako składowymi jego częściami albo też każda przeszkoda stanowi odrębną całość i nie jest powiązana z przeszkodą następną. Tak bywa najczęściej i takie ułożenie biegu jest znacznie łatwiejsze.
 
@@ -43,9 +41,7 @@ A teraz przykład takiego biegu, złożonego z elementów czysto terenowych.
 
 I. Marsz brzegiem lasu aż do napotkania sędziego. Sędzia milczy. Zastęp znajduje znak na drzewie (kwadrat z 2 strzałami), że w pobliżu są ukryte kartki i to dwie: na jednej pismo szyfrem, na drugiej klucz do szyfru, rysunkiem przedstawiony, łatwy, lecz trzeba dopiero wykombinować, na czym polega. Odczytano zadanie, które polega na zmierzeniu wysokości stojącej obok samotnej topoli.
 
-II. Sędzia podaje dalszy kierunek — Z, marsz około 1000 kroków. W połowie drogi słychać z boku sygnał gwizdkiem, powtarzający się co chwilę: 3 krótkie gwizdy, 3 długie, 3 krótkie (S-O-S). Czy pójdą dalej, czy zboczą w stronę sygnału i czy bezzwłocznie, czy dopiero wtedy, gdy po przejściu 1000 kroków nie znajdą sędziego? Bo sędzia dawał sygnał, a teraz daje rozkaz: założyć opatrunek na złamany goleń leżącemu
-
-harcerzowi. A pod ręką tylko kilka krajek, materiał trzeba zebrać.
+II. Sędzia podaje dalszy kierunek — Z, marsz około 1000 kroków. W połowie drogi słychać z boku sygnał gwizdkiem, powtarzający się co chwilę: 3 krótkie gwizdy, 3 długie, 3 krótkie (S-O-S). Czy pójdą dalej, czy zboczą w stronę sygnału i czy bezzwłocznie, czy dopiero wtedy, gdy po przejściu 1000 kroków nie znajdą sędziego? Bo sędzia dawał sygnał, a teraz daje rozkaz: założyć opatrunek na złamany goleń leżącemu harcerzowi. A pod ręką tylko kilka krajek, materiał trzeba zebrać.
 
 III. Marsz pod kątem kierunkowym 135° do czwartej przeszkody. Potok. Rozkaz: zrobić kładkę z leżącego obok materiału.
 

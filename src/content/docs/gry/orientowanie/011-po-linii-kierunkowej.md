@@ -39,9 +39,7 @@ b) Można także postąpić w inny sposób, przy którym nie zachodzi potrzeba o
 ustawia się na niej busolę tak, by linia Pn—Pd na
 tarczy busoli była równoległa do bocznej krawędzi
 mapy. Teraz odczytuję tę kreskę (stopień) podziałki
-na tarczy, która połączona ze środkiem busoli będzie
-
-równoległa do kierunku oznaczonego na mapie (tj. kierunku łączącego moje stanowisko ze znakiem przedmiotu, do którego mam zdążać). Kierunek ten przenoszę teraz w teren: oto obracam się z busolą tak długo, dopóki linia Pn—Pd nie zgodzi się z kierunkiem igły magnetycznej (przy czym uwzględniam de-
+na tarczy, która połączona ze środkiem busoli będzie równoległa do kierunku oznaczonego na mapie (tj. kierunku łączącego moje stanowisko ze znakiem przedmiotu, do którego mam zdążać). Kierunek ten przenoszę teraz w teren: oto obracam się z busolą tak długo, dopóki linia Pn—Pd nie zgodzi się z kierunkiem igły magnetycznej (przy czym uwzględniam de-
 
 ![img-7.jpeg](/harcerz-w-polu/book/assets/page-072-img-7.jpeg)
 

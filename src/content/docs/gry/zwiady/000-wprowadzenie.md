@@ -29,13 +29,17 @@ b) Nie ukazuj się nigdy na linii horyzontu, bo wtedy twe kontury wyjdą najwyra
 
 c) Ile możliwości jak najmniej poruszaj głową w czasie obserwacji a szczególniej wtedy, gdy sądzisz, iż przeciwnik patrzy w twoją stronę.
 
-d) Jeżeli śledzisz spoza pniaka, głazu itp., to nie wyglądaj zza szczytu, lecz z boku, tuż przy ziemi; również spoza drzewa obserwuj w pozycji leżącej. Jeżeliś skryty za krzakiem, to nie patrz ponad nim lub z boku, lecz pomalu rozchyl gałązki i patrz przez otwór między liśćmi.
+d) Jeżeli śledzisz spoza pniaka, głazu itp., to nie wyglądaj zza szczytu, lecz z boku, tuż przy ziemi; również spoza drzewa obserwuj w pozycji leżącej. Je-
+
+żeliś skryty za krzakiem, to nie patrz ponad nim lub z boku, lecz pomalu rozchyl gałązki i patrz przez otwór między liśćmi.
 
 e) W lesie nie posuwaj się aż na jego brzeg, zostań w głębi i szukaj widoku między pniami, czołgając się tylko o tyle naprzód, o ile to koniecznie potrzebne. W domu nie stawaj w oknie, lecz śledź z głębi pokoju.
 
 f) Ponieważ przy podchodzeniu masz się podkrąć niepostrzeżenie, raczej nadłóż drogi, niżbyś się miał zdradzić. Wyzyskuj przy tym wszystkie nierówności gruntu. Jeżeli zaś musisz koniecznie przejść przez pewne wzniesienie, czy to odkryty wzgórek, czy płot itp., to przechodź je jak najprędzej.
 
-g) Postawa, w jakiej się podkradasz, zależy od terenu, po którym się posuwasz. Jeżeli on daje ci dobre ukrycie, to się zbliżasz w postawie wyprostowanej, aby na później sił oszczędzić. Zniża się osłona, to i ty musisz się pochylić, aż ostatecznie przejdziesz do czołgania, a nawet pełzania.
+g) Postawa, w jakiej się podkradasz, zależy od terenu, po którym się posuwasz. Jeżeli on daje ci do-
+
+bre ukrycie, to się zbliżasz w postawie wyprostowanej, aby na później sił oszczędzić. Zniża się osłona, to i ty musisz się pochylić, aż ostatecznie przejdziesz do czołgania, a nawet pełzania.
 
 ![img-0.jpeg](/harcerz-w-polu/book/assets/page-144-img-0.jpeg)
 

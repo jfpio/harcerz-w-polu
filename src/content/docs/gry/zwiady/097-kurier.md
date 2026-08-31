@@ -21,9 +21,7 @@ sidebar:
 
 Teren, na którym odbywa się ćwiczenie, posiada dokładnie określone granice. Przez niego ma przejść kurier i złożyć depeszę w oznaczonym punkcie (może być takich punktów kilka).
 
-Kurierem jest zastępowy biały, który prócz odznaki partii ma na ramieniu jeszcze drugą. Eskortuje go 1—2 harcerzy, reszta zastępu ułatwia mu drogę, przeszukując teren, ostrzegając wcześnie o niebezpieczeństwie, odpędzając czerwonych itp. Przed ćwiczeniem musi zatem zastępowy wszystkich objaśnić, którędy pójdzie i w jaki sposób mają mu w drodze pomagać. Jeżeli zmuszony jest
-
-drogę pierwotną zmienić, stara się o tym swoich zawiadomić, musi więc utrzymywać z nimi ustawiczny kontakt. Wolno mu także w razie wielkiego niebezpieczeństwa oddać depeszę jednemu z eskorty, lecz w takim razie musi także oddać i swoją odznakę kuriera. Depesza ma być schowana w kieszeni bluzki, nie wolno jej niszczyć ani gdzie indziej ukrywać.
+Kurierem jest zastępowy biały, który prócz odznaki partii ma na ramieniu jeszcze drugą. Eskortuje go 1—2 harcerzy, reszta zastępu ułatwia mu drogę, przeszukując teren, ostrzegając wcześnie o niebezpieczeństwie, odpędzając czerwonych itp. Przed ćwiczeniem musi zatem zastępowy wszystkich objaśnić, którędy pójdzie i w jaki sposób mają mu w drodze pomagać. Jeżeli zmuszony jest drogę pierwotną zmienić, stara się o tym swoich zawiadomić, musi więc utrzymywać z nimi ustawiczny kontakt. Wolno mu także w razie wielkiego niebezpieczeństwa oddać depeszę jednemu z eskorty, lecz w takim razie musi także oddać i swoją odznakę kuriera. Depesza ma być schowana w kieszeni bluzki, nie wolno jej niszczyć ani gdzie indziej ukrywać.
 
 Czerwoni, którzy mają dwa razy więcej zastępów niż biali, usiłują przejąć depeszę, a przynajmniej nie dopuścić do jej przeniesienia w oznaczonym czasie. Wtedy bowiem walka będzie nierozegrana. Nie wolno im obsadzać punktów, do których depesza ma być dostawiona.
 

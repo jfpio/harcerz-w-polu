@@ -75,7 +75,9 @@ Jeżeli wcinam się wstecz od trzech przedmiotów terenu (co jest zabiegiem dok�
 
 Jak z powyższych opisów widać, szukanie stanowiska na mapie przeprowadza się w podobny sposób, jak orientowanie mapy.
 
-b) W inny dzień idzie zastęp w miejsce, gdzie nie tak łatwo oznaczyć swoje stanowisko na mapie. Ćwiczenie jak poprzednie, lecz zacznie się od oznaczania stanowiska zastępu. I raz wyszukuje się je, mając do rozporządzenia busolę dla zorientowania mapy, drugi raz jej nie mając — raz znając drogę, na której zastęp stoi, drugi raz nie znając nawet linii, po której zastęp się porusza itp. — jednym słowem,
+b) W inny dzień idzie zastęp w miejsce, gdzie nie tak łatwo oznaczyć swoje stanowisko na mapie. Ćwiczenie jak poprzednie, lecz zacznie się od ozna-
+
+czania stanowiska zastępu. I raz wyszukuje się je, mając do rozporządzenia busolę dla zorientowania mapy, drugi raz jej nie mając — raz znając drogę, na której zastęp stoi, drugi raz nie znając nawet linii, po której zastęp się porusza itp. — jednym słowem,
 
 ![img-8.jpeg](/harcerz-w-polu/book/assets/page-057-img-8.jpeg)
 
@@ -83,7 +85,9 @@ Rys. 9.
 
 stwarzając zastępowi różne, to łatwiejsze, to trudniejsze warunki dla wyszukania stanowiska. Potem opisuje się widziany teren, wyszukując w nim najważniejsze formy, rzeki z przejściami, pokrycie, linie komunikacyjne itd., i porównuje się rzecz widzianą z mapą.
 
-c) Z innego punktu obserwacyjnego zastęp wyszukuje w terenie przedmiot lub punkt wskazany na mapie albo odwrotnie wyszukuje na mapie, punkt wskazany w terenie. (W obu wypadkach należy naprzód mapę zorientować i znaleźć na niej własne stanowisko. Następnie w pierwszym wypadku wyznaczam kierunek szukanego przedmiotu, łącząc krawędzią linią własne stanowisko ze znakiem przedmiotu na mapie — w przedłużeniu tej linii leży w terenie szukany przedmiot. W drugim wypadku celuję przez stanowisko na mapie na przedmiot w terenie — na tej linii znajduje się znak danego przedmiotu na mapie).
+c) Z innego punktu obserwacyjnego zastęp wyszukuje w terenie przedmiot lub punkt wskazany na mapie albo odwrotnie wyszukuje na mapie, punkt wskazany w terenie. (W obu wypadkach należy naprzód mapę zorientować i znaleźć na niej własne stanowisko. Następnie w pierwszym wypadku wyznaczam kierunek szukanego przedmiotu, łącząc krawędzią linią własne stanowisko ze znakiem przedmiotu na mapie — w przedłużeniu tej linii leży w terenie szu-
+
+kany przedmiot. W drugim wypadku celuję przez stanowisko na mapie na przedmiot w terenie — na tej linii znajduje się znak danego przedmiotu na mapie).
 
 Również oblicza zastęp na podstawie mapy różnicę wysokości między punktem wskazanym w terenie a własnym stanowiskiem. (Po zorientowaniu mapy i ustaleniu na niej stanowiska oraz wskazanego punktu odczytuję wysokości bezwzględne stanowiska i wskazanego punktu i obliczam różnicę).
 

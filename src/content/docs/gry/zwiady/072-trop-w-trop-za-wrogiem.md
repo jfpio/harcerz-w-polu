@@ -17,9 +17,7 @@ sidebar:
 
 > **Transkrypcja OCR — wersja beta.** Tekst zachowuje pisownię wydania z 1946 roku. Jeżeli zauważysz błąd rozpoznania, użyj odsyłacza „Edytuj stronę” na dole.
 
-Zastęp zdąża do celu, oddalonego o godzinę marszu, idąc ściśle wyznaczoną drogą i mając kilka zadań do spełnienia podczas marszu i to w oznaczonych miejscach, np. dwa postoje, mierzenie szerokości rzeki,
-
-sygnalizowanie semaforem z 2 pagórków itp. U celu ma rozbić obóz. Nie wie jednak, że drugi zastęp ma za zadanie go śledzić a nie zdradzić przy tym swej bytności. Czy drugi zastęp potrafi dojść do celu niezauważony i zobaczyć rozbijanie obozu i czy zdoła podać przy tym dokładnie, jakie czynności wykonał w czasie marszu pierwszy zastęp — a pierwszy czy spostrzeże, że jest śledzony, a jeśli tak, czy potrafi ujść oczu tropiciela, zmylić pościg i niepostrzeżenie rozbić obóz?
+Zastęp zdąża do celu, oddalonego o godzinę marszu, idąc ściśle wyznaczoną drogą i mając kilka zadań do spełnienia podczas marszu i to w oznaczonych miejscach, np. dwa postoje, mierzenie szerokości rzeki, sygnalizowanie semaforem z 2 pagórków itp. U celu ma rozbić obóz. Nie wie jednak, że drugi zastęp ma za zadanie go śledzić a nie zdradzić przy tym swej bytności. Czy drugi zastęp potrafi dojść do celu niezauważony i zobaczyć rozbijanie obozu i czy zdoła podać przy tym dokładnie, jakie czynności wykonał w czasie marszu pierwszy zastęp — a pierwszy czy spostrzeże, że jest śledzony, a jeśli tak, czy potrafi ujść oczu tropiciela, zmylić pościg i niepostrzeżenie rozbić obóz?
 
 ---
 

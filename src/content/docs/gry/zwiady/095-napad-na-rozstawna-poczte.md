@@ -19,9 +19,7 @@ sidebar:
 
 > **Gra oznaczona w książce gwiazdką:** odpowiedniejsza dla starszych harcerzy.
 
-W miejscu zbiórki pozostaje jeden harcerz biały, cały zaś zastęp rusza w oznaczonym kierunku do wytkniętego celu, oddalonego o godzinę drogi. Marsz odbywa się po części drogą, po części zaś przez poboczny teren. Co 10—15 minut zostawia się w dobrej kryjówce pojedynczych harcerzy (ew. dwóch), przez co powstaje łańcuch pośrednich stacyj pocztowych, przez który pójdą depesze do stacji odbiorczej. Tak dojdzie
-
-do celu zastępowy z kilku pozostałymi harcerzami. Stamtąd od czasu do czasu (co 10—20 minut) wysyła się gońca z depeszą. Ten ma odnaleźć najbliższą stację i zluzować ukrytego tam gońca, który depeszę poniesie znowu dalej do stacji następnej. Depesze muszą być numerowane i opatrzone podpisem zastępowego — niesie się je w kieszeni bluzki.
+W miejscu zbiórki pozostaje jeden harcerz biały, cały zaś zastęp rusza w oznaczonym kierunku do wytkniętego celu, oddalonego o godzinę drogi. Marsz odbywa się po części drogą, po części zaś przez poboczny teren. Co 10—15 minut zostawia się w dobrej kryjówce pojedynczych harcerzy (ew. dwóch), przez co powstaje łańcuch pośrednich stacyj pocztowych, przez który pójdą depesze do stacji odbiorczej. Tak dojdzie do celu zastępowy z kilku pozostałymi harcerzami. Stamtąd od czasu do czasu (co 10—20 minut) wysyła się gońca z depeszą. Ten ma odnaleźć najbliższą stację i zluzować ukrytego tam gońca, który depeszę poniesie znowu dalej do stacji następnej. Depesze muszą być numerowane i opatrzone podpisem zastępowego — niesie się je w kieszeni bluzki.
 
 Dotąd rzecz prosta i łatwa. Lecz z miejsca zbiórki, w 20 minut po zastępie białych, rusza zastęp czerwonych. Ci wiedzą tylko tyle, że w okolicy krążą gońcy z depeszami i że istnieje rozstawna poczta. Lecz której ona wiedzie i gdzie są poszczególne stacje? Tę właśnie wiadomość starają się zdobyć czerwoni, bo idzie o przejęcie depeszy, a jeszcze więcej o przerwanie łańcucha i uniemożliwienie ich przesyłania.
 

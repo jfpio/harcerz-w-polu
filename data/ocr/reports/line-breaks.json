@@ -1,0 +1,5162 @@
+{
+  "status": "ocr-beta",
+  "summary": {
+    "detected": 153,
+    "autoJoined": 141,
+    "review": 12,
+    "highConfidence": 141,
+    "mediumConfidence": 12
+  },
+  "entries": [
+    {
+      "document": "gry/orientowanie/002-na-przelaj-z-mapa",
+      "pdfPages": [
+        58,
+        59
+      ],
+      "printedPages": [
+        52,
+        53
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Zastępowy robi na mapie kreskę, prowadząc ją przez możliwy do przebycia teren. Mapę wręcza jed-",
+      "after": "nemu harcerzowi i nakazuje mu prowadzić zastęp dokładnie według kreski. Reszta z mapami w ręku ma marsz kontrolować i na ew. wezwanie spros…",
+      "positions": {
+        "before": {
+          "pdfPage": 58,
+          "printedPage": 52,
+          "blockType": "text",
+          "top": 850,
+          "bottom": 896,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 59,
+          "printedPage": 53,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 334,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/004-na-przelaj-z-kompasem",
+      "pdfPages": [
+        60
+      ],
+      "printedPages": [
+        54
+      ],
+      "rule": "ocr-block-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…u, pokryła kreskę oznaczającą kierunek Pn—W. Teraz celuję w teren, wyszukując w nim odległy przedmiot (drzewo, chata itp.) leżący dokładnie",
+      "after": "w przedłużeniu zapałki i ruszam na niego (rys. 10). Doszedłszy doń, powtarzam czynność, szukając w ten sam sposób drugiego punktu na linii …",
+      "positions": {
+        "before": {
+          "pdfPage": 60,
+          "printedPage": 54,
+          "blockType": "text",
+          "top": 134,
+          "bottom": 248,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 60,
+          "printedPage": 54,
+          "blockType": "text",
+          "top": 246,
+          "bottom": 374,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/004-na-przelaj-z-kompasem",
+      "pdfPages": [
+        60
+      ],
+      "printedPages": [
+        54
+      ],
+      "rule": "ocr-block-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…cji terenu, to nie wpłynie to na zmianę kierunku marszu, jeżeli tylko trzymając przez ten czas nastawiony kompas, tj. bacząc nań ciągle, by",
+      "after": "z tego kierunku nie zboczyć, będę stale szedł w kierunku zapałki, tj. kreski Pn—W.",
+      "positions": {
+        "before": {
+          "pdfPage": 60,
+          "printedPage": 54,
+          "blockType": "text",
+          "top": 373,
+          "bottom": 528,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 60,
+          "printedPage": 54,
+          "blockType": "text",
+          "top": 520,
+          "bottom": 567,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/004-na-przelaj-z-kompasem",
+      "pdfPages": [
+        61,
+        62
+      ],
+      "printedPages": [
+        55,
+        56
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…rys. 12), mogę odczytać kąt kierunkowy wprost z busoli po wycelowaniu na punkt w terenie linii Pn—Pd (w danym wypadku 45°). Wystarczy zatem",
+      "after": "celować jak pod a), lecz zamiast zapałką — linią Pn—Pd uważając, by igła padała na 45° (w pierwszym wypadku na 315°), gdyż miałem iść w kie…",
+      "positions": {
+        "before": {
+          "pdfPage": 61,
+          "printedPage": 55,
+          "blockType": "text",
+          "top": 771,
+          "bottom": 887,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 62,
+          "printedPage": 56,
+          "blockType": "text",
+          "top": 123,
+          "bottom": 211,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/005-w-lesie-z-kompasem",
+      "pdfPages": [
+        62,
+        63
+      ],
+      "printedPages": [
+        56,
+        57
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…d nakazanego mu kierunku marszu. Nie będzie błędem, gdy wracający harcerz nie dojdzie do zrobionego znaku (lub go minie), teren bowiem może",
+      "after": "być spadzisty, powrót zatem pod górę trwać będzie dłużej, błędem natomiast będzie większe odchylenie od kierunku marszu.",
+      "positions": {
+        "before": {
+          "pdfPage": 62,
+          "printedPage": 56,
+          "blockType": "text",
+          "top": 636,
+          "bottom": 773,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 63,
+          "printedPage": 57,
+          "blockType": "text",
+          "top": 147,
+          "bottom": 213,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/005-w-lesie-z-kompasem",
+      "pdfPages": [
+        63,
+        64
+      ],
+      "printedPages": [
+        57,
+        58
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…otnie igłę nastawioną na 315° (azymut: 360—315 = 45° p. rys. 12), nastawia ją na 225° (315—90 = 225), drugi z 250° (azymut: 360—250 = 110°)",
+      "after": "na 160° (250—90 = 160), trzeci z 135° (azymut;",
+      "positions": {
+        "before": {
+          "pdfPage": 63,
+          "printedPage": 57,
+          "blockType": "text",
+          "top": 790,
+          "bottom": 901,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 64,
+          "printedPage": 58,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/005-w-lesie-z-kompasem",
+      "pdfPages": [
+        64
+      ],
+      "printedPages": [
+        58
+      ],
+      "rule": "ocr-block-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "będą po ich minię-",
+      "after": "ciu, gdyż inaczej przedstawiają się one ze strony prze-",
+      "positions": {
+        "before": {
+          "pdfPage": 64,
+          "printedPage": 58,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 64,
+          "printedPage": 58,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/005-w-lesie-z-kompasem",
+      "pdfPages": [
+        64
+      ],
+      "printedPages": [
+        58
+      ],
+      "rule": "ocr-block-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "tym, że po marszu",
+      "after": "w dwóch kierunkach harcerz nie wraca tą samą, lecz",
+      "positions": {
+        "before": {
+          "pdfPage": 64,
+          "printedPage": 58,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 64,
+          "printedPage": 58,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/005-w-lesie-z-kompasem",
+      "pdfPages": [
+        64,
+        65
+      ],
+      "printedPages": [
+        58,
+        59
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "muje się przeto dwukrotnie. Z początku daje się za-",
+      "after": "sadnicze, więc łatwe kierunki jak w rys. 16 — potem kąty kierunkowe, jak w rys. 10. Tak tutaj, jak i w ćwiczeniu pod b) należy w miejscach …",
+      "positions": {
+        "before": {
+          "pdfPage": 64,
+          "printedPage": 58,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 65,
+          "printedPage": 59,
+          "blockType": "text",
+          "top": 149,
+          "bottom": 365,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/006-w-poszukiwaniu-gonca",
+      "pdfPages": [
+        65,
+        66
+      ],
+      "printedPages": [
+        59,
+        60
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…esztę rozkazów. Nr 2 szuka Nr 3 itd., a ostatni szuka zastępowego. Pytanie: o jakim czasie przyjdzie ostatni harcerz? Z mapy można obliczyć",
+      "after": "drogę i osądzić, czy całe ćwiczenie odbyło się w dobrym, czy złym czasie. (Rozkazy są krótkie, np. kierunek Pn Z, oddalenie 300 kroków, poł…",
+      "positions": {
+        "before": {
+          "pdfPage": 65,
+          "printedPage": 59,
+          "blockType": "text",
+          "top": 704,
+          "bottom": 901,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 66,
+          "printedPage": 60,
+          "blockType": "text",
+          "top": 131,
+          "bottom": 306,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/007-w-ukryciu-do-znikajacego-celu",
+      "pdfPages": [
+        66,
+        67
+      ],
+      "printedPages": [
+        60,
+        61
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…j strony, niż wyruszył, bo wówczas cała konfiguracja terenu inaczej mu będzie się przedstawiać — będzie krążył wokół, aż w końcu dojdzie do",
+      "after": "celu. Idąc z zastępem, musisz kontrolować jego drogę, tj. wymagać, ażeby posuwał się w ukryciu. Właśnie to przystosowanie marszu do ukształ…",
+      "positions": {
+        "before": {
+          "pdfPage": 66,
+          "printedPage": 60,
+          "blockType": "text",
+          "top": 754,
+          "bottom": 890,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 67,
+          "printedPage": 61,
+          "blockType": "text",
+          "top": 143,
+          "bottom": 233,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/010-etapami-do-celu",
+      "pdfPages": [
+        69,
+        70
+      ],
+      "printedPages": [
+        63,
+        64
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…który stwierdza przybycie zastępu i kontroluje długość odpoczynku. Inni rozmieszczeni w miejscach, skąd ma się przegląd okolicy, kontrolują",
+      "after": "marsz. Biegać bowiem nie wolno pod groźbą zdyskwalifikowania.",
+      "positions": {
+        "before": {
+          "pdfPage": 69,
+          "printedPage": 63,
+          "blockType": "text",
+          "top": 604,
+          "bottom": 883,
+          "pageHeight": 1019
+        },
+        "after": {
+          "pdfPage": 70,
+          "printedPage": 64,
+          "blockType": "text",
+          "top": 130,
+          "bottom": 173,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/011-po-linii-kierunkowej",
+      "pdfPages": [
+        70
+      ],
+      "printedPages": [
+        64
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "Oznaczony na mapie kierunek można przy pomocy kompasu (busoli) przenieść w teren:",
+      "after": "Znajdź na mapie wybitny przedmiot terenu, np. krzyż, most itp., i oblicz kąt, o jaki zbacza jego linia kierunkowa (tj. linia, łącząca twe s…",
+      "positions": {
+        "before": {
+          "pdfPage": 70,
+          "printedPage": 64,
+          "blockType": "text",
+          "top": 621,
+          "bottom": 667,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 70,
+          "printedPage": 64,
+          "blockType": "text",
+          "top": 665,
+          "bottom": 774,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/011-po-linii-kierunkowej",
+      "pdfPages": [
+        71,
+        72
+      ],
+      "printedPages": [
+        65,
+        66
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "na tarczy, która połączona ze środkiem busoli będzie",
+      "after": "równoległa do kierunku oznaczonego na mapie (tj. kierunku łączącego moje stanowisko ze znakiem przedmiotu, do którego mam zdążać). Kierunek…",
+      "positions": {
+        "before": {
+          "pdfPage": 71,
+          "printedPage": 65,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1021
+        },
+        "after": {
+          "pdfPage": 72,
+          "printedPage": 66,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 274,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/012-odnajdywanie-drogi",
+      "pdfPages": [
+        73,
+        74
+      ],
+      "printedPages": [
+        67,
+        68
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…jsce i po postoju wraca się tą samą drogą, ale już z mapą w ręku i stwierdza, gdzie były zboczenia od nakazanej drogi. (Każdy utrwala sobie",
+      "after": "w pamięci przy czytaniu mapy obraz całej drogi, dzieląc ją sobie na odcinki, np. szosą na Z do kapliczki — ścieżką przez pole na Pn do most…",
+      "positions": {
+        "before": {
+          "pdfPage": 73,
+          "printedPage": 67,
+          "blockType": "text",
+          "top": 663,
+          "bottom": 902,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 74,
+          "printedPage": 68,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 229,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/013-na-wywiad-dowolna-droga",
+      "pdfPages": [
+        74,
+        75
+      ],
+      "printedPages": [
+        68,
+        69
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ść dla wszystkich powinna być mniej więcej jednakowa, podobnie i samo zadanie powinno im zająć taki sam czas. Kto przyniesie pisemny wywiad",
+      "after": "w określonym czasie? (Należy powrócić bez względu na ukończenie zadania). Ścisłość wywiadu należy sprawdzić. Całe zadanie powinno się odbyć…",
+      "positions": {
+        "before": {
+          "pdfPage": 74,
+          "printedPage": 68,
+          "blockType": "text",
+          "top": 824,
+          "bottom": 891,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 75,
+          "printedPage": 69,
+          "blockType": "text",
+          "top": 133,
+          "bottom": 224,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/015-czy-znajdziesz",
+      "pdfPages": [
+        75,
+        76
+      ],
+      "printedPages": [
+        69,
+        70
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ędzie chata, loch, zagajnik, stos belek itp. W celu zmuszenia zwiadowcy do orientowania się według stron świata dodaj, że ów przedmiot leży",
+      "after": "w kierunku PnW od przydrożnego krzyża, inny w kierunku PdPdZ od drzewa samotnie stojącego itp. Wskazówki te powinny być ścisłe na podstawie…",
+      "positions": {
+        "before": {
+          "pdfPage": 75,
+          "printedPage": 69,
+          "blockType": "text",
+          "top": 661,
+          "bottom": 795,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 76,
+          "printedPage": 70,
+          "blockType": "text",
+          "top": 121,
+          "bottom": 210,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/016-z-pobieznym-szkicem-w-reku",
+      "pdfPages": [
+        77
+      ],
+      "printedPages": [
+        71
+      ],
+      "rule": "ocr-block-duplicate-word-fragment",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Urozmaici się ćwiczenie, dodając zadanie, ażeby szkic uzupełnić wrysowaniem weń jeszcze kilku wybitnych przedmiotów terenu, których",
+      "after": "rych miejsce należy ustalić przy pomocy busoli tak, ażeby szkic przedstawiał teraz w całości pewną wartość. Harcerze muszą zatem naprzód wy…",
+      "positions": {
+        "before": {
+          "pdfPage": 77,
+          "printedPage": 71,
+          "blockType": "text",
+          "top": 547,
+          "bottom": 680,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 77,
+          "printedPage": 71,
+          "blockType": "text",
+          "top": 667,
+          "bottom": 810,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/017-po-rozy-wiatrow",
+      "pdfPages": [
+        78
+      ],
+      "printedPages": [
+        72
+      ],
+      "rule": "ocr-block-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…akim ma iść dalej do właściwego celu, i odległość, w jakiej ten cel się znajduje (100—300 kroków). Celem tym jest druga chorągiewka tej sa-",
+      "after": "mej wysokości i barwy, co pierwsza. Kto (ew. która dwójka) wróci z jedną chorągiewką, a kto — co jest właściwym zadaniem — przyniesie obie?…",
+      "positions": {
+        "before": {
+          "pdfPage": 78,
+          "printedPage": 72,
+          "blockType": "text",
+          "top": 357,
+          "bottom": 638,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 78,
+          "printedPage": 72,
+          "blockType": "text",
+          "top": 628,
+          "bottom": 703,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/017-po-rozy-wiatrow",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "printedPages": [
+        72,
+        73
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ć dalej ściśle podaną na kartce linią kierunkową (tj. pod podanym kątem kierunkowym) i dokładnie w podanej odległości umieścić drugą chorą-",
+      "after": "giewkę. Te powinny być dla wszystkich jednakowo widoczne.",
+      "positions": {
+        "before": {
+          "pdfPage": 78,
+          "printedPage": 72,
+          "blockType": "text",
+          "top": 695,
+          "bottom": 852,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 79,
+          "printedPage": 73,
+          "blockType": "text",
+          "top": 135,
+          "bottom": 178,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/018-szukanie-maszerujacego-oddzialu",
+      "pdfPages": [
+        79
+      ],
+      "printedPages": [
+        73
+      ],
+      "rule": "ocr-block-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ugi patrol wywiadowczy. Oddział maszeruje np. drogą A—B, a patrol zostaje wysłany do C, z poleceniem sprawdzenia, czy tam znajduje się nie-",
+      "after": "przyjaciel, a potem do L dla przeszukania lasku. Z obu miejsc mają gońcy przynieść wiadomości posuwającemu się drogą oddziałowi.",
+      "positions": {
+        "before": {
+          "pdfPage": 79,
+          "printedPage": 73,
+          "blockType": "text",
+          "top": 455,
+          "bottom": 542,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 79,
+          "printedPage": 73,
+          "blockType": "text",
+          "top": 542,
+          "bottom": 690,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/018-szukanie-maszerujacego-oddzialu",
+      "pdfPages": [
+        79
+      ],
+      "printedPages": [
+        73
+      ],
+      "rule": "ocr-block-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Każdy goniec po spełnieniu swego zadania rusza w kierunku, w którym najprawdopodobniej natknie się na maszeru-",
+      "after": "jący oddział i orientuje się, ażeby drogi nie zmylić. Jeżeli trafi na oddział to dobrze, jeżeli nie, to albo na podstawie wywiadów u przech…",
+      "positions": {
+        "before": {
+          "pdfPage": 79,
+          "printedPage": 73,
+          "blockType": "text",
+          "top": 690,
+          "bottom": 817,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 79,
+          "printedPage": 73,
+          "blockType": "text",
+          "top": 816,
+          "bottom": 884,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie/018-szukanie-maszerujacego-oddzialu",
+      "pdfPages": [
+        80,
+        81
+      ],
+      "printedPages": [
+        74,
+        75
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ostał umieszczony jakiś nieprzyjacielski oddziałek, który zmusił maszerujący oddział do zboczenia od pierwotnego kierunku marszu — to przez",
+      "after": "to trudności i dla gońca, i dla patrolu, wysłanego na zwiady, a obecnie odciętego, wzmogą się dziesięciokrotnie. Nie tylko bowiem będzie sz…",
+      "positions": {
+        "before": {
+          "pdfPage": 80,
+          "printedPage": 74,
+          "blockType": "text",
+          "top": 788,
+          "bottom": 875,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 81,
+          "printedPage": 75,
+          "blockType": "text",
+          "top": 128,
+          "bottom": 302,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/025-obserwacja-drogi",
+      "pdfPages": [
+        90
+      ],
+      "printedPages": [
+        84
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "…wo i na lewo od drogi, jak i na przedmioty bliskie i dalekie. Spostrzeżenia należy ponadto zapamiętać. Złoży się z tego odmienne ćwiczenie:",
+      "after": "Zapowiada się mianowicie pilną obserwację drogi na przestrzeni np. 3 km. Po jej przejściu — postój, a kierownik zadaje szereg pytań: «Jakie…",
+      "positions": {
+        "before": {
+          "pdfPage": 90,
+          "printedPage": 84,
+          "blockType": "text",
+          "top": 584,
+          "bottom": 735,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 90,
+          "printedPage": 84,
+          "blockType": "text",
+          "top": 735,
+          "bottom": 889,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/025-obserwacja-drogi",
+      "pdfPages": [
+        90,
+        91
+      ],
+      "printedPages": [
+        84,
+        85
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…iekawego było na dachu kościółka? — Jaki napis był na kapliczce przydrożnej? — Ile było drutów telegraficznych wzdłuż drogi? — Co było sły-",
+      "after": "chać przy wejściu na most? — Co było na lewym brzegu rzeki tuż przy moście?» itp.",
+      "positions": {
+        "before": {
+          "pdfPage": 90,
+          "printedPage": 84,
+          "blockType": "text",
+          "top": 735,
+          "bottom": 889,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 91,
+          "printedPage": 85,
+          "blockType": "text",
+          "top": 142,
+          "bottom": 191,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/028-magiczny-zakatek",
+      "pdfPages": [
+        92,
+        93
+      ],
+      "printedPages": [
+        86,
+        87
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…obserwuje przez kilka minut odcinek terenu o granicach dokładnie określonych przez zastępowego (kilkaset metrów wszerz i w głąb). Po obser-",
+      "after": "wacji odchodzi w miejsce zakryte, skąd tego odcinka nie widać.",
+      "positions": {
+        "before": {
+          "pdfPage": 92,
+          "printedPage": 86,
+          "blockType": "text",
+          "top": 815,
+          "bottom": 883,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 93,
+          "printedPage": 87,
+          "blockType": "text",
+          "top": 130,
+          "bottom": 183,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/029-od-placowki-do-placowki",
+      "pdfPages": [
+        94,
+        95
+      ],
+      "printedPages": [
+        88,
+        89
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…za kępą brzóz jest następna placówka») i natychmiast rusza dalej, utrwalając sobie w pamięci postawę i czynności wszystkich tworzących pla-",
+      "after": "cówkę. Po dojściu do drugiej dostaje znów wskazówki co do dalszej drogi itd., aż wróci na miejsce zboru. Czas wymarszu i powrotu każdego no…",
+      "positions": {
+        "before": {
+          "pdfPage": 94,
+          "printedPage": 88,
+          "blockType": "text",
+          "top": 559,
+          "bottom": 889,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 95,
+          "printedPage": 89,
+          "blockType": "text",
+          "top": 149,
+          "bottom": 236,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/032-kto-sie-pomyli",
+      "pdfPages": [
+        97
+      ],
+      "printedPages": [
+        91
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "Sygnalizację można uprawiać w formie zabawy lub gry. Oto jedna dla początkujących:",
+      "after": "Dwa zastępy stają w odległości kilkuset kroków i wystawiają sygnalizatorów. Biały podaje wyraz z 3—4 liter, czerwony go odczytuje (nikomu n…",
+      "positions": {
+        "before": {
+          "pdfPage": 97,
+          "printedPage": 91,
+          "blockType": "text",
+          "top": 589,
+          "bottom": 636,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 97,
+          "printedPage": 91,
+          "blockType": "text",
+          "top": 632,
+          "bottom": 829,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/032-kto-sie-pomyli",
+      "pdfPages": [
+        97,
+        98
+      ],
+      "printedPages": [
+        91,
+        92
+      ],
+      "rule": "page-boundary-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "Ten zastęp przegrywa, który wcześniej odpadnie. Potrzeba więc dobrze znać alfabet Morsego. Oto najlepszy sposób jego zapamiętania:",
+      "after": "Na każdą literę zapamiętaj jeden wyraz, zaczynający się od tej właśnie litery, której on odpowiada. Ile zgłosek w tym wyrazie, tyle jest zn…",
+      "positions": {
+        "before": {
+          "pdfPage": 97,
+          "printedPage": 91,
+          "blockType": "text",
+          "top": 824,
+          "bottom": 894,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 98,
+          "printedPage": 92,
+          "blockType": "text",
+          "top": 140,
+          "bottom": 250,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/035-na-migi",
+      "pdfPages": [
+        100,
+        101
+      ],
+      "printedPages": [
+        94,
+        95
+      ],
+      "rule": "page-boundary-continuation-dash",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…łgaj się do rowu na prawo», albo «Obejdź dom dookoła», albo «Idź na wzgórze na prawo, zobacz, czy tam jest nieprzyjaciel i daj znak» itp. —",
+      "after": "Po krótkim czasie harcerze nauczą się czytać myśli swego zastępowego. Jeśli można je często wyczytać z oczu lub z wyrazu twarzy, można je j…",
+      "positions": {
+        "before": {
+          "pdfPage": 100,
+          "printedPage": 94,
+          "blockType": "text",
+          "top": 656,
+          "bottom": 893,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 101,
+          "printedPage": 95,
+          "blockType": "text",
+          "top": 145,
+          "bottom": 235,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/035-na-migi",
+      "pdfPages": [
+        101
+      ],
+      "printedPages": [
+        95
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "A teraz zastosujmy odczytywanie myśli zastępowego w następującym ćwiczeniu:",
+      "after": "Kilku harcerzy stoi na wzgórzu, wcale się nie kryjąc. Widać ich z daleka. Teren wokół nieprzejrzysty, pagórkowaty, pełen zarośli, ogrodów, …",
+      "positions": {
+        "before": {
+          "pdfPage": 101,
+          "printedPage": 95,
+          "blockType": "text",
+          "top": 573,
+          "bottom": 620,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 101,
+          "printedPage": 95,
+          "blockType": "text",
+          "top": 616,
+          "bottom": 898,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/035-na-migi",
+      "pdfPages": [
+        101,
+        102
+      ],
+      "printedPages": [
+        95,
+        96
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… dawać!), i to raz pojedynczo podchodząc, raz w grupkach po 2—3, część w prawo, część w lewo itp. i to nie na własną rękę, tylko zawsze wy-",
+      "after": "konywając dawane znaki. Oczywiście, póki zastęp podkrada się w całości, rozkazy odbiera zastępca zastępowego, gdy się zaś zastęp rozsypie, …",
+      "positions": {
+        "before": {
+          "pdfPage": 101,
+          "printedPage": 95,
+          "blockType": "text",
+          "top": 616,
+          "bottom": 898,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 102,
+          "printedPage": 96,
+          "blockType": "text",
+          "top": 140,
+          "bottom": 292,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/036-za-znakami-w-szkicu",
+      "pdfPages": [
+        102,
+        103
+      ],
+      "printedPages": [
+        96,
+        97
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Można także dać taką kartkę każdemu z zastępu, a wówczas puszcza się ich kolejno w odstępach 10 mi-",
+      "after": "nut i znaczy u celu czas przybycia każdego. Kto przyjdzie w przeciągu przepisanego czasu?",
+      "positions": {
+        "before": {
+          "pdfPage": 102,
+          "printedPage": 96,
+          "blockType": "text",
+          "top": 843,
+          "bottom": 889,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 103,
+          "printedPage": 97,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 184,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/038-jak-kaza-znaki",
+      "pdfPages": [
+        103,
+        104
+      ],
+      "printedPages": [
+        97,
+        98
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…znaczących znaków, lecz jedynie takie, które mają określone znaczenie. Postępujący za nim zastęp śledzi za znakami i odpowiednio się zacho-",
+      "after": "wuje. Takich znaków jest mnóstwo, każdy zastęp oprócz ogólnie znanych może mieć także swoje tajemne znaki. I tak np. strzałka, czy to z pat…",
+      "positions": {
+        "before": {
+          "pdfPage": 103,
+          "printedPage": 97,
+          "blockType": "text",
+          "top": 762,
+          "bottom": 871,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 104,
+          "printedPage": 98,
+          "blockType": "text",
+          "top": 133,
+          "bottom": 307,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/039-ocenianie-odleglosci",
+      "pdfPages": [
+        111
+      ],
+      "printedPages": [
+        105
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "Przykład:",
+      "after": "Rzeczywista odległość wynosi 750 m.",
+      "positions": {
+        "before": {
+          "pdfPage": 111,
+          "printedPage": 105,
+          "blockType": "text",
+          "top": 142,
+          "bottom": 161,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 111,
+          "printedPage": 105,
+          "blockType": "text",
+          "top": 159,
+          "bottom": 179,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/042-miej-oczy-otwarte",
+      "pdfPages": [
+        112,
+        113
+      ],
+      "printedPages": [
+        106,
+        107
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…eżenie. Zastępowy, odbierając rysunek od czerwonego, zapytuje go, czy widział nadto co ciekawego i w razie odmownej odpowiedzi każe białemu",
+      "after": "opisać wszystkie jego czynności. Drugim razem będzie miał czerwony oczy otwarte.",
+      "positions": {
+        "before": {
+          "pdfPage": 112,
+          "printedPage": 106,
+          "blockType": "text",
+          "top": 804,
+          "bottom": 892,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 113,
+          "printedPage": 107,
+          "blockType": "text",
+          "top": 151,
+          "bottom": 197,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/043-wypatrywanie",
+      "pdfPages": [
+        113,
+        114
+      ],
+      "printedPages": [
+        107,
+        108
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Po wyszukaniu wszystkich ocenia się ich oddalenia. Każdy zapisuje oceny w swej karcie i to w kolei,",
+      "after": "nakazanej przez zastępowego. Potem podaje się faktyczne odległości dla przekonania się o ewentualnym błędzie.",
+      "positions": {
+        "before": {
+          "pdfPage": 113,
+          "printedPage": 107,
+          "blockType": "text",
+          "top": 854,
+          "bottom": 899,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 114,
+          "printedPage": 108,
+          "blockType": "text",
+          "top": 131,
+          "bottom": 197,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/044-znikajace-glowy",
+      "pdfPages": [
+        115,
+        116
+      ],
+      "printedPages": [
+        109,
+        110
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…horągiewką ku przeciwnikowi dla zwrócenia jego uwagi. W tej chwili wysuwa się ze swego wąwozu drugi zastęp i obserwuje pierwszy przez 2 mi-",
+      "after": "nuty, przy czym każdy harcerz notuje spostrzeżone głowy, jak podano w przykładzie. Po dwóch minutach powtórny gwizd i wszystko znika. Z kol…",
+      "positions": {
+        "before": {
+          "pdfPage": 115,
+          "printedPage": 109,
+          "blockType": "text",
+          "top": 740,
+          "bottom": 893,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 116,
+          "printedPage": 110,
+          "blockType": "text",
+          "top": 135,
+          "bottom": 459,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/045-kozackim-procederem",
+      "pdfPages": [
+        116,
+        117
+      ],
+      "printedPages": [
+        110,
+        111
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…zy obu partiami powinien być starannie wybrany. Niech rosną na nim pojedyncze drzewa, niech ma tu i ówdzie rozrzucone krzaki, kamienie, za-",
+      "after": "głębienia, kretowiska itp., niech jednym słowem daje jak najwięcej drobnych osłon dla ukrycia głowy. Podobnie ma wyglądać miejsce, gdzie mn…",
+      "positions": {
+        "before": {
+          "pdfPage": 116,
+          "printedPage": 110,
+          "blockType": "text",
+          "top": 818,
+          "bottom": 885,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 117,
+          "printedPage": 111,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 271,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/046-szkic-drogi",
+      "pdfPages": [
+        118,
+        119
+      ],
+      "printedPages": [
+        112,
+        113
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… czyli rysunek bardzo uproszczony, zawierający jedynie najważniejsze dla danego celu linie i przedmioty terenu. Lecz nawet do wykonania ta-",
+      "after": "kiego szkicu potrzeba pewnej wprawy i tę można ćwiczeniem łatwo i prędko zdobyć, lecz trzeba poznać z odpowiednich podręczników zasady i sp…",
+      "positions": {
+        "before": {
+          "pdfPage": 118,
+          "printedPage": 112,
+          "blockType": "text",
+          "top": 756,
+          "bottom": 889,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 119,
+          "printedPage": 113,
+          "blockType": "text",
+          "top": 142,
+          "bottom": 231,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/048-opuszczony-biwak",
+      "pdfPages": [
+        120,
+        121
+      ],
+      "printedPages": [
+        114,
+        115
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…zdają sprawozdanie na podstawie swych notatek, a kierownik najlepiej patrzącemu i wnioskującemu przyznaje pierwszeństwo, oceniając punktami",
+      "after": "wartość spostrzeżeń i wniosków (za dobrą ocenę daje oczywiście więcej punktów niż za stwierdzenie faktu). Drugi zastęp, po wysłuchaniu rela…",
+      "positions": {
+        "before": {
+          "pdfPage": 120,
+          "printedPage": 114,
+          "blockType": "text",
+          "top": 808,
+          "bottom": 899,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 121,
+          "printedPage": 115,
+          "blockType": "text",
+          "top": 145,
+          "bottom": 234,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/049-podarte-pismo",
+      "pdfPages": [
+        121,
+        122
+      ],
+      "printedPages": [
+        115,
+        116
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ze się tyle ćwiartek papieru, ile jest zastępów, na każdej wypisuje się ten sam rozkaz i to tak, ażeby liczba wierszy była jednakowa, każdy",
+      "after": "wiersz kończył się na tę samą zgłoskę, a treść zajmowała tę samą powierzchnię papieru — po czym drze się je na tę samą liczbę kawałków. Każ…",
+      "positions": {
+        "before": {
+          "pdfPage": 121,
+          "printedPage": 115,
+          "blockType": "text",
+          "top": 808,
+          "bottom": 897,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 122,
+          "printedPage": 116,
+          "blockType": "text",
+          "top": 145,
+          "bottom": 275,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/053-falszywe-tropy",
+      "pdfPages": [
+        127,
+        128
+      ],
+      "printedPages": [
+        121,
+        122
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Gdzie odpowiedni teren, można przerabiać opisane ćwiczenia w tropieniu także w ten sposób, że",
+      "after": "ślady znaczy się żelazami, przyczepionymi do trzewików. Żelazo takie odbija ślad, wybitnie się różniący od zwyczajnych śladów obuwia (kółko…",
+      "positions": {
+        "before": {
+          "pdfPage": 127,
+          "printedPage": 121,
+          "blockType": "text",
+          "top": 844,
+          "bottom": 893,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 128,
+          "printedPage": 122,
+          "blockType": "text",
+          "top": 139,
+          "bottom": 228,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/055-po-sniegu-za-tropem",
+      "pdfPages": [
+        129,
+        130
+      ],
+      "printedPages": [
+        123,
+        124
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "A wtedy można rozstrzygnąć rzecz w sposób następujący: tropieni wygrają, jeżeli ich nie znaleziono",
+      "after": "w określonym czasie i jeżeli ponadto zwycięża w walce, tj. zabiją np. połowę napadających — napastnicy wygrają, jeżeli na czas dojdą do ści…",
+      "positions": {
+        "before": {
+          "pdfPage": 129,
+          "printedPage": 123,
+          "blockType": "text",
+          "top": 841,
+          "bottom": 892,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 130,
+          "printedPage": 124,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 250,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc/057-szukanie-skarbu",
+      "pdfPages": [
+        131,
+        132
+      ],
+      "printedPages": [
+        125,
+        126
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…większe będzie zainteresowanie harcerzy przy tym bardzo dobrym ćwiczeniu, im sprytniej wyszukano schowki i im dowcipniej je opisano. Zastę-",
+      "after": "powy, rozmieszczając kartki, powinien zacząć od skarbu, a potem posuwać się wstecz i po kolei chować kartki, a nie odwrotnie, bo to robotę …",
+      "positions": {
+        "before": {
+          "pdfPage": 131,
+          "printedPage": 125,
+          "blockType": "text",
+          "top": 829,
+          "bottom": 901,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 132,
+          "printedPage": 126,
+          "blockType": "text",
+          "top": 148,
+          "bottom": 345,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/sluch/059-kocim-chodem",
+      "pdfPages": [
+        136,
+        137
+      ],
+      "printedPages": [
+        130,
+        131
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "nim kierunku i woła: «stój!». Zastępowy rozstrzyga,",
+      "after": "czy spostrzeżenie jest słuszne i albo je prostuje, a zabawa toczy się dalej, albo każe się usunąć temu, który się zdradził, a podkrada się …",
+      "positions": {
+        "before": {
+          "pdfPage": 136,
+          "printedPage": 130,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1021
+        },
+        "after": {
+          "pdfPage": 137,
+          "printedPage": 131,
+          "blockType": "text",
+          "top": 150,
+          "bottom": 259,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "gry/sluch/060-jak-waz-w-trawie",
+      "pdfPages": [
+        137,
+        138
+      ],
+      "printedPages": [
+        131,
+        132
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…a znak zastępowego, który raz podniesieniem ręki wstrzymuje wysłanego na kilka chwil, to znów wskazuje na innego itp. tak, by w środku koła",
+      "after": "znajdował się zawsze tylko jeden harcerz. W razie odkrycia zastępowy woła: «przerwa», podczas której wszyscy pozostają na swych miejscach, …",
+      "positions": {
+        "before": {
+          "pdfPage": 137,
+          "printedPage": 131,
+          "blockType": "text",
+          "top": 811,
+          "bottom": 898,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 138,
+          "printedPage": 132,
+          "blockType": "text",
+          "top": 135,
+          "bottom": 225,
+          "pageHeight": 1021
+        }
+      }
+    },
+    {
+      "document": "gry/sluch/062-kto-blizej",
+      "pdfPages": [
+        138,
+        139
+      ],
+      "printedPages": [
+        132,
+        133
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… już jest dość blisko, robi znak na dowód, że do tego miejsca istotnie dotarł. Potem wycofuje się ostrożnie (ew. ujawnia się, jeśli tak na-",
+      "after": "kazano). Lecz wartownik nadstawia uszu i gdy usłyszy podejrzany szmer, gwiżdże. Wszyscy zatrzymują się, a zastępowy sprawdza, czy w miejscu…",
+      "positions": {
+        "before": {
+          "pdfPage": 138,
+          "printedPage": 132,
+          "blockType": "text",
+          "top": 800,
+          "bottom": 892,
+          "pageHeight": 1021
+        },
+        "after": {
+          "pdfPage": 139,
+          "printedPage": 133,
+          "blockType": "text",
+          "top": 144,
+          "bottom": 295,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "gry/sluch/063-za-gwizdem",
+      "pdfPages": [
+        139,
+        140
+      ],
+      "printedPages": [
+        133,
+        134
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ę dobrze ściemni, jeden harcerz oddala się od zastępu i klucząc chowa się w miejscu, nikomu niewiadomym. Stamtąd raz gwiżdże. Reszta stojąc",
+      "after": "w grupce orientuje się, skąd gwizd doszedł i z jakiej odległości, i każdy rusza oddzielnie w ustalonym przez siebie kierunku, po czym staje…",
+      "positions": {
+        "before": {
+          "pdfPage": 139,
+          "printedPage": 133,
+          "blockType": "text",
+          "top": 825,
+          "bottom": 893,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 140,
+          "printedPage": 134,
+          "blockType": "text",
+          "top": 131,
+          "bottom": 305,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/sluch/065-podsluchy",
+      "pdfPages": [
+        140,
+        141
+      ],
+      "printedPages": [
+        134,
+        135
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…arcerza w oddaleniu 15 kroków. W pośrodku zastępowy. Naprzeciw, w oddaleniu 20—25 kroków, leży w ten sam sposób drugi zastęp. Zastępowy po-",
+      "after": "daje sąsiadowi z prawej i lewej strony zwykłym głosem jedno zdanie, np.: «Krzyż na kaplicy, pod laskiem». Ci podają je dalej, aż dojdzie do…",
+      "positions": {
+        "before": {
+          "pdfPage": 140,
+          "printedPage": 134,
+          "blockType": "text",
+          "top": 793,
+          "bottom": 882,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 141,
+          "printedPage": 135,
+          "blockType": "text",
+          "top": 131,
+          "bottom": 243,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/066-nauka-krycia-sie",
+      "pdfPages": [
+        145,
+        146
+      ],
+      "printedPages": [
+        139,
+        140
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ch drogi w oddaleniu najwyżej 50 kroków od niej. Każdy dla lepszego ukrycia się wyzyskuje załamania gruntu, kamienie, krzaki itp. Po 10 mi-",
+      "after": "nutach idzie drogą zastępowy, a jeśli kogo odkryje, daje mu znak do powstania i przyłączenia się do niego.",
+      "positions": {
+        "before": {
+          "pdfPage": 145,
+          "printedPage": 139,
+          "blockType": "text",
+          "top": 796,
+          "bottom": 889,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 146,
+          "printedPage": 140,
+          "blockType": "text",
+          "top": 136,
+          "bottom": 203,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/068-nauka-podchodzenia",
+      "pdfPages": [
+        147,
+        148
+      ],
+      "printedPages": [
+        141,
+        142
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…wuje równocześnie bez przerwy podchodzącego. Dlatego zastępowy, choć ujrzy którego z harcerzy, nie ocenia tego jako błędu. Dopiero gdy spo-",
+      "after": "strzeże prawdziwie błędne podchodzenie, daje sygnał gwizdkiem. Wszyscy pozostają bez ruchu, a wskazany ręką (chorągiewką) wstaje. Na powtór…",
+      "positions": {
+        "before": {
+          "pdfPage": 147,
+          "printedPage": 141,
+          "blockType": "text",
+          "top": 583,
+          "bottom": 906,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 148,
+          "printedPage": 142,
+          "blockType": "text",
+          "top": 148,
+          "bottom": 237,
+          "pageHeight": 1021
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/069-krytym-szlakiem",
+      "pdfPages": [
+        148,
+        149
+      ],
+      "printedPages": [
+        142,
+        143
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…obie dwa zastępy harcerskie. Obydwa wyruszają o tym samym czasie. Droga jest tak wybrana, że muszą się one spotkać; wyznacza się mianowicie",
+      "after": "miejsce, do którego każdy zastęp ma dotrzeć, i 2 punkty, które ma minąć.",
+      "positions": {
+        "before": {
+          "pdfPage": 148,
+          "printedPage": 142,
+          "blockType": "text",
+          "top": 815,
+          "bottom": 906,
+          "pageHeight": 1021
+        },
+        "after": {
+          "pdfPage": 149,
+          "printedPage": 143,
+          "blockType": "text",
+          "top": 155,
+          "bottom": 201,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/069-krytym-szlakiem",
+      "pdfPages": [
+        149,
+        150
+      ],
+      "printedPages": [
+        143,
+        144
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Po skończeniu ćwiczenia powtarza się je, puszczając zastępy w przeciwnych kierunkach. Jeżeli",
+      "after": "określa się czas, w którym zastępy mają dojść do celu, to powinien on być długi, ażeby umożliwić wyzyskanie wszystkich warunków sprzyjający…",
+      "positions": {
+        "before": {
+          "pdfPage": 149,
+          "printedPage": 143,
+          "blockType": "text",
+          "top": 859,
+          "bottom": 905,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 150,
+          "printedPage": 144,
+          "blockType": "text",
+          "top": 144,
+          "bottom": 235,
+          "pageHeight": 1021
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/072-trop-w-trop-za-wrogiem",
+      "pdfPages": [
+        151,
+        152
+      ],
+      "printedPages": [
+        145,
+        146
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…yznaczoną drogą i mając kilka zadań do spełnienia podczas marszu i to w oznaczonych miejscach, np. dwa postoje, mierzenie szerokości rzeki,",
+      "after": "sygnalizowanie semaforem z 2 pagórków itp. U celu ma rozbić obóz. Nie wie jednak, że drugi zastęp ma za zadanie go śledzić a nie zdradzić p…",
+      "positions": {
+        "before": {
+          "pdfPage": 151,
+          "printedPage": 145,
+          "blockType": "text",
+          "top": 810,
+          "bottom": 898,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 152,
+          "printedPage": 146,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 356,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/073-mylenie-pogoni",
+      "pdfPages": [
+        152,
+        153
+      ],
+      "printedPages": [
+        146,
+        147
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…e sprowadzi itd. Ostatecznie wygrywają biali, o ile przynajmniej połowa wraz ze swym komendantem dotrze niepostrzeżenie do chorągwi, wyrwie",
+      "after": "ją i ukryje, a potem, idąc na spotkanie czerwonych, im ją ukaże — czerwoni natomiast, o ile nie dadzą się w błąd wprowadzić i potrafią poda…",
+      "positions": {
+        "before": {
+          "pdfPage": 152,
+          "printedPage": 146,
+          "blockType": "text",
+          "top": 421,
+          "bottom": 897,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 153,
+          "printedPage": 147,
+          "blockType": "text",
+          "top": 143,
+          "bottom": 275,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/076-szkic-placowek",
+      "pdfPages": [
+        156,
+        157
+      ],
+      "printedPages": [
+        150,
+        151
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Półkolem stoją placówki białych, jedna od drugiej w odstępie 100—200 kroków. Każda składa się z 2—3 lu-",
+      "after": "dzi. Między placówkami, w miejscach dających przegląd najbliższej okolicy umieszcza się kilku bezstronnych z białymi opaskami. Czerwoni pod…",
+      "positions": {
+        "before": {
+          "pdfPage": 156,
+          "printedPage": 150,
+          "blockType": "text",
+          "top": 861,
+          "bottom": 908,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 157,
+          "printedPage": 151,
+          "blockType": "text",
+          "top": 149,
+          "bottom": 449,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/078-wycofanie-sie-z-zagrozonego-punktu",
+      "pdfPages": [
+        159,
+        160
+      ],
+      "printedPages": [
+        153,
+        154
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… bo wie, że nieprzyjaciel w okolicy, i jest przygotowany opuścić obóz w razie zaniepokojenia. Rzeczywiście zbliżył się nieprzyjaciel i nie-",
+      "after": "pokoi straże. (Zastęp czerwonych robi to z umysłu, zdradzając przez to swe miejsce pobytu). Zastępowy alarmuje wtedy obóz w największej cis…",
+      "positions": {
+        "before": {
+          "pdfPage": 159,
+          "printedPage": 153,
+          "blockType": "text",
+          "top": 797,
+          "bottom": 885,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 160,
+          "printedPage": 154,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 445,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/078-wycofanie-sie-z-zagrozonego-punktu",
+      "pdfPages": [
+        160,
+        161
+      ],
+      "printedPages": [
+        154,
+        155
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…dło spotkania tylko dla białych), a sami tymczasem znikną? Albo czy podejrzewając, że są tropieni, nie rozbijają obozu tylko na chwilę, aby",
+      "after": "po raz wtóry zniknąć, a rozbić obóz w trzecim miejscu?",
+      "positions": {
+        "before": {
+          "pdfPage": 160,
+          "printedPage": 154,
+          "blockType": "text",
+          "top": 551,
+          "bottom": 899,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 161,
+          "printedPage": 155,
+          "blockType": "text",
+          "top": 148,
+          "bottom": 197,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/079-po-odcieciu-powrotu",
+      "pdfPages": [
+        161,
+        162
+      ],
+      "printedPages": [
+        155,
+        156
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…wizd zastępowego. Ale co dalej? Czy zbierze się i jak prędko w miejscu zbiorki, skąd zastęp w całości do X powróci, czy nie zaniedbano tego",
+      "after": "miejsca wyznaczyć i czy może każdy z osobna będzie się ściągał do X?",
+      "positions": {
+        "before": {
+          "pdfPage": 161,
+          "printedPage": 155,
+          "blockType": "text",
+          "top": 723,
+          "bottom": 903,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 162,
+          "printedPage": 156,
+          "blockType": "text",
+          "top": 134,
+          "bottom": 178,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/080-zasadzka",
+      "pdfPages": [
+        162,
+        163
+      ],
+      "printedPages": [
+        156,
+        157
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… dotknięcie ręką; pojmanemu nie wolno uciekać). W jaki sposób i gdzie się zbiorą? Czy było wyznaczone miejsce zbiórki? Czy zastępowy opano-",
+      "after": "wał sytuację, dał sygnał do rozsypki i wycofał się zręcznie z zasadzki? Czy biali, idąc nieopatrznie bez straży, wpadli w zasadzkę, czy też…",
+      "positions": {
+        "before": {
+          "pdfPage": 162,
+          "printedPage": 156,
+          "blockType": "text",
+          "top": 479,
+          "bottom": 895,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 163,
+          "printedPage": 157,
+          "blockType": "text",
+          "top": 153,
+          "bottom": 222,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/082-miedzy-placowki",
+      "pdfPages": [
+        166,
+        167
+      ],
+      "printedPages": [
+        160,
+        161
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…zywiście również i za dnia przerabiane. Zamiast latarek daje się chorągiewki a zwiększa się odległość między placówkami, przy czym wybiera*",
+      "after": "się teren, który umożliwia krycie się i posuwanie się w ukryciu.",
+      "positions": {
+        "before": {
+          "pdfPage": 166,
+          "printedPage": 160,
+          "blockType": "text",
+          "top": 814,
+          "bottom": 903,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 167,
+          "printedPage": 161,
+          "blockType": "text",
+          "top": 130,
+          "bottom": 177,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/083-przez-trzy-linie",
+      "pdfPages": [
+        167
+      ],
+      "printedPages": [
+        161
+      ],
+      "rule": "ocr-block-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… drogą po lewej stronie a krawędzią lasu po prawej. Na tej przestrzeni stoją trzy linie straży. Strzeżenie odbywa się przez szczupłą liczbę",
+      "after": "stałych placówek (po 2 ludzi), lecz głównie przez patrolowanie. Patrolowi nie wolno chodzić po całym terenie, może się on poruszać tylko po…",
+      "positions": {
+        "before": {
+          "pdfPage": 167,
+          "printedPage": 161,
+          "blockType": "text",
+          "top": 284,
+          "bottom": 395,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 167,
+          "printedPage": 161,
+          "blockType": "text",
+          "top": 393,
+          "bottom": 736,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/083-przez-trzy-linie",
+      "pdfPages": [
+        167
+      ],
+      "printedPages": [
+        161
+      ],
+      "rule": "ocr-block-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…3), zależy to od szerokości przestrzeni, przez którą przekradanie się odbywa. Zamknięcie nie może być oczywiście zanadto gęste. Jedna linia",
+      "after": "straży stoi w oddaleniu 200—300 kroków od drugiej.",
+      "positions": {
+        "before": {
+          "pdfPage": 167,
+          "printedPage": 161,
+          "blockType": "text",
+          "top": 393,
+          "bottom": 736,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 167,
+          "printedPage": 161,
+          "blockType": "text",
+          "top": 730,
+          "bottom": 756,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/086-w-poszukiwaniu-listu",
+      "pdfPages": [
+        172,
+        173
+      ],
+      "printedPages": [
+        166,
+        167
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…, ażeby móc śledzić poruszenia przeciwnika, a sobie go na kark nie sprowadzić, i bardzo ostrożny, by samemu nie wpaść w zasadzkę. Teren po-",
+      "after": "winien być obszerny, żeby nie często przychodziło do spotkania. Ponieważ jednak przy przeszukiwaniu terenu w różnych kierunkach nie da się …",
+      "positions": {
+        "before": {
+          "pdfPage": 172,
+          "printedPage": 166,
+          "blockType": "text",
+          "top": 803,
+          "bottom": 892,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 173,
+          "printedPage": 167,
+          "blockType": "text",
+          "top": 136,
+          "bottom": 291,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/086-w-poszukiwaniu-listu",
+      "pdfPages": [
+        173,
+        174
+      ],
+      "printedPages": [
+        167,
+        168
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…się rozdzielają, to znów łączą. Ponieważ jest o wiele ważniejsze zdobycie listu niż wzięcie niewolnika, przeto w zasadzie unika się spotkań",
+      "after": "i tylko wtedy zmusza się przeciwnika do cofnięcia się lub robi nań zasadzkę (ew. przy wezwanej pomocy), gdy ten zbyt bruździ i uniemożliwia…",
+      "positions": {
+        "before": {
+          "pdfPage": 173,
+          "printedPage": 167,
+          "blockType": "text",
+          "top": 668,
+          "bottom": 888,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 174,
+          "printedPage": 168,
+          "blockType": "text",
+          "top": 143,
+          "bottom": 231,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/087-przez-granice",
+      "pdfPages": [
+        174,
+        175
+      ],
+      "printedPages": [
+        168,
+        169
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "W pół godziny po rozejściu się zaczyna się właściwe ćwiczenie. Musi być bowiem czas na rozsta-",
+      "after": "wienie placówek, na ułożenie planu działania i rozdział czynności. Zadaniem bowiem każdej strony jest przedrzeć się niepostrzeżenie przez g…",
+      "positions": {
+        "before": {
+          "pdfPage": 174,
+          "printedPage": 168,
+          "blockType": "text",
+          "top": 853,
+          "bottom": 898,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 175,
+          "printedPage": 169,
+          "blockType": "text",
+          "top": 146,
+          "bottom": 340,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/087-przez-granice",
+      "pdfPages": [
+        175,
+        176
+      ],
+      "printedPages": [
+        169,
+        170
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… nie jest łatwe. Bo najpierw nieprzyjaciel wybrał takie punkty obserwacyjne, które trudno odnaleźć, następnie co krok można napotkać wroga,",
+      "after": "a wreszcie trzeba nie tylko zdobyć wiadomości, ale je i z powrotem przenieść przez granicę i to do miejsca oznaczonego chorągwią. Tylko wię…",
+      "positions": {
+        "before": {
+          "pdfPage": 175,
+          "printedPage": 169,
+          "blockType": "text",
+          "top": 827,
+          "bottom": 895,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 176,
+          "printedPage": 170,
+          "blockType": "text",
+          "top": 139,
+          "bottom": 271,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/087-przez-granice",
+      "pdfPages": [
+        176,
+        177
+      ],
+      "printedPages": [
+        170,
+        171
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… jego ustawienie, co się poza nim znajduje itp. Jeżeli kto zostanie odkryty i biały go obwoła, np. z odległości 40—50 kroków, ten staje się",
+      "after": "niewolnikiem. Zebrane wiadomości komunikuje się kierownikowi stojącemu przy chorągwi między obu partiami.",
+      "positions": {
+        "before": {
+          "pdfPage": 176,
+          "printedPage": 170,
+          "blockType": "text",
+          "top": 761,
+          "bottom": 895,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 177,
+          "printedPage": 171,
+          "blockType": "text",
+          "top": 137,
+          "bottom": 205,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/088-z-matni",
+      "pdfPages": [
+        177,
+        178
+      ],
+      "printedPages": [
+        171,
+        172
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Kierownik wskazuje jednemu harcerzowi miejsce, w którym ma ukryć chorągiew. Nikt nie zna tego",
+      "after": "miejsca. Harcerz rusza w drogę z punktu A, kluczy przechodząc przez różny teren, ażeby utrudnić tropienie, lecz znaczy dokładnie swą drogę …",
+      "positions": {
+        "before": {
+          "pdfPage": 177,
+          "printedPage": 171,
+          "blockType": "text",
+          "top": 838,
+          "bottom": 889,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 178,
+          "printedPage": 172,
+          "blockType": "text",
+          "top": 134,
+          "bottom": 349,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/088-z-matni",
+      "pdfPages": [
+        178
+      ],
+      "printedPages": [
+        172
+      ],
+      "rule": "ocr-block-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…kice, w których zaznaczają wokół wpadające w oko przedmioty terenu, a gdzie potrzeba, znaczą tę granicę, np. kredą na drzwiach stojącej tam",
+      "after": "chaty. Cały teren powinien się nadawać do krycia i przekradania się.",
+      "positions": {
+        "before": {
+          "pdfPage": 178,
+          "printedPage": 172,
+          "blockType": "text",
+          "top": 134,
+          "bottom": 349,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 178,
+          "printedPage": 172,
+          "blockType": "text",
+          "top": 347,
+          "bottom": 413,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/088-z-matni",
+      "pdfPages": [
+        178
+      ],
+      "printedPages": [
+        172
+      ],
+      "rule": "ocr-block-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…zie do chorągwi, temu nie wolno jej zabierać; bierze on tylko kartkę z nazwą swego zastępu (dla każdego z szukających jest kartka przy cho-",
+      "after": "rąkwi) i stara się ją zanieść kierownikowi, który czeka na to, w miejscu wszystkim znanym B, oddalonym o kilkaset kroków od schowka.",
+      "positions": {
+        "before": {
+          "pdfPage": 178,
+          "printedPage": 172,
+          "blockType": "text",
+          "top": 411,
+          "bottom": 694,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 178,
+          "printedPage": 172,
+          "blockType": "text",
+          "top": 688,
+          "bottom": 755,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/090-lotnik",
+      "pdfPages": [
+        181,
+        182
+      ],
+      "printedPages": [
+        175,
+        176
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…je się przez cały czas ćwiczenia biernie i jeżeli nie ma przy sobie towarzysza (białego lub czerwonego), nie może ruszać się z miejsca. Za-",
+      "after": "leżnie od tego, czy teren łatwy, czy trudny do poszukiwań, kierownik chowa go w więcej lub mniej trudnej do odszukania kryjówce. Lotnikowi …",
+      "positions": {
+        "before": {
+          "pdfPage": 181,
+          "printedPage": 175,
+          "blockType": "text",
+          "top": 795,
+          "bottom": 882,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 182,
+          "printedPage": 176,
+          "blockType": "text",
+          "top": 129,
+          "bottom": 261,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/090-lotnik",
+      "pdfPages": [
+        182,
+        183
+      ],
+      "printedPages": [
+        176,
+        177
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…kiego sprytu i zręczności. Zorientować się w sytuacji, uchwycić odpowiedni moment i sposób działania, w razie zaś zmiany położenia zachować",
+      "after": "przytomność umysłu i powiązać szybko nową decyzję itd. — to wszystko wystawia harcerza na ciężką próbę. Jeżeli ćwiczenie się nie uda, to zw…",
+      "positions": {
+        "before": {
+          "pdfPage": 182,
+          "printedPage": 176,
+          "blockType": "text",
+          "top": 753,
+          "bottom": 887,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 183,
+          "printedPage": 177,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 422,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/091-szpiedzy-w-obozie",
+      "pdfPages": [
+        183,
+        184
+      ],
+      "printedPages": [
+        177,
+        178
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…u, biorącego udział w ćwiczeniu, wybiera się po 2 harcerzy. Ci, jako czerwoni, grają przeciw pozostałym białym. Biali rozbijają obóz o bar-",
+      "after": "dzo widocznych granicach i otaczają go czatami. Jedna połowa czerwonych obóz opuszcza, druga w nim zostaje. Każdy zastęp wie, że ma pośród …",
+      "positions": {
+        "before": {
+          "pdfPage": 183,
+          "printedPage": 177,
+          "blockType": "text",
+          "top": 820,
+          "bottom": 891,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 184,
+          "printedPage": 178,
+          "blockType": "text",
+          "top": 136,
+          "bottom": 289,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/091-szpiedzy-w-obozie",
+      "pdfPages": [
+        184,
+        185
+      ],
+      "printedPages": [
+        178,
+        179
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Obóz powinien być rozbity w miejscu sprzyjającym podkradaniu się, powinien być dalej bardzo ob-",
+      "after": "szerny i o widocznych, znanych wszystkim granicach, a czaty nie powinny być gęsto rozstawione. Inaczej ćwiczenie nie da się przeprowadzić. …",
+      "positions": {
+        "before": {
+          "pdfPage": 184,
+          "printedPage": 178,
+          "blockType": "text",
+          "top": 844,
+          "bottom": 894,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 185,
+          "printedPage": 179,
+          "blockType": "text",
+          "top": 140,
+          "bottom": 250,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/091-szpiedzy-w-obozie",
+      "pdfPages": [
+        185,
+        186
+      ],
+      "printedPages": [
+        179,
+        180
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ągnąć umyślnie na siebie uwagę straży, ażeby towarzyszowi ułatwić wtargnięcie do obozu itd. Setki pomysłów, dostosowanych do sytuacji, nade",
+      "after": "wszystko zaś zimna krew, — to pierwszy warunek powodzenia.",
+      "positions": {
+        "before": {
+          "pdfPage": 185,
+          "printedPage": 179,
+          "blockType": "text",
+          "top": 522,
+          "bottom": 889,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 186,
+          "printedPage": 180,
+          "blockType": "text",
+          "top": 144,
+          "bottom": 186,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/093-kupiec-z-towarami",
+      "pdfPages": [
+        187,
+        188
+      ],
+      "printedPages": [
+        181,
+        182
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…lecz są wrogo względem siebie usposobieni i nie tylko sobie nie pomagają, ale przeciwnie, przy spotkaniu napadają na siebie, chcąc się wza-",
+      "after": "jemnie, jeżeli nie zniszczyć, to przynajmniej odpędzić i uniemożliwić sobie pojmanie kupca. Z tej zawiści korzysta kupiec i przemyka się ch…",
+      "positions": {
+        "before": {
+          "pdfPage": 187,
+          "printedPage": 181,
+          "blockType": "text",
+          "top": 732,
+          "bottom": 888,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 188,
+          "printedPage": 182,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 226,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/093-kupiec-z-towarami",
+      "pdfPages": [
+        188,
+        189
+      ],
+      "printedPages": [
+        182,
+        183
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Kupcowi (który ma opaskę na ramieniu) i jego towarzyszom (nie noszącym odznak) nie wolno wal-",
+      "after": "czyć. Lecz poza tym mogą używać wszelkich sposobów, ażeby się przemknąć między białymi i czerwonymi. Kupiec musi jednak stale być w otoczen…",
+      "positions": {
+        "before": {
+          "pdfPage": 188,
+          "printedPage": 182,
+          "blockType": "text",
+          "top": 848,
+          "bottom": 897,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 189,
+          "printedPage": 183,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 251,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/094-poczta-rozstawna",
+      "pdfPages": [
+        189,
+        190
+      ],
+      "printedPages": [
+        183,
+        184
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… w kierunku Z i dać znać, że poczta gotowa (X)». Kartka przechodzi z rąk do rąk, każdy idzie żwawym krokiem, ostatni oddaje kartkę zastępo-",
+      "after": "wemu drugiego zastępu. Ten oblicza, w jakim odstępie muszą stać gońcy, rozstawia nową linię, po której idzie wiadomość z powrotem do czoła …",
+      "positions": {
+        "before": {
+          "pdfPage": 189,
+          "printedPage": 183,
+          "blockType": "text",
+          "top": 587,
+          "bottom": 890,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 190,
+          "printedPage": 184,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 397,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/095-napad-na-rozstawna-poczte",
+      "pdfPages": [
+        190,
+        191
+      ],
+      "printedPages": [
+        184,
+        185
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…h harcerzy (ew. dwóch), przez co powstaje łańcuch pośrednich stacyj pocztowych, przez który pójdą depesze do stacji odbiorczej. Tak dojdzie",
+      "after": "do celu zastępowy z kilku pozostałymi harcerzami. Stamtąd od czasu do czasu (co 10—20 minut) wysyła się gońca z depeszą. Ten ma odnaleźć na…",
+      "positions": {
+        "before": {
+          "pdfPage": 190,
+          "printedPage": 184,
+          "blockType": "text",
+          "top": 719,
+          "bottom": 895,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 191,
+          "printedPage": 185,
+          "blockType": "text",
+          "top": 146,
+          "bottom": 297,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/095-napad-na-rozstawna-poczte",
+      "pdfPages": [
+        192,
+        193
+      ],
+      "printedPages": [
+        186,
+        187
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…to możliwe), wystarczą znaki, oznaczające przerwanie poczty z podaniem numeru zniszczonej stacji, przejęcie depeszy, grożące niebezpieczeń-",
+      "after": "stwo, przesunięcie jednej stacji w inne miejsce z powodu odkrycia kryjówki itp. Znaków takich nie może być wiele, ale powinny one być wyraź…",
+      "positions": {
+        "before": {
+          "pdfPage": 192,
+          "printedPage": 186,
+          "blockType": "text",
+          "top": 816,
+          "bottom": 908,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 193,
+          "printedPage": 187,
+          "blockType": "text",
+          "top": 146,
+          "bottom": 213,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/096-przerwanie-linii-telegraficznej",
+      "pdfPages": [
+        194,
+        195
+      ],
+      "printedPages": [
+        188,
+        189
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…dzie się czerwoni zbierają lub dokąd zmierzają. Na tej podstawie wysyła komendant cichaczem część rezerwy w zagrożone punkty i tam czeka na",
+      "after": "wroga albo też zmusza go swą przewagą do cofnięcia się i w ten sposób nie dopuszcza do zamachu.",
+      "positions": {
+        "before": {
+          "pdfPage": 194,
+          "printedPage": 188,
+          "blockType": "text",
+          "top": 739,
+          "bottom": 893,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 195,
+          "printedPage": 189,
+          "blockType": "text",
+          "top": 146,
+          "bottom": 192,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/096-przerwanie-linii-telegraficznej",
+      "pdfPages": [
+        195
+      ],
+      "printedPages": [
+        189
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "Ćwiczenie to można w różnoraki sposób urozmaicić; można je także jednej lub drugiej stronie utrudnić. I tak:",
+      "after": "Obrona będzie utrudniona, jeżeli na ćwiczenie wyznaczy się tak długi odcinek drogi, że nie da się każdego słupa obrońcą obsadzić. Albo:",
+      "positions": {
+        "before": {
+          "pdfPage": 195,
+          "printedPage": 189,
+          "blockType": "text",
+          "top": 679,
+          "bottom": 746,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 195,
+          "printedPage": 189,
+          "blockType": "text",
+          "top": 742,
+          "bottom": 812,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/096-przerwanie-linii-telegraficznej",
+      "pdfPages": [
+        195
+      ],
+      "printedPages": [
+        189
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "Obrona będzie utrudniona, jeżeli na ćwiczenie wyznaczy się tak długi odcinek drogi, że nie da się każdego słupa obrońcą obsadzić. Albo:",
+      "after": "Można przyznać wygraną czerwonym nawet wtedy, gdy za jednym wypadem obwiązali słup tylko raz lub dwa razy, a przy następnym dopiero po raz …",
+      "positions": {
+        "before": {
+          "pdfPage": 195,
+          "printedPage": 189,
+          "blockType": "text",
+          "top": 742,
+          "bottom": 812,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 195,
+          "printedPage": 189,
+          "blockType": "text",
+          "top": 806,
+          "bottom": 895,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/096-przerwanie-linii-telegraficznej",
+      "pdfPages": [
+        195,
+        196
+      ],
+      "printedPages": [
+        189,
+        190
+      ],
+      "rule": "page-boundary-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "…ć wygraną czerwonym nawet wtedy, gdy za jednym wypadem obwiązali słup tylko raz lub dwa razy, a przy następnym dopiero po raz trzeci. Albo:",
+      "after": "Można nakazać obwiązanie nie jednego, lecz trzech słupów (każdego jednym sznurem) i to nie równoczecześnie, tylko w dowolnych odstępach cza…",
+      "positions": {
+        "before": {
+          "pdfPage": 195,
+          "printedPage": 189,
+          "blockType": "text",
+          "top": 806,
+          "bottom": 895,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 196,
+          "printedPage": 190,
+          "blockType": "text",
+          "top": 137,
+          "bottom": 291,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/097-kurier",
+      "pdfPages": [
+        196,
+        197
+      ],
+      "printedPages": [
+        190,
+        191
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…. Przed ćwiczeniem musi zatem zastępowy wszystkich objaśnić, którędy pójdzie i w jaki sposób mają mu w drodze pomagać. Jeżeli zmuszony jest",
+      "after": "drogę pierwotną zmienić, stara się o tym swoich zawiadomić, musi więc utrzymywać z nimi ustawiczny kontakt. Wolno mu także w razie wielkieg…",
+      "positions": {
+        "before": {
+          "pdfPage": 196,
+          "printedPage": 190,
+          "blockType": "text",
+          "top": 719,
+          "bottom": 896,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 197,
+          "printedPage": 191,
+          "blockType": "text",
+          "top": 131,
+          "bottom": 304,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/098-dwa-hasla",
+      "pdfPages": [
+        197
+      ],
+      "printedPages": [
+        191
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "Ku leśnej polanie, leżącej w pośrodku terenu, na którym odbywa się ćwiczenie, skradają się harcerze rozstawieni pojedynczo wokół:",
+      "after": "Ćwiczenie rozpoczyna się mianowicie w ten sposób, że wszyscy (po rozdaniu kartek, których treści nie powinno się nikomu zdradzać) tworzą ko…",
+      "positions": {
+        "before": {
+          "pdfPage": 197,
+          "printedPage": 191,
+          "blockType": "text",
+          "top": 748,
+          "bottom": 814,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 197,
+          "printedPage": 191,
+          "blockType": "text",
+          "top": 813,
+          "bottom": 878,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/098-dwa-hasla",
+      "pdfPages": [
+        197,
+        198
+      ],
+      "printedPages": [
+        191,
+        192
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… rozpoczyna się mianowicie w ten sposób, że wszyscy (po rozdaniu kartek, których treści nie powinno się nikomu zdradzać) tworzą koło i roz-",
+      "after": "chodzą się po promieniach na odległość 500—800 kroków, po czym chowają się i czekają na znak rozpoczęcia gry.",
+      "positions": {
+        "before": {
+          "pdfPage": 197,
+          "printedPage": 191,
+          "blockType": "text",
+          "top": 813,
+          "bottom": 878,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 198,
+          "printedPage": 192,
+          "blockType": "text",
+          "top": 139,
+          "bottom": 208,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/098-dwa-hasla",
+      "pdfPages": [
+        198,
+        199
+      ],
+      "printedPages": [
+        192,
+        193
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…szy hasło przeciwników. Część tajemnicy odkryta. Gdy teraz ów żandarm natknie się z kolei na kogoś drugiego, wówczas sam umyślnie hasła nie",
+      "after": "żąda, a zapytany o nie podaje nie swoje: «Warszawa». I jeżeli trafił także na żandarma, ten z pewnością go zaatakuje lub będzie uciekał; wt…",
+      "positions": {
+        "before": {
+          "pdfPage": 198,
+          "printedPage": 192,
+          "blockType": "text",
+          "top": 657,
+          "bottom": 898,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 199,
+          "printedPage": 193,
+          "blockType": "text",
+          "top": 146,
+          "bottom": 491,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/098-dwa-hasla",
+      "pdfPages": [
+        199,
+        200
+      ],
+      "printedPages": [
+        193,
+        194
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…aść pytanie o hasło i beznadziejne zdemaskowanie się! Ostatecznie o oznaczonej godzinie na sygnał do zbiórki wszyscy wchodzą na polanę i po",
+      "after": "zdemaskowaniu się obliczają liczbę zabitych. Jedna strona zwyciężyła. Dodać jeszcze należy, że raz zerwanej opaski nie wolno z powrotem zaw…",
+      "positions": {
+        "before": {
+          "pdfPage": 199,
+          "printedPage": 193,
+          "blockType": "text",
+          "top": 679,
+          "bottom": 897,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 200,
+          "printedPage": 194,
+          "blockType": "text",
+          "top": 142,
+          "bottom": 235,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/100-oboz-w-lesie",
+      "pdfPages": [
+        203
+      ],
+      "printedPages": [
+        197
+      ],
+      "rule": "ocr-block-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…oła straże. Obóz — to zatknięta chorągiew a obok niej kilku harcerzy przy ognisku ew. przy latarni, o ile ogniska rozpalać nie można. Teren",
+      "after": "przed lasem przeszukują patrole i to od strony, z której należy się obawiać nadejścia czerwonych.",
+      "positions": {
+        "before": {
+          "pdfPage": 203,
+          "printedPage": 197,
+          "blockType": "text",
+          "top": 180,
+          "bottom": 269,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 203,
+          "printedPage": 197,
+          "blockType": "text",
+          "top": 268,
+          "bottom": 354,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/100-oboz-w-lesie",
+      "pdfPages": [
+        203
+      ],
+      "printedPages": [
+        197
+      ],
+      "rule": "ocr-block-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Wcześniej czy później patrole przeciwników na-",
+      "after": "natkną się na siebie. Czerwony ma za zadanie przede wszystkim wysłedzić obozowisko, więc będzie unikał walki, której wynik niepewny; raczej…",
+      "positions": {
+        "before": {
+          "pdfPage": 203,
+          "printedPage": 197,
+          "blockType": "text",
+          "top": 501,
+          "bottom": 545,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 203,
+          "printedPage": 197,
+          "blockType": "text",
+          "top": 543,
+          "bottom": 799,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/102-bez-przeciwnika",
+      "pdfPages": [
+        206,
+        207
+      ],
+      "printedPages": [
+        200,
+        201
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Tymczasem czerwonych w ogóle nie ma zupełnie, tylko bowiem cztery zastępy białych biorą udział",
+      "after": "w ćwiczeniu. Lecz o tym stróżujący nie wiedzą i spodziewają się ustawicznie przeciwnika od strony A.",
+      "positions": {
+        "before": {
+          "pdfPage": 206,
+          "printedPage": 200,
+          "blockType": "text",
+          "top": 832,
+          "bottom": 881,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 207,
+          "printedPage": 201,
+          "blockType": "text",
+          "top": 140,
+          "bottom": 187,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/102-bez-przeciwnika",
+      "pdfPages": [
+        207,
+        208
+      ],
+      "printedPages": [
+        201,
+        202
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Może też zdarzyć się, że placówka czy patrol spostrzeże podchodzącego i albo go odpędza, albo też",
+      "after": "robi na niego zasadzkę itp. Poniewczasie jednak przekonuje się (o ile się w ogóle przekona), że miała z przyjacielem do czynienia, że do ni…",
+      "positions": {
+        "before": {
+          "pdfPage": 207,
+          "printedPage": 201,
+          "blockType": "text",
+          "top": 845,
+          "bottom": 890,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 208,
+          "printedPage": 202,
+          "blockType": "text",
+          "top": 140,
+          "bottom": 293,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/103-z-wrogiem-za-plecami",
+      "pdfPages": [
+        208,
+        209
+      ],
+      "printedPages": [
+        202,
+        203
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…y, a nawet zrobić zasadzkę na zastęp białych w czasie jego powrotu. Ze swej strony ma wysłać meldunek do A o tym, czego się dowiedział i co",
+      "after": "zamierza zrobić. Goniec czerwonych może iść tylko przez most do A.",
+      "positions": {
+        "before": {
+          "pdfPage": 208,
+          "printedPage": 202,
+          "blockType": "text",
+          "top": 671,
+          "bottom": 888,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 209,
+          "printedPage": 203,
+          "blockType": "text",
+          "top": 146,
+          "bottom": 192,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/104-w-nieswiadomosci-niebezpieczenstwa",
+      "pdfPages": [
+        210,
+        211
+      ],
+      "printedPages": [
+        204,
+        205
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…zają oba patrole czerwonych ku mostom, jeden ku prawemu, drugi ku lewemu, ażeby dojść do swego oddziału w A. (Jeżeli brak mostów, rzekę za-",
+      "after": "stąpić może droga, na której wbija się po 2 chorągiewki w dwóch dość odległych od siebie punktach na znak, że tylko tamtędy patrolom wolno …",
+      "positions": {
+        "before": {
+          "pdfPage": 210,
+          "printedPage": 204,
+          "blockType": "text",
+          "top": 757,
+          "bottom": 888,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 211,
+          "printedPage": 205,
+          "blockType": "text",
+          "top": 152,
+          "bottom": 240,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/104-w-nieswiadomosci-niebezpieczenstwa",
+      "pdfPages": [
+        211,
+        212
+      ],
+      "printedPages": [
+        205,
+        206
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ustala się prawidła spotkania, nakazując czy to zrywanie włóczek z ramienia, czy też cofanie się mniejszej liczby przed większą itp. Szcze-",
+      "after": "gólniejszą uwagę należy zwrócić na odległości i dostosowanie do nich czasu wysyłki gońców i wymarszu.",
+      "positions": {
+        "before": {
+          "pdfPage": 211,
+          "printedPage": 205,
+          "blockType": "text",
+          "top": 834,
+          "bottom": 901,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 212,
+          "printedPage": 206,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 188,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/105-miedzy-mlotem-a-kowadlem",
+      "pdfPages": [
+        212,
+        213
+      ],
+      "printedPages": [
+        206,
+        207
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…zy zastępy czerwonych zostają wysłane z A i to: I zastęp w stronę N, II — O a III — P. Otrzymują one rozkaz obserwować drogę i donieść do A",
+      "after": "o zjawieniu się białych i o ich czynnościach. Czas odmarszu reguluje się tak, ażeby zastęp białych znalazł się w O równocześnie z II zastęp…",
+      "positions": {
+        "before": {
+          "pdfPage": 212,
+          "printedPage": 206,
+          "blockType": "text",
+          "top": 825,
+          "bottom": 893,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 213,
+          "printedPage": 207,
+          "blockType": "text",
+          "top": 144,
+          "bottom": 210,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/106-trudny-wywiad",
+      "pdfPages": [
+        215,
+        216
+      ],
+      "printedPages": [
+        209,
+        210
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Czerwoni, czy to w grupkach po dwóch lub trzech, czy pojedynczo, starają się przekraść do lasu i do-",
+      "after": "trzeć do linii celem przekonania się, w jaki sposób jest ona strzeżona i dokąd śle się raporty. Niejeden przekona się przy tym, że trzeba n…",
+      "positions": {
+        "before": {
+          "pdfPage": 215,
+          "printedPage": 209,
+          "blockType": "text",
+          "top": 846,
+          "bottom": 893,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 216,
+          "printedPage": 210,
+          "blockType": "text",
+          "top": 144,
+          "bottom": 403,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady/107-na-tylach-wroga",
+      "pdfPages": [
+        217
+      ],
+      "printedPages": [
+        211
+      ],
+      "rule": "ocr-block-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…się z zadania wywiązują, to idąc cichaczem, w ukryciu, zobaczą białych, którzy ich będą mijali. I wówczas zadadzą sobie pytanie, co to zna-",
+      "after": "czy? Czyżby biali opuścili punkt M? A jeśli tak, to dokąd idą? Jedno i drugie trzeba sprawdzić. Zaczyna się więc trudne zadanie. Z jednej s…",
+      "positions": {
+        "before": {
+          "pdfPage": 217,
+          "printedPage": 211,
+          "blockType": "text",
+          "top": 556,
+          "bottom": 664,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 217,
+          "printedPage": 211,
+          "blockType": "text",
+          "top": 662,
+          "bottom": 899,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/108-polaczenie-sprzymierzonych",
+      "pdfPages": [
+        219,
+        220
+      ],
+      "printedPages": [
+        213,
+        214
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…eżnie od liczby harcerzy. Im będzie mniejszy, tym trudniejsze będzie zadanie czerwonych. Nadto powinien być mieszany i to w większej części",
+      "after": "pokryty, a tylko gdzieniegdzie otwarty; pewne wyniosłe punkty powinny dawać przegląd najbliższej okolicy.",
+      "positions": {
+        "before": {
+          "pdfPage": 219,
+          "printedPage": 213,
+          "blockType": "text",
+          "top": 799,
+          "bottom": 888,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 220,
+          "printedPage": 214,
+          "blockType": "text",
+          "top": 136,
+          "bottom": 202,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/108-polaczenie-sprzymierzonych",
+      "pdfPages": [
+        221,
+        222
+      ],
+      "printedPages": [
+        215,
+        216
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…lko jego część (cofając się w razie niebezpieczeństwa a szukając potem wolnego przejścia w innym miejscu) i tak wzmocniony oddział szachuje",
+      "after": "potem białych, ażeby reszcie swoich przejście ułatwić itd.",
+      "positions": {
+        "before": {
+          "pdfPage": 221,
+          "printedPage": 215,
+          "blockType": "text",
+          "top": 711,
+          "bottom": 885,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 222,
+          "printedPage": 216,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 181,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/108-polaczenie-sprzymierzonych",
+      "pdfPages": [
+        222,
+        223
+      ],
+      "printedPages": [
+        216,
+        217
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…iały obwoła go z oddalenia 10—15 (ew. 15—20) kroków — musi się on cofnąć, gdy obwołanie nastąpiło z większej odległości — grupka czerwonych",
+      "after": "winna się cofnąć, gdy biali wykazują w spotkaniu przewagę choćby jednego człowieka. Albo: każdy biały może zerwać opaskę czerwonemu i przez…",
+      "positions": {
+        "before": {
+          "pdfPage": 222,
+          "printedPage": 216,
+          "blockType": "text",
+          "top": 651,
+          "bottom": 890,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 223,
+          "printedPage": 217,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 417,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/108-polaczenie-sprzymierzonych",
+      "pdfPages": [
+        223,
+        224
+      ],
+      "printedPages": [
+        217,
+        218
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…nak uważa się na długość granicy, ile raczej na ilość dróg i ścieżek, jeżeli poda się prawidło, że tylko tymi drogami wolno chodzić zwartym",
+      "after": "oddziałom, np. od 10 ludzi wzwyż, podczas gdy zwia-",
+      "positions": {
+        "before": {
+          "pdfPage": 223,
+          "printedPage": 217,
+          "blockType": "text",
+          "top": 815,
+          "bottom": 885,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 224,
+          "printedPage": 218,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/109-przeszkody",
+      "pdfPages": [
+        224,
+        225
+      ],
+      "printedPages": [
+        218,
+        219
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "w pierwszym rzędzie zdobyć wiadomości o kierunku",
+      "after": "marszu białych. Wyślą przeto w ich stronę tęgich zwiadowców w grupkach po 2—3, by na podstawie przysyłanych raportów urządzić w najodpowied…",
+      "positions": {
+        "before": {
+          "pdfPage": 224,
+          "printedPage": 218,
+          "blockType": null,
+          "top": null,
+          "bottom": null,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 225,
+          "printedPage": 219,
+          "blockType": "text",
+          "top": 135,
+          "bottom": 436,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/110-ku-choragiewce",
+      "pdfPages": [
+        226,
+        227
+      ],
+      "printedPages": [
+        220,
+        221
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Czerwoni, których jest mniej niż białych, mają się przekraść między placówkami i dotrzeć do cho-",
+      "after": "rągwi, przedstawiającej ważny obiekt, który należy zniszczyć. Nie wolno im przemykać się za zewnątrz od znanych obu stronom bocznych granic.",
+      "positions": {
+        "before": {
+          "pdfPage": 226,
+          "printedPage": 220,
+          "blockType": "text",
+          "top": 834,
+          "bottom": 886,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 227,
+          "printedPage": 221,
+          "blockType": "text",
+          "top": 145,
+          "bottom": 213,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/111-zniszczenie-baterii",
+      "pdfPages": [
+        228
+      ],
+      "printedPages": [
+        222
+      ],
+      "rule": "ocr-block-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Czerwoni wobec tego dzielą się na patrole po 2—4 har-",
+      "after": "harcerzy i porozumiewają się z sobą, na którą chorągiewkę ma być napad skierowany, którędy się przekradną",
+      "positions": {
+        "before": {
+          "pdfPage": 228,
+          "printedPage": 222,
+          "blockType": "text",
+          "top": 788,
+          "bottom": 853,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 228,
+          "printedPage": 222,
+          "blockType": "text",
+          "top": 848,
+          "bottom": 897,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/111-zniszczenie-baterii",
+      "pdfPages": [
+        228
+      ],
+      "printedPages": [
+        222
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "harcerzy i porozumiewają się z sobą, na którą chorągiewkę ma być napad skierowany, którędy się przekradną",
+      "after": "Rys. 55.",
+      "positions": {
+        "before": {
+          "pdfPage": 228,
+          "printedPage": 222,
+          "blockType": "text",
+          "top": 848,
+          "bottom": 897,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 228,
+          "printedPage": 222,
+          "blockType": "caption",
+          "top": 811,
+          "bottom": 828,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/111-zniszczenie-baterii",
+      "pdfPages": [
+        229,
+        230
+      ],
+      "printedPages": [
+        223,
+        224
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…muszony napadem do odwrotu spod chorągiewki, nie może nikogo brać do niewoli, bo sam się narazi na pojmanie, nie wolno mu też dawać żadnych",
+      "after": "sygnałów, tylko cofa się przed atakiem i pośpiesza z wiadomością do najbliższej placówki. Wyznaczeni ludzie biegną z pomocą i zmuszają czer…",
+      "positions": {
+        "before": {
+          "pdfPage": 229,
+          "printedPage": 223,
+          "blockType": "text",
+          "top": 653,
+          "bottom": 888,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 230,
+          "printedPage": 224,
+          "blockType": "text",
+          "top": 135,
+          "bottom": 309,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/112-w-ciaglym-czuciu-z-wrogiem",
+      "pdfPages": [
+        231,
+        232
+      ],
+      "printedPages": [
+        225,
+        226
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "I tak np. w punkcie A (według mapy) winien oddział rozbić obóz, rozstawić 4 placówki, rozpalić ogni-",
+      "after": "ska i zatrzymać się do godz. 16; o tej godzinie obóz zwinąć, maszerować w formacji ubezpieczonej przez miejscowość B do punktu C i zrekogno…",
+      "positions": {
+        "before": {
+          "pdfPage": 231,
+          "printedPage": 225,
+          "blockType": "text",
+          "top": 837,
+          "bottom": 882,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 232,
+          "printedPage": 226,
+          "blockType": "text",
+          "top": 132,
+          "bottom": 501,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/112-w-ciaglym-czuciu-z-wrogiem",
+      "pdfPages": [
+        233,
+        234
+      ],
+      "printedPages": [
+        227,
+        228
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…zować służbę łączności i czy ona pójdzie składnie. Wobec ścisłego określenia czynności białych żadne uchybienie nie ujdzie oczu, zawsze bę-",
+      "after": "dzie się wiedziało, kiedy i w czym błąd popełniono. Omówienie ćwiczenia, przy cytowaniu depesz i równoczesnym podkreślaniu, co w danym czas…",
+      "positions": {
+        "before": {
+          "pdfPage": 233,
+          "printedPage": 227,
+          "blockType": "text",
+          "top": 791,
+          "bottom": 878,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 234,
+          "printedPage": 228,
+          "blockType": "text",
+          "top": 132,
+          "bottom": 221,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/113-napad-na-linie-kolejowa",
+      "pdfPages": [
+        234,
+        235
+      ],
+      "printedPages": [
+        228,
+        229
+      ],
+      "rule": "page-boundary-parenthesis",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…e jest 20 czerwonych a 40 białych. Czerwoni wygrają, jeżeli im się uda przy jednej z chorągiewek stanąć w liczbie 10 i tam pozostać przez 5",
+      "after": "(ew. 5—8) minut, tj. tyle czasu, ile potrzeba na zburzenie linii. Jeżeli przed upływem tego czasu zdążą tam biali w liczbie przewyższającej…",
+      "positions": {
+        "before": {
+          "pdfPage": 234,
+          "printedPage": 228,
+          "blockType": "text",
+          "top": 822,
+          "bottom": 890,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 235,
+          "printedPage": 229,
+          "blockType": "text",
+          "top": 145,
+          "bottom": 254,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/113-napad-na-linie-kolejowa",
+      "pdfPages": [
+        235,
+        236
+      ],
+      "printedPages": [
+        229,
+        230
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…sił, potrzebnych do odparcia ataku. W im większej nieświadomości co do miejsca pobytu wroga będą utrzymani biali, im mniej przejrzyste będą",
+      "after": "plany czerwonych i im zręczniejszych będą używali forteli, — tym łatwiej przyjdzie im zwyciężyć. A ponieważ i białym zależy na odkryciu pla…",
+      "positions": {
+        "before": {
+          "pdfPage": 235,
+          "printedPage": 229,
+          "blockType": "text",
+          "top": 610,
+          "bottom": 889,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 236,
+          "printedPage": 230,
+          "blockType": "text",
+          "top": 142,
+          "bottom": 274,
+          "pageHeight": 1023
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/113-napad-na-linie-kolejowa",
+      "pdfPages": [
+        236,
+        237
+      ],
+      "printedPages": [
+        230,
+        231
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…być kręta, ażeby jej nie można było łatwo przejrzeć. Jeszcze raz podkreśla się, że ćwiczenie może się udać tylko przy dostosowaniu długości",
+      "after": "drogi do liczby broniących. Idzie o niedopuszczenie obstawienia wszystkich punktów taką liczbą białych, która by atak czerwonych w ogóle un…",
+      "positions": {
+        "before": {
+          "pdfPage": 236,
+          "printedPage": 230,
+          "blockType": "text",
+          "top": 833,
+          "bottom": 901,
+          "pageHeight": 1023
+        },
+        "after": {
+          "pdfPage": 237,
+          "printedPage": 231,
+          "blockType": "text",
+          "top": 140,
+          "bottom": 206,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/114-wolni-strzelcy",
+      "pdfPages": [
+        237,
+        238
+      ],
+      "printedPages": [
+        231,
+        232
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…szym środkowym trzyma się komendant) i posuwając się równomiernie naprzód z wywiadowcami na czele, przeszukują pierwszy odcinek. Oczywiście",
+      "after": "patrole utrzymują «czucie» ze sobą i przesyłają wiadomości komendantowi, który w razie potrzeby posyła w prawo lub w lewo posiłki. Przede w…",
+      "positions": {
+        "before": {
+          "pdfPage": 237,
+          "printedPage": 231,
+          "blockType": "text",
+          "top": 796,
+          "bottom": 883,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 238,
+          "printedPage": 232,
+          "blockType": "text",
+          "top": 129,
+          "bottom": 327,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/114-wolni-strzelcy",
+      "pdfPages": [
+        238,
+        239
+      ],
+      "printedPages": [
+        232,
+        233
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…się; wtedy każdy oddzielnie, wyzyskując wszelkie zasłony terenu, przekrada się ku miejscu, które przez komendanta grupki zostało wyznaczone",
+      "after": "na miejsce zbiórki. Tam następuje narada, co dalej robić. Wolno przy tym mylić przeciwnika, może np. ktoś umyślnie się poświęcić i dać się …",
+      "positions": {
+        "before": {
+          "pdfPage": 238,
+          "printedPage": 232,
+          "blockType": "text",
+          "top": 626,
+          "bottom": 892,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 239,
+          "printedPage": 233,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 248,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/115-obrona-wsi",
+      "pdfPages": [
+        241,
+        242
+      ],
+      "printedPages": [
+        235,
+        236
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…d sił czerwonych, oddalenie jednego wejścia od drugiego itp. biały decyduje się na punkt ataku. Ażeby jednak utrzymać przeciwnika do ostat-",
+      "after": "niej chwili w niepewności i nie zdradzić swych zamiarów, spędza jego zwiadowców, robi pozorne poruszenia, część sił ukrywa przed oczami wro…",
+      "positions": {
+        "before": {
+          "pdfPage": 241,
+          "printedPage": 235,
+          "blockType": "text",
+          "top": 715,
+          "bottom": 892,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 242,
+          "printedPage": 236,
+          "blockType": "text",
+          "top": 132,
+          "bottom": 481,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/116-obrona-mostow",
+      "pdfPages": [
+        243,
+        244
+      ],
+      "printedPages": [
+        237,
+        238
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Ćwiczenie podobne do poprzedniego. Zamiast zdobycia wejścia do wsi ma być opanowany most na",
+      "after": "rzece. Gdy nie ma rzeki (możliwy wypadek) wybiera się potok (w razie jego braku drogę) i wzdłuż niego w pewnych miejscach wbija się chorągw…",
+      "positions": {
+        "before": {
+          "pdfPage": 243,
+          "printedPage": 237,
+          "blockType": "text",
+          "top": 836,
+          "bottom": 891,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 244,
+          "printedPage": 238,
+          "blockType": "text",
+          "top": 129,
+          "bottom": 410,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/117-bieg-harcerski",
+      "pdfPages": [
+        244,
+        245
+      ],
+      "printedPages": [
+        238,
+        239
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…wzdłuż pewnego szlaku w terenie idzie zastęp harcerski (albo grupki po 2—3 harcerzy) i na oznaczonych z góry miejskach ma wykonać pewne za-",
+      "after": "dania. A zadania te są z różnych dziedzin umiejętności czy czynności harcerskich, czy z terenoznawstwa, czy przyrodo- lub krajoznawstwa, mo…",
+      "positions": {
+        "before": {
+          "pdfPage": 244,
+          "printedPage": 238,
+          "blockType": "text",
+          "top": 777,
+          "bottom": 893,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 245,
+          "printedPage": 239,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 460,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/117-bieg-harcerski",
+      "pdfPages": [
+        245,
+        246
+      ],
+      "printedPages": [
+        239,
+        240
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…. Okaże się ostatecznie, ile punktów zdobył zastęp na ogólną liczbę możliwych do zdobycia. A jeżeli to są zawody między grupkami czy zastę-",
+      "after": "pami — jak bywa najczęściej — to okaże się, kto wyszedł zwycięzcą w tym biegu.",
+      "positions": {
+        "before": {
+          "pdfPage": 245,
+          "printedPage": 239,
+          "blockType": "text",
+          "top": 522,
+          "bottom": 888,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 246,
+          "printedPage": 240,
+          "blockType": "text",
+          "top": 128,
+          "bottom": 174,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/117-bieg-harcerski",
+      "pdfPages": [
+        246,
+        247
+      ],
+      "printedPages": [
+        240,
+        241
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Po upływie czasu wyznaczonego na pokonanie przeszkody, sędzia przerywa pracę, bez względu na to,",
+      "after": "czy i jak zadanie zostało wykonane, w każdym razie, jeżeli je błędnie lub źle wykonano, winien harcerzy pouczyć, co było dobrego, a co złeg…",
+      "positions": {
+        "before": {
+          "pdfPage": 246,
+          "printedPage": 240,
+          "blockType": "text",
+          "top": 845,
+          "bottom": 892,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 247,
+          "printedPage": 241,
+          "blockType": "text",
+          "top": 139,
+          "bottom": 227,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/wiekszy-zespol/117-bieg-harcerski",
+      "pdfPages": [
+        247,
+        248
+      ],
+      "printedPages": [
+        241,
+        242
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… gdy po przejściu 1000 kroków nie znajdą sędziego? Bo sędzia dawał sygnał, a teraz daje rozkaz: założyć opatrunek na złamany goleń leżącemu",
+      "after": "harcerzowi. A pod ręką tylko kilka krajek, materiał trzeba zebrać.",
+      "positions": {
+        "before": {
+          "pdfPage": 247,
+          "printedPage": 241,
+          "blockType": "text",
+          "top": 705,
+          "bottom": 877,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 248,
+          "printedPage": 242,
+          "blockType": "text",
+          "top": 131,
+          "bottom": 180,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/01-przedmowy",
+      "pdfPages": [
+        11,
+        12
+      ],
+      "printedPages": [
+        5,
+        6
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…niu z przeciwnikiem itp. Inne, jak ćwiczenia w orientacji i ćwiczenia zmysłów, zostały dołączone jako przygotowawcze, bo wyrabiają w harce-",
+      "after": "rzu to, co mu w polu jako zwiadowcy bezwzględnie jest potrzebne.",
+      "positions": {
+        "before": {
+          "pdfPage": 11,
+          "printedPage": 5,
+          "blockType": "text",
+          "top": 738,
+          "bottom": 890,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 12,
+          "printedPage": 6,
+          "blockType": "text",
+          "top": 136,
+          "bottom": 190,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/01-przedmowy",
+      "pdfPages": [
+        13,
+        14
+      ],
+      "printedPages": [
+        7,
+        8
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…tnich czasach pojawiły się głosy, lekceważące znaczenie zabaw i gier terenowych a propagujące li tylko wyrabianie techniki polowej dla pew-",
+      "after": "nych specjalnych celów. Głosy te uważam za objaw niezrozumienia zadań harcerstwa i jego metod wychowawczych. Należy wyraźnie podkreślić, że…",
+      "positions": {
+        "before": {
+          "pdfPage": 13,
+          "printedPage": 7,
+          "blockType": "text",
+          "top": 835,
+          "bottom": 905,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 14,
+          "printedPage": 8,
+          "blockType": "text",
+          "top": 150,
+          "bottom": 622,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/01-przedmowy",
+      "pdfPages": [
+        14,
+        15
+      ],
+      "printedPages": [
+        8,
+        9
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…li ludzie tym właśnie grom oddawali się wprost z niezwykłym zapałem, a mniej ich zajmowały te o specjalnej użyteczności dla tego czy innego",
+      "after": "celu. Jak długo istnieć będzie harcerstwo, tak długo zabawy i gry terenowe, właśnie zabawy i gry będą integralną częścią jego pracy nie tyl…",
+      "positions": {
+        "before": {
+          "pdfPage": 14,
+          "printedPage": 8,
+          "blockType": "text",
+          "top": 617,
+          "bottom": 900,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 15,
+          "printedPage": 9,
+          "blockType": "text",
+          "top": 147,
+          "bottom": 217,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/01-przedmowy",
+      "pdfPages": [
+        15,
+        16
+      ],
+      "printedPages": [
+        9,
+        10
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…A czy każdą taką drobną a punktowaną potem czynność jest w stanie kierownik sprawdzić? A jak uchwycić punktami stosunek dwóch zgoła odmien-",
+      "after": "nych czynności? Skutek taki, że nieraz cała gra zostanie zepsuta, zniweczony zostanie jej charakter, bo odbywało się tylko uganianie za pun…",
+      "positions": {
+        "before": {
+          "pdfPage": 15,
+          "printedPage": 9,
+          "blockType": "text",
+          "top": 488,
+          "bottom": 902,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 16,
+          "printedPage": 10,
+          "blockType": "text",
+          "top": 142,
+          "bottom": 231,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/03-znaczenie-gier-terenowych",
+      "pdfPages": [
+        20,
+        21
+      ],
+      "printedPages": [
+        14,
+        15
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…szym rzędzie wzroku, którego bystrość tak maleje z każdym rokiem nauki — czy o wpływ na jakąkolwiek funkcję ustroju, tak że według dzisiej-",
+      "after": "szych pojęć o fizycznym wychowaniu młodzieży musi być postawiona na naczelnym miejscu.",
+      "positions": {
+        "before": {
+          "pdfPage": 20,
+          "printedPage": 14,
+          "blockType": "text",
+          "top": 146,
+          "bottom": 902,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 21,
+          "printedPage": 15,
+          "blockType": "text",
+          "top": 144,
+          "bottom": 190,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/03-znaczenie-gier-terenowych",
+      "pdfPages": [
+        21,
+        22
+      ],
+      "printedPages": [
+        15,
+        16
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ytuacji, zmuszającej do pewnego czynu, przeze mnie przewidzianego, dla wykonania którego harcerz musi wzbudzić w sobie nieraz drzemiące do-",
+      "after": "bre instynkty i wydobyć z siebie wszystko, do czego zdolny, ażeby sprostać zadaniu. Przez dokonywanie takich czynów bezwiednie nabiera tych…",
+      "positions": {
+        "before": {
+          "pdfPage": 21,
+          "printedPage": 15,
+          "blockType": "text",
+          "top": 444,
+          "bottom": 894,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 22,
+          "printedPage": 16,
+          "blockType": "text",
+          "top": 132,
+          "bottom": 610,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/03-znaczenie-gier-terenowych",
+      "pdfPages": [
+        22,
+        23
+      ],
+      "printedPages": [
+        16,
+        17
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…lęstwa, wyrabia w sobie inicjatywę, zapomina myśleć o własnej wygodzie tam, gdzie idzie o dobro gromady, staje się zręcznym i obrotnym, wy-",
+      "after": "rabia w sobie przytomność umysłu, panowanie nad sobą i męski hart, uczy się szybkiej orientacji i przezorności, lecz i śmiałości w działani…",
+      "positions": {
+        "before": {
+          "pdfPage": 22,
+          "printedPage": 16,
+          "blockType": "text",
+          "top": 602,
+          "bottom": 868,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 23,
+          "printedPage": 17,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 418,
+          "pageHeight": 1020
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/03-znaczenie-gier-terenowych",
+      "pdfPages": [
+        23,
+        24
+      ],
+      "printedPages": [
+        17,
+        18
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…acę w harcerstwie oprzeć na tej praktyce. Porywające młodzież ćwiczenia i ta rozkoszna swoboda w terenie, ta najmilsza forma ruchu bez żad-",
+      "after": "nych cech przykrego przymusu są wędką, na którą się młodzież bierze. Gdy raz te rzeczy polubi, gdy w nich znajdzie sposób zaspokojenia budz…",
+      "positions": {
+        "before": {
+          "pdfPage": 23,
+          "printedPage": 17,
+          "blockType": "text",
+          "top": 757,
+          "bottom": 866,
+          "pageHeight": 1020
+        },
+        "after": {
+          "pdfPage": 24,
+          "printedPage": 18,
+          "blockType": "text",
+          "top": 136,
+          "bottom": 484,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/03-znaczenie-gier-terenowych",
+      "pdfPages": [
+        24,
+        25
+      ],
+      "printedPages": [
+        18,
+        19
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…y na wycieczkę; raczej poniechać wszystkich innych zajęć, niżby się miało rezygnować z wycieczki. Nigdzie harcerze nie zżyją się tak z sobą",
+      "after": "jak w polu, przy żadnym zebraniu nie nastąpi takie zbliżenie się kierownika do harcerzy jak przy ogni-sku — to więc najlepszy teren do wpły…",
+      "positions": {
+        "before": {
+          "pdfPage": 24,
+          "printedPage": 18,
+          "blockType": "text",
+          "top": 795,
+          "bottom": 886,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 25,
+          "printedPage": 19,
+          "blockType": "text",
+          "top": 144,
+          "bottom": 230,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/03-znaczenie-gier-terenowych",
+      "pdfPages": [
+        25,
+        26
+      ],
+      "printedPages": [
+        19,
+        20
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…akło w czasie ćwiczenia, nie można by mówić o jego wartości wychowawczej. Wszelkie kłótnie, szorstkość i brutalność, a tym więcej szachraj-",
+      "after": "stwo w grze nie mogą istnieć w szeregach harcerskich. Z jednej strony należy je bezwzględnie jak chwast plenić, z drugiej unikać tego, co j…",
+      "positions": {
+        "before": {
+          "pdfPage": 25,
+          "printedPage": 19,
+          "blockType": "text",
+          "top": 784,
+          "bottom": 892,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 26,
+          "printedPage": 20,
+          "blockType": "text",
+          "top": 136,
+          "bottom": 249,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        28,
+        29
+      ],
+      "printedPages": [
+        22,
+        23
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…zyjściu na miejsce, ułoży zabawy i ćwiczenia, ich kolejność i czas trwania (jedne przerobi w czasie marszu, a drugie po przyjściu do celu),",
+      "after": "oznaczy godzinę powrotu, a przed wymarszem skontroluje strój, zapasy żywności oraz rynsztunek i obyczenie harcerzy. Przez cały czas stosowa…",
+      "positions": {
+        "before": {
+          "pdfPage": 28,
+          "printedPage": 22,
+          "blockType": "text",
+          "top": 709,
+          "bottom": 886,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 29,
+          "printedPage": 23,
+          "blockType": "text",
+          "top": 142,
+          "bottom": 252,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        30,
+        31
+      ],
+      "printedPages": [
+        24,
+        25
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…ej sprawie nie można przy tym zapominać. Oto mogą w terenie znajdować się miejsca niebezpieczne, urwiste skały, głębokie wąwozy o urwistych",
+      "after": "brzegach itp. Przy żywym toku ćwiczenia i zapale harcerzy o wypadek wtedy nie trudno: więc też na takim terenie nie przeprowadza się ćwicze…",
+      "positions": {
+        "before": {
+          "pdfPage": 30,
+          "printedPage": 24,
+          "blockType": "text",
+          "top": 818,
+          "bottom": 887,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 31,
+          "printedPage": 25,
+          "blockType": "text",
+          "top": 145,
+          "bottom": 254,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        32,
+        33
+      ],
+      "printedPages": [
+        26,
+        27
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… ciemności, to robi się je wieczorem, a nie w nocy. Noc jest do spania i nie powinno się kraść snu młodzieży przez ćwiczenia tym więcej, że",
+      "after": "to zbyteczne. Ćwiczenia wieczorne bowiem, czyli t. zw. «nocne», trwają krótko i jeżeli ich się nie łączy z wycieczką, można je o zmroku alb…",
+      "positions": {
+        "before": {
+          "pdfPage": 32,
+          "printedPage": 26,
+          "blockType": "text",
+          "top": 771,
+          "bottom": 884,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 33,
+          "printedPage": 27,
+          "blockType": "text",
+          "top": 140,
+          "bottom": 270,
+          "pageHeight": 1019
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        33,
+        34
+      ],
+      "printedPages": [
+        27,
+        28
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…okości kilku centymetrów na ramieniu, nie na kapeluszu, gdyż to utrudnia krycie się w terenie. Jeżeli daje się opaski, to obu partiom i ta-",
+      "after": "kich barw, żeby z pewnego oddalenia jednakowo były widzialne. Odznaka dana tylko jednej stronie stwarza dla niej trudniejsze warunki gry.",
+      "positions": {
+        "before": {
+          "pdfPage": 33,
+          "printedPage": 27,
+          "blockType": "text",
+          "top": 734,
+          "bottom": 888,
+          "pageHeight": 1019
+        },
+        "after": {
+          "pdfPage": 34,
+          "printedPage": 28,
+          "blockType": "text",
+          "top": 135,
+          "bottom": 203,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        34,
+        35
+      ],
+      "printedPages": [
+        28,
+        29
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…się ten błąd zasadniczy przy prowadzeniu ćwiczeń, że bierze się pierwsze lepsze ćwiczenie bez względu na to, czy harcerze są do niego nale-",
+      "after": "życie przygotowani, czy nie — i to się przerabia. Pomijając już kwestię fizycznego wysiłku — o czym była mowa i na co bardzo zwracać należy…",
+      "positions": {
+        "before": {
+          "pdfPage": 34,
+          "printedPage": 28,
+          "blockType": "text",
+          "top": 818,
+          "bottom": 886,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 35,
+          "printedPage": 29,
+          "blockType": "text",
+          "top": 141,
+          "bottom": 336,
+          "pageHeight": 1019
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        35,
+        36
+      ],
+      "printedPages": [
+        29,
+        30
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…wową, a w których właśnie znajduje zastosowanie to, o wyrobienie czego w danym wypadku nam idzie. To rzecz nadzwyczaj ważna. Harcerz bawiąc",
+      "after": "się powinien nabierać sprawności polowej, a robienie z ćwiczenia nauki odbiera mu wszelki urok i zamiast pociągnąć, zniechęca harcerza.",
+      "positions": {
+        "before": {
+          "pdfPage": 35,
+          "printedPage": 29,
+          "blockType": "text",
+          "top": 654,
+          "bottom": 890,
+          "pageHeight": 1019
+        },
+        "after": {
+          "pdfPage": 36,
+          "printedPage": 30,
+          "blockType": "text",
+          "top": 137,
+          "bottom": 205,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        36,
+        37
+      ],
+      "printedPages": [
+        30,
+        31
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…adania w całej jego prostocie tak, że rozwiązanie może być tylko jedno, a droga do niego jasna i prosta — ale także, i to przede wszystkim,",
+      "after": "na więcej lub mniej szczegółowym objaśnieniu harcerzy o położeniu przeciwnika, o tym, jak dążyć do rozwiązania zadania, co grozi, a więc cz…",
+      "positions": {
+        "before": {
+          "pdfPage": 36,
+          "printedPage": 30,
+          "blockType": "text",
+          "top": 712,
+          "bottom": 887,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 37,
+          "printedPage": 31,
+          "blockType": "text",
+          "top": 143,
+          "bottom": 274,
+          "pageHeight": 1019
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        37,
+        38
+      ],
+      "printedPages": [
+        31,
+        32
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…gdzie, bo nie wie, jaki kto rozkaz otrzymał. W każdym razie, czy wręczono koperty, czy nie, myśl przewodnia ćwiczenia i sposób jego rozwią-",
+      "after": "zania muszą być podane harcerzom w sposób jasny i przystępny.",
+      "positions": {
+        "before": {
+          "pdfPage": 37,
+          "printedPage": 31,
+          "blockType": "text",
+          "top": 676,
+          "bottom": 893,
+          "pageHeight": 1019
+        },
+        "after": {
+          "pdfPage": 38,
+          "printedPage": 32,
+          "blockType": "text",
+          "top": 125,
+          "bottom": 171,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        38,
+        39
+      ],
+      "printedPages": [
+        32,
+        33
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… w pół godziny. To jest właśnie dowód małego wyrobienia uczestników. Jeżeli harcerzowi przyjdzie np. przekraść się między strażami nieprzy-",
+      "after": "jacielskimi, to fryc idzie nieopatrznie, byle co najrychlej przejść na drugą stronę, i albo wpadnie w pułapkę, albo wzbudzi czujność przeci…",
+      "positions": {
+        "before": {
+          "pdfPage": 38,
+          "printedPage": 32,
+          "blockType": "text",
+          "top": 700,
+          "bottom": 883,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 39,
+          "printedPage": 33,
+          "blockType": "text",
+          "top": 150,
+          "bottom": 304,
+          "pageHeight": 1019
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        39,
+        40
+      ],
+      "printedPages": [
+        33,
+        34
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…li, co jest głównym zadaniem zastępu i objaśni, kiedy można brać do niewoli a kiedy lepiej tego unikać, bo jest ważniejsze nieraz nie zdra-",
+      "after": "dzić swej obecności — zwłaszcza, jeżeli wzięcie niewolnika nie zaważy zbytnio na szali przy przyznawaniu zwycięstwa.",
+      "positions": {
+        "before": {
+          "pdfPage": 39,
+          "printedPage": 33,
+          "blockType": "text",
+          "top": 536,
+          "bottom": 902,
+          "pageHeight": 1019
+        },
+        "after": {
+          "pdfPage": 40,
+          "printedPage": 34,
+          "blockType": "text",
+          "top": 138,
+          "bottom": 207,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        40,
+        41
+      ],
+      "printedPages": [
+        34,
+        35
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…iętać, że rozochocenie się bawiących może spowodować ten lub ów wybryk, tracący nawet szachrajstwem; takie rzeczy musi się stanowczo tłumić",
+      "after": "a sprawcę surowo skarcić. Najłatwiej o to przy spotkaniu wręcz, gdy np. jeden drugiemu zerwie włóczkę z ramienia a ten mimo to, że jest nie…",
+      "positions": {
+        "before": {
+          "pdfPage": 40,
+          "printedPage": 34,
+          "blockType": "text",
+          "top": 818,
+          "bottom": 892,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 41,
+          "printedPage": 35,
+          "blockType": "text",
+          "top": 149,
+          "bottom": 344,
+          "pageHeight": 1019
+        }
+      }
+    },
+    {
+      "document": "wprowadzenie/04-wskazowki-metodyczne",
+      "pdfPages": [
+        44,
+        45
+      ],
+      "printedPages": [
+        38,
+        39
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "W czasie marszu wolno pić wodę, byle pewną (a więc nigdy z rzek, stawów lub niepewnej studni),",
+      "after": "nie za zimną i w niezbyt wielkiej ilości. Pragnienie gaszą tak samo ciepłe napoje.",
+      "positions": {
+        "before": {
+          "pdfPage": 44,
+          "printedPage": 38,
+          "blockType": "text",
+          "top": 837,
+          "bottom": 886,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 45,
+          "printedPage": 39,
+          "blockType": "text",
+          "top": 131,
+          "bottom": 180,
+          "pageHeight": 1019
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie",
+      "pdfPages": [
+        46,
+        47
+      ],
+      "printedPages": [
+        40,
+        41
+      ],
+      "rule": "page-boundary-lowercase",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…wać się będzie zmuszony. Boć patrol wywiadowczy, wysłany nieraz na większą odległość, przesyła przez gońców zdobyte wiadomości, a nie szedł",
+      "after": "na zwiady prostą, najbliższą drogą, lecz niejednokrotnie przedzierał się przez gąszcze, schodził na boki dla ominięcia nieprzyjaciela czy m…",
+      "positions": {
+        "before": {
+          "pdfPage": 46,
+          "printedPage": 40,
+          "blockType": "text",
+          "top": 806,
+          "bottom": 881,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 47,
+          "printedPage": 41,
+          "blockType": "text",
+          "top": 139,
+          "bottom": 398,
+          "pageHeight": 1019
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie",
+      "pdfPages": [
+        47,
+        48
+      ],
+      "printedPages": [
+        41,
+        42
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…zwija się także przy całym szeregu dalszych ćwiczeń, których najwybitniejszą cechą — wywryć w pamięć obraz mijanego terenu, ażeby móc prze-",
+      "after": "wiady. Te jednak ćwiczenia tym składniej pójdą, im lepiej się harcerze w terenie orientują a w niektórych z nich jest ta dobra orientacja p…",
+      "positions": {
+        "before": {
+          "pdfPage": 47,
+          "printedPage": 41,
+          "blockType": "text",
+          "top": 735,
+          "bottom": 910,
+          "pageHeight": 1019
+        },
+        "after": {
+          "pdfPage": 48,
+          "printedPage": 42,
+          "blockType": "text",
+          "top": 125,
+          "bottom": 276,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/orientowanie",
+      "pdfPages": [
+        51,
+        52
+      ],
+      "printedPages": [
+        45,
+        46
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "Ponieważ najlepiej kształci częste i uważne porównywanie mapy z terenem, ponieważ to najlepiej wy-",
+      "after": "rabia zmysł polowy — przeto te wstępne ćwiczenia powinny trwać krótko, a zastęp winien iść w teren.",
+      "positions": {
+        "before": {
+          "pdfPage": 51,
+          "printedPage": 45,
+          "blockType": "text",
+          "top": 852,
+          "bottom": 899,
+          "pageHeight": 1019
+        },
+        "after": {
+          "pdfPage": 52,
+          "printedPage": 46,
+          "blockType": "text",
+          "top": 140,
+          "bottom": 188,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc",
+      "pdfPages": [
+        83,
+        84
+      ],
+      "printedPages": [
+        77,
+        78
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "… dłuższy czas choćby nie w za małej, lecz w każdym razie bliskiej odległości, tę wadę albo wywołują, albo ją potęgują. Lecz są i inne przy-",
+      "after": "czyny tego stanu, a mianowicie niećwiczenie oka, tj. nierozszerzanie granic jego bystrości. Jak inne narządy można przez umiejętne ćwiczeni…",
+      "positions": {
+        "before": {
+          "pdfPage": 83,
+          "printedPage": 77,
+          "blockType": "text",
+          "top": 610,
+          "bottom": 898,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 84,
+          "printedPage": 78,
+          "blockType": "text",
+          "top": 146,
+          "bottom": 681,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc",
+      "pdfPages": [
+        84,
+        85
+      ],
+      "printedPages": [
+        78,
+        79
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…terenie, jakikolwiek one mają charakter, czy to jest gra ruchowa, czy zwiady w tej lub innej odmianie, czy ćwiczenia w orientacji, czy zwy-",
+      "after": "kła wycieczka itp., wszystkie dają sposobność do bezwiednego ćwiczenia wzroku, bo wzrok, wydobyty z murów miejskich, leci hen w dal, w obce…",
+      "positions": {
+        "before": {
+          "pdfPage": 84,
+          "printedPage": 78,
+          "blockType": "text",
+          "top": 828,
+          "bottom": 895,
+          "pageHeight": 1022
+        },
+        "after": {
+          "pdfPage": 85,
+          "printedPage": 79,
+          "blockType": "text",
+          "top": 147,
+          "bottom": 236,
+          "pageHeight": 1024
+        }
+      }
+    },
+    {
+      "document": "gry/wzrok-spostrzegawczosc",
+      "pdfPages": [
+        85,
+        86
+      ],
+      "printedPages": [
+        79,
+        80
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…wyrobić w sobie, a dochodzi się do niej odpowiednimi ćwiczeniami. Ćwiczenia w orientowaniu się w terenie są równocześnie ćwiczeniami rozwi-",
+      "after": "jającymi zmysł spostrzegawczy, wyrabia się go też ćwiczeniami wzrokowymi, a korzysta z niego i jeszcze więcej rozwija w czasie zwiadów. Lec…",
+      "positions": {
+        "before": {
+          "pdfPage": 85,
+          "printedPage": 79,
+          "blockType": "text",
+          "top": 804,
+          "bottom": 896,
+          "pageHeight": 1024
+        },
+        "after": {
+          "pdfPage": 86,
+          "printedPage": 80,
+          "blockType": "text",
+          "top": 139,
+          "bottom": 269,
+          "pageHeight": 1022
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady",
+      "pdfPages": [
+        142,
+        143
+      ],
+      "printedPages": [
+        136,
+        137
+      ],
+      "rule": "page-boundary-hyphenated-word",
+      "confidence": "high",
+      "action": "auto-joined",
+      "before": "…wych. Tu bowiem znajdują praktyczne zastosowanie wszystkie nabyte wiadomości. Tu zdaje harcerz egzamin, czy umie wyzyskiwać teren przy śle-",
+      "after": "dzeniu nieprzyjaciela, czy zna sposoby podchodzenia i zasady obserwowania bez zdradzenia swej obecności itd., czy, jednym słowem, umie spra…",
+      "positions": {
+        "before": {
+          "pdfPage": 142,
+          "printedPage": 136,
+          "blockType": "text",
+          "top": 793,
+          "bottom": 882,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 143,
+          "printedPage": 137,
+          "blockType": "text",
+          "top": 130,
+          "bottom": 246,
+          "pageHeight": 1018
+        }
+      }
+    },
+    {
+      "document": "gry/zwiady",
+      "pdfPages": [
+        143
+      ],
+      "printedPages": [
+        137
+      ],
+      "rule": "ocr-block-nonterminal-uppercase",
+      "confidence": "medium",
+      "action": "review",
+      "before": "Lecz przypomnijmy sobie przedtem przynajmniej najważniejsze sposoby podchodzenia i obserwacji, które każdy harcerz powinien opanować:",
+      "after": "Czy stoisz na straży, czy się podkradasz pod stanowisko przeciwnika, powinieneś korzystać z każdej nierówności gruntu, z każdego krzaka itp…",
+      "positions": {
+        "before": {
+          "pdfPage": 143,
+          "printedPage": 137,
+          "blockType": "text",
+          "top": 301,
+          "bottom": 372,
+          "pageHeight": 1018
+        },
+        "after": {
+          "pdfPage": 143,
+          "printedPage": 137,
+          "blockType": "text",
+          "top": 365,
+          "bottom": 499,
+          "pageHeight": 1018
+        }
+      }
+    }
+  ]
+}

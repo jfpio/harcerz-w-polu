@@ -27,9 +27,7 @@ Rys. 52.
 
 (Badanie drogi obejmuje tylko pewne szczegóły, np. jaka jej szerokość, jakie ma ona krzywizny i spadki i jakie przeszkody, nie pozwalające zejść na boki. Punkt O nakazuje się poddać takiemu badaniu, ażeby tam zastęp musiał się zatrzymać 5—10 minut).
 
-Trzy zastępy czerwonych zostają wysłane z A i to: I zastęp w stronę N, II — O a III — P. Otrzymują one rozkaz obserwować drogę i donieść do A
-
-o zjawieniu się białych i o ich czynnościach. Czas odmarszu reguluje się tak, ażeby zastęp białych znalazł się w O równocześnie z II zastępem czerwonych.
+Trzy zastępy czerwonych zostają wysłane z A i to: I zastęp w stronę N, II — O a III — P. Otrzymują one rozkaz obserwować drogę i donieść do A o zjawieniu się białych i o ich czynnościach. Czas odmarszu reguluje się tak, ażeby zastęp białych znalazł się w O równocześnie z II zastępem czerwonych.
 
 Ćwiczenie może przejść bez żadnych powikłań: jedni badają drogę, a drudzy donoszą o ich robocie i na tym koniec. Ale mogą zajść także powikłania i to różnorodne, jeżeli zastępowi zorientują się w położeniu i okażą pewną inicjatywę.
 

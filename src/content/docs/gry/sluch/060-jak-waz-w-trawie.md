@@ -19,9 +19,7 @@ sidebar:
 
 Część harcerzy siedzi na ziemi z zawiązanymi oczami, tworząc koło, jeden od drugiego w odstępie 6—10 kroków. W środku koła kładzie się sprzęt harcerski: kapelusze, laski, łopatki, manierki itp. Reszta ma za zadanie, stąpając, czołgając się lub pełzając, wkrąść się do środka koła i w ten sam sposób wynieść stamtąd jeden z leżących przedmiotów. Powinno się przekradać pojedynczo a nie gromadnie, gdyż jeden niezręczny w środku koła może zdradzić wszystkich. Wartownikom wolno wskazywać na podejrzany szmer u swego boku lub w środku koła, a zastępowy sprawdza słuszność spostrzeżenia i odkrytego usuwa. Punkt otrzymuje, kto spełni zadanie. Potem następuje zmiana ról.
 
-Ażeby zabawa szła składnie, podkradanie odbywa się na znak zastępowego, który raz podniesieniem ręki wstrzymuje wysłanego na kilka chwil, to znów wskazuje na innego itp. tak, by w środku koła
-
-znajdował się zawsze tylko jeden harcerz. W razie odkrycia zastępowy woła: «przerwa», podczas której wszyscy pozostają na swych miejscach, a odkryty zostaje usunięty.
+Ażeby zabawa szła składnie, podkradanie odbywa się na znak zastępowego, który raz podniesieniem ręki wstrzymuje wysłanego na kilka chwil, to znów wskazuje na innego itp. tak, by w środku koła znajdował się zawsze tylko jeden harcerz. W razie odkrycia zastępowy woła: «przerwa», podczas której wszyscy pozostają na swych miejscach, a odkryty zostaje usunięty.
 
 ---
 

@@ -11,6 +11,11 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+try:
+    from scripts.line_breaks import Line, classify_break
+except ModuleNotFoundError:
+    from line_breaks import Line, classify_break
+
 
 ROOT = Path(__file__).resolve().parents[1]
 POLONA_URL = "https://polona.pl/item-view/0782bd3a-4d20-41be-86f8-bcdfc65555c5?page=0"
@@ -32,6 +37,27 @@ class LinkParser(HTMLParser):
 
 def fail(message: str, errors: list[str]) -> None:
     errors.append(message)
+
+
+def remaining_high_confidence_breaks(content: str) -> list[tuple[str, str]]:
+    if content.startswith("---\n"):
+        _, _, content = content.partition("\n---\n")
+    lines = content.splitlines()
+    findings: list[tuple[str, str]] = []
+    index = 0
+    while index < len(lines):
+        if lines[index].strip():
+            index += 1
+            continue
+        before_index = index - 1
+        while index < len(lines) and not lines[index].strip():
+            index += 1
+        if before_index < 0 or index >= len(lines):
+            continue
+        decision = classify_break(Line(lines[before_index], 0), Line(lines[index], 0))
+        if decision and decision.confidence == "high":
+            findings.append((lines[before_index][-80:], lines[index][:80]))
+    return findings
 
 
 def main() -> None:
@@ -107,6 +133,48 @@ def main() -> None:
 
     if sorted(found_numbers) != list(range(1, 118)):
         fail("Markdown game numbers contain gaps or duplicates", errors)
+
+    line_break_report_path = ROOT / "data" / "ocr" / "reports" / "line-breaks.json"
+    if not line_break_report_path.exists():
+        fail("Missing paragraph line-break report", errors)
+    else:
+        line_break_report = json.loads(line_break_report_path.read_text(encoding="utf-8"))
+        entries = line_break_report.get("entries", [])
+        summary = line_break_report.get("summary", {})
+        auto_joined = sum(entry.get("action") == "auto-joined" for entry in entries)
+        review = sum(entry.get("action") == "review" for entry in entries)
+        if summary.get("detected") != len(entries):
+            fail("Line-break report detected count does not match its entries", errors)
+        if summary.get("autoJoined") != auto_joined or summary.get("review") != review:
+            fail("Line-break report action totals are inconsistent", errors)
+        if any(
+            entry.get("confidence") == "high" and entry.get("action") != "auto-joined"
+            for entry in entries
+        ):
+            fail("A high-confidence paragraph break was not automatically joined", errors)
+        example = next(
+            (
+                entry
+                for entry in entries
+                if entry.get("document") == "gry/wiekszy-zespol/113-napad-na-linie-kolejowa"
+                and entry.get("before", "").endswith("długości")
+                and entry.get("after", "").startswith("drogi do liczby broniących")
+            ),
+            None,
+        )
+        if not example or example.get("action") != "auto-joined":
+            fail("The verified game 113 page continuation was not automatically joined", errors)
+
+    for path in sorted((ROOT / "src" / "content" / "docs").glob("**/*.md*")):
+        content = path.read_text(encoding="utf-8")
+        findings = remaining_high_confidence_breaks(content)
+        if findings:
+            before, after = findings[0]
+            fail(
+                f"Unresolved high-confidence paragraph break in {path.relative_to(ROOT)}: "
+                f"{before!r} / {after!r}",
+                errors,
+            )
 
     required_pages = [
         ROOT / "src" / "content" / "docs" / "index.mdx",

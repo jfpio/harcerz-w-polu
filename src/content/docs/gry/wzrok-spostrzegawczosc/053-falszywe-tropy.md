@@ -29,9 +29,7 @@ W następstwie takiego założenia tropów musi się zastęp harcerski przy każ
 
 Przy tym ćwiczeniu można wysyłać zastęp za zastępem co 15 minut, przy czym wygrywa ten, który ma czas najlepszy — a można je też wypuścić wszystkie razem. Mając rywali na karku, harcerze tego samego zastępu porozumiewają się wtedy ze sobą umówionymi okrzykami lub znakami, aby dać znać swoim o wpadnięciu na dobry lub zły trop, a z drugiej strony, ażeby zmylić współzawodnika, śledzącego poszukiwania zastępu i jego na fałszywy trop wprowadzić. Od sprytu i pomysłowości tropiących dużo nieraz zawisło. Zbierać lub niszczyć tropów oczywiście nie wolno.
 
-Gdzie odpowiedni teren, można przerabiać opisane ćwiczenia w tropieniu także w ten sposób, że
-
-ślady znaczy się żelazami, przyczepionymi do trzewików. Żelazo takie odbija ślad, wybitnie się różniący od zwyczajnych śladów obuwia (kółko, kilka krzyżyków, rysunek ptaka itp.).
+Gdzie odpowiedni teren, można przerabiać opisane ćwiczenia w tropieniu także w ten sposób, że ślady znaczy się żelazami, przyczepionymi do trzewików. Żelazo takie odbija ślad, wybitnie się różniący od zwyczajnych śladów obuwia (kółko, kilka krzyżyków, rysunek ptaka itp.).
 
 ---
 

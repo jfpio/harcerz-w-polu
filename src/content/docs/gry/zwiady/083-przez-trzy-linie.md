@@ -19,11 +19,7 @@ sidebar:
 
 > **Gra oznaczona w książce gwiazdką:** odpowiedniejsza dla starszych harcerzy.
 
-Ćwiczenie podobne do poprzedniego. Boki przestrzeni, przez którą wolno się przekradać, dokładnie się określa, np. drogą po lewej stronie a krawędzią lasu po prawej. Na tej przestrzeni stoją trzy linie straży. Strzeżenie odbywa się przez szczupłą liczbę
-
-stałych placówek (po 2 ludzi), lecz głównie przez patrolowanie. Patrolowi nie wolno chodzić po całym terenie, może się on poruszać tylko po jednej linii od drogi do lasu wzdłuż rozstawionych placówek. Ile patroli przeznacza się na każdą linię (1—3), zależy to od szerokości przestrzeni, przez którą przekradanie się odbywa. Zamknięcie nie może być oczywiście zanadto gęste. Jedna linia
-
-straży stoi w oddaleniu 200—300 kroków od drugiej.
+Ćwiczenie podobne do poprzedniego. Boki przestrzeni, przez którą wolno się przekradać, dokładnie się określa, np. drogą po lewej stronie a krawędzią lasu po prawej. Na tej przestrzeni stoją trzy linie straży. Strzeżenie odbywa się przez szczupłą liczbę stałych placówek (po 2 ludzi), lecz głównie przez patrolowanie. Patrolowi nie wolno chodzić po całym terenie, może się on poruszać tylko po jednej linii od drogi do lasu wzdłuż rozstawionych placówek. Ile patroli przeznacza się na każdą linię (1—3), zależy to od szerokości przestrzeni, przez którą przekradanie się odbywa. Zamknięcie nie może być oczywiście zanadto gęste. Jedna linia straży stoi w oddaleniu 200—300 kroków od drugiej.
 
 10—20 harcerzy przekrada się przez linie nieprzyjaciół, aby dotrzeć do latarki X, umieszczonej w odległości 200—300 kroków poza trzecią linią (granica).
 

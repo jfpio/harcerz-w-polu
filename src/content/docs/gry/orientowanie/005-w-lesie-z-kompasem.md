@@ -27,9 +27,7 @@ kierunek. Po upływie tego czasu zawracają i idą z powrotem dokładnie w odwro
 
 Rys. 13.
 
-ona tkwiła, znak sobie tylko wiadomy, a sam staje w innym miejscu. Po skończeniu marszu następuje sprawdzenie, który harcerz wykazuje najmniejsze odchylenie od nakazanego mu kierunku marszu. Nie będzie błędem, gdy wracający harcerz nie dojdzie do zrobionego znaku (lub go minie), teren bowiem może
-
-być spadzisty, powrót zatem pod górę trwać będzie dłużej, błędem natomiast będzie większe odchylenie od kierunku marszu.
+ona tkwiła, znak sobie tylko wiadomy, a sam staje w innym miejscu. Po skończeniu marszu następuje sprawdzenie, który harcerz wykazuje najmniejsze odchylenie od nakazanego mu kierunku marszu. Nie będzie błędem, gdy wracający harcerz nie dojdzie do zrobionego znaku (lub go minie), teren bowiem może być spadzisty, powrót zatem pod górę trwać będzie dłużej, błędem natomiast będzie większe odchylenie od kierunku marszu.
 
 Urozmaiceniem i poniekąd rozszerzeniem ćwiczenia będzie dodatek, że w czasie marszu kładzie się kartki z numerami w łatwych do zapamiętania punktach drogi, a podczas powrotu je się zbiera. Można przy tym w jedną stronę iść z busolą w ręku, a wracać li tylko orientując się obrazem drogi i zbierając kartki. W tym ostatnim wypadku byłoby raczej wskazane wyprawić harcerzy z polany leśnej, na którą mają powrócić, aniżeli, jak poprzednio, z jednego punktu.
 
@@ -37,9 +35,7 @@ b) Ćwiczenie przeprowadza się jak poprzednie, lecz harcerz po 3—5 min. marsz
 
 Przypuśćmy, że harcerze rozchodzą się pod kątami kierunkowymi 45°—110°—225°, wycelowując na punkty, do których zdążają, linię Pn—Pd (jak w ćw. Nr 4 b) i że po upływie 5 minut mają iść dalej, zmieniając kierunek o 90° na prawo. W takim razie w miejscu zmiany kierunku — nb. jeżeli kompas ma podziałkę na stopnie na 1 e w o — dodają po 90° i pierwszy nastawia igłę na 135° (45+90), drugi na 200° (110+90), trzeci na 315° (225+90). To są azymuty dla ich nowych kierunków.
 
-Jeżeli zaś podziałka kompasu jest umieszczona na prawo, to odejmują po 90° i pierwszy, mając pierwotnie igłę nastawioną na 315° (azymut: 360—315 = 45° p. rys. 12), nastawia ją na 225° (315—90 = 225), drugi z 250° (azymut: 360—250 = 110°)
-
-na 160° (250—90 = 160), trzeci z 135° (azymut;
+Jeżeli zaś podziałka kompasu jest umieszczona na prawo, to odejmują po 90° i pierwszy, mając pierwotnie igłę nastawioną na 315° (azymut: 360—315 = 45° p. rys. 12), nastawia ją na 225° (315—90 = 225), drugi z 250° (azymut: 360—250 = 110°) na 160° (250—90 = 160), trzeci z 135° (azymut;
 360—135 = 225°) na 45°; przy tych nowych azymutach wszyscy trzej idą dalej w kierunku linii Pn—Pd
 jak w ćw. Nr 4 b.
 
@@ -72,9 +68,7 @@ należy zrobić znak
 orientacyjny dla ułatwienia powrotu.
 
 c) Różnica między tym ćwiczeniem a poprzednim polega na
-tym, że po marszu
-
-w dwóch kierunkach harcerz nie wraca tą samą, lecz
+tym, że po marszu w dwóch kierunkach harcerz nie wraca tą samą, lecz
 najbliższą drogą do punktu wymarszu. Droga załamuje się przeto dwukrotnie. Z początku daje się zasadnicze, więc łatwe kierunki jak w rys. 16 — potem kąty kierunkowe, jak w rys. 10. Tak tutaj, jak i w ćwiczeniu pod b) należy w miejscach zmiany kierunku postawić pomocników, którzy będą pomocni przy ustalaniu nowej drogi marszu.
 
 Ostatnie ćwiczenie jest trudniejsze i można je przerabiać tylko wtedy, gdy poprzednie dwa idą składnie. Powyższe ćwiczenia trudniej wykonać w czasie zmroku, co jednak należy próbować.

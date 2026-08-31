@@ -21,9 +21,7 @@ Na terenie do 1.000 m w głąb, a kilkaset metrów wszerz, którego boczne grani
 
 W punkcie obserwacji stoi zastępowy białych, który na znak rozpoczęcia ćwiczenia podnosi chorągiew do góry. Czerwoni trwają w bezruchu, ażeby nie zdradzić swego miejsca (ukrywać się nie wolno), biali natomiast podchodzą z ukrycia do swego zastępowego i każdy na własną rękę wyszukuje czerwonych w terenie (liczba ich powinna im być znana). Jeżeli którego z czerwonych biali nie mogą odnaleźć, zastępowy ułatwia im to, ścieśniając przestrzeń obserwacji; jeżeli i teraz nikt go nie wyszuka, porusza się chorągwią w prawo i w lewo, a na ten znak zaczynają się czerwoni poruszać, przez co łatwiej wpadną w oko.
 
-Po wyszukaniu wszystkich ocenia się ich oddalenia. Każdy zapisuje oceny w swej karcie i to w kolei,
-
-nakazanej przez zastępowego. Potem podaje się faktyczne odległości dla przekonania się o ewentualnym błędzie.
+Po wyszukaniu wszystkich ocenia się ich oddalenia. Każdy zapisuje oceny w swej karcie i to w kolei, nakazanej przez zastępowego. Potem podaje się faktyczne odległości dla przekonania się o ewentualnym błędzie.
 
 Biali odchodzą do swego ukrycia, chorągiew opuszcza się, a wtedy czerwoni zmieniają swe stanowiska i gdy są gotowi, dają znać gwizdkiem. Chorągiew idzie wtedy w górę. Biali wychodzą powtórnie i znowu przeszukują teren, a potem oceniają odległość. To powtarza się po trzykroć, po czym oba zastępy zmieniają swoje role.
 

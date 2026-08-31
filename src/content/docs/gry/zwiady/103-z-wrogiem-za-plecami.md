@@ -21,9 +21,7 @@ sidebar:
 
 Zastęp białych idzie z punktu B w kierunku A, obsadza most na rzece (tj. punkt, zaznaczony 2 chorągiewkami na drodze) i obserwuje, czy czerwoni nie zbliżają się do A, gdzie właśnie mają przebywać. Po przybyciu do mostu, a potem regularnie co kwadrans (ew. 20—30 minut) ma wysyłać raporty do B o tym, co zauważył i w końcu po godzinie (ew. 1½ godz.) powrócić.
 
-Tymczasem zastęp czerwonych, który w tajemnicy przed białymi znajduje się w punkcie O i zdążać ma w kierunku B, dowiaduje się, że biali obsadzili most i że stamtąd ślą ustawicznie raporty do B, dokąd też powrócą. (Czerwoni mają się znaleźć w punkcie B mniej więcej w tym samym czasie, kiedy biali doszli do mostu). Wobec tego postanawia przejmować raporty, a nawet zrobić zasadzkę na zastęp białych w czasie jego powrotu. Ze swej strony ma wysłać meldunek do A o tym, czego się dowiedział i co
-
-zamierza zrobić. Goniec czerwonych może iść tylko przez most do A.
+Tymczasem zastęp czerwonych, który w tajemnicy przed białymi znajduje się w punkcie O i zdążać ma w kierunku B, dowiaduje się, że biali obsadzili most i że stamtąd ślą ustawicznie raporty do B, dokąd też powrócą. (Czerwoni mają się znaleźć w punkcie B mniej więcej w tym samym czasie, kiedy biali doszli do mostu). Wobec tego postanawia przejmować raporty, a nawet zrobić zasadzkę na zastęp białych w czasie jego powrotu. Ze swej strony ma wysłać meldunek do A o tym, czego się dowiedział i co zamierza zrobić. Goniec czerwonych może iść tylko przez most do A.
 
 Biali nie wiedzą, że mają wroga poza plecami i że przejmuje on ich meldunki. Chyba, że ich goniec przytomny i ostrożny i zdąży ujść lub przynajmniej sygnałem ostrzec o niebezpieczeństwie. Jeżeli biali usłyszą sygnał ostrzegawczy, to ponieważ nie mogą opuścić swej placówki i nie wiedzą, co on oznacza, powinni wysłać następny meldunek dwiema drogami przez dwóch ludzi, by choć jeden z nich dotarł do celu. Gdy zaś cały zastęp będzie powracał, pójdzie z największą ostrożnością.
 

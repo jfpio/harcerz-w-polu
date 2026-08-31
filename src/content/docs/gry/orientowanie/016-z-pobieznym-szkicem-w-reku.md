@@ -23,9 +23,7 @@ Harcerze otrzymują szkic pewnej okolicy, na którym wyrysowano tylko kilka waż
 
 Przy wymarszu otrzymują wszyscy tylko wiadomość, że szukany odcinek terenu znajduje się np. w kierunku Z, a jeśli się chce zadanie ułatwić, to podaje się nadto (np. 3—5 km) albo czas, w jakim się do niego dotrze.
 
-Urozmaici się ćwiczenie, dodając zadanie, ażeby szkic uzupełnić wrysowaniem weń jeszcze kilku wybitnych przedmiotów terenu, których
-
-rych miejsce należy ustalić przy pomocy busoli tak, ażeby szkic przedstawiał teraz w całości pewną wartość. Harcerze muszą zatem naprzód wyszukać teren, przedstawiony w szkicu, a potem ustawicznie się orientować co do stron świata, ażeby nowe szczegóły w dobrym miejscu w szkicu umieścić.
+Urozmaici się ćwiczenie, dodając zadanie, ażeby szkic uzupełnić wrysowaniem weń jeszcze kilku wybitnych przedmiotów terenu, których miejsce należy ustalić przy pomocy busoli tak, ażeby szkic przedstawiał teraz w całości pewną wartość. Harcerze muszą zatem naprzód wyszukać teren, przedstawiony w szkicu, a potem ustawicznie się orientować co do stron świata, ażeby nowe szczegóły w dobrym miejscu w szkicu umieścić.
 
 Można i tu — jak przy poprzednim ćwiczeniu — dodać zastęp nieprzyjacielski.
 

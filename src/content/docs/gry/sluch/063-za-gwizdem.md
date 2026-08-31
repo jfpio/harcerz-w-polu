@@ -17,9 +17,7 @@ sidebar:
 
 > **Transkrypcja OCR — wersja beta.** Tekst zachowuje pisownię wydania z 1946 roku. Jeżeli zauważysz błąd rozpoznania, użyj odsyłacza „Edytuj stronę” na dole.
 
-Gdy się dobrze ściemni, jeden harcerz oddala się od zastępu i klucząc chowa się w miejscu, nikomu niewiadomym. Stamtąd raz gwiżdże. Reszta stojąc
-
-w grupce orientuje się, skąd gwizd doszedł i z jakiej odległości, i każdy rusza oddzielnie w ustalonym przez siebie kierunku, po czym staje w miejscu, które według niego jest najbliższe schowanego (można również zatknąć gałązkę w tym punkcie na dowód swej bytności i powrócić). Teraz trzykrotny gwizd zastępowego wzywa ukrytego do ukazania się, a następnie ustala się, kto najbliżej do niego podszedł.
+Gdy się dobrze ściemni, jeden harcerz oddala się od zastępu i klucząc chowa się w miejscu, nikomu niewiadomym. Stamtąd raz gwiżdże. Reszta stojąc w grupce orientuje się, skąd gwizd doszedł i z jakiej odległości, i każdy rusza oddzielnie w ustalonym przez siebie kierunku, po czym staje w miejscu, które według niego jest najbliższe schowanego (można również zatknąć gałązkę w tym punkcie na dowód swej bytności i powrócić). Teraz trzykrotny gwizd zastępowego wzywa ukrytego do ukazania się, a następnie ustala się, kto najbliżej do niego podszedł.
 
 Pewną odmianę tej zabawy przedstawia schowanie się jednego harcerza, który od czasu do czasu gwiżdże, przy czym reszta go szuka. Kto go znajdzie, ten wygrywa. Można także pozwolić na zmianę kryjówki w odpowiedniej chwili, co utrudnia szukanie. Oczywiście, ukryty gwiżdże lub zmienia kryjówkę tylko wtedy, gdy się przez to nie naraża na odkrycie.
 

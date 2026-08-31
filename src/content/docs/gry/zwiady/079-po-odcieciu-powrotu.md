@@ -23,9 +23,7 @@ Zastęp białych wraca po wywiadach do swego oddziału w X. Droga wije się lase
 
 Z przeciwnej strony, tą samą drogą, idzie zastęp czerwonych z chorągwią. Ten otrzymał rozkaz patrolowania wzdłuż drogi i spędzania z niej nieprzyjaciela, a jeśli się da, brania go do niewoli.
 
-Czas należy tak obliczyć, aby przeciwnicy spotkali się na drodze w lesie. Czerwony przystępuje bezzwłocznie do ataku — a biały? Tu pokaże się, czy się on szybko orientuje i czy nie zaniedbał wydania wcześniej koniecznych rozkazów. Bo powinien się rozsypać na gwizd zastępowego. Ale co dalej? Czy zbierze się i jak prędko w miejscu zbiorki, skąd zastęp w całości do X powróci, czy nie zaniedbano tego
-
-miejsca wyznaczyć i czy może każdy z osobna będzie się ściągał do X?
+Czas należy tak obliczyć, aby przeciwnicy spotkali się na drodze w lesie. Czerwony przystępuje bezzwłocznie do ataku — a biały? Tu pokaże się, czy się on szybko orientuje i czy nie zaniedbał wydania wcześniej koniecznych rozkazów. Bo powinien się rozsypać na gwizd zastępowego. Ale co dalej? Czy zbierze się i jak prędko w miejscu zbiorki, skąd zastęp w całości do X powróci, czy nie zaniedbano tego miejsca wyznaczyć i czy może każdy z osobna będzie się ściągał do X?
 
 Biorąc w rachubę drogę marszu, rozsypkę, zbiórkę i ostateczny powrót, łatwo obliczyć, czy zastęp białych rzecz wykonał dobrze i w dobrym czasie, czy też w ogóle błędnie i w złym czasie.
 

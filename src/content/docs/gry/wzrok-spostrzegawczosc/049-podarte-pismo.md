@@ -21,9 +21,7 @@ Na podstawie podartych strzępków papieru ma się dojść, jaka jest treść pi
 
 Zastępowy pisze rozkaz na ćwiartce papieru, drze go na drobne strzępy i te na wiatr rozrzuca. Potem wraca do zastępu i poleca iść np. w kierunku Pn 100 kroków, bo tam, na stoku wzgórza, widać strzępy papieru, które należy pozbierać i z nich pismo odczytać. Trudno odnaleźć wszystkie podarte kawałki, więc idzie o to, ażeby na podstawie fragmentów dojść do treści. Jeżeli zastęp podany rozkaz wykona, składa dowód, że wywiązał się z zadania. Można je utrudnić przez oznaczenie czasu, w jakim rozkaz ma być wykonany.
 
-W ćwiczeniu tym może zawodniczyć kilka zastępów. Wtedy bierze się tyle ćwiartek papieru, ile jest zastępów, na każdej wypisuje się ten sam rozkaz i to tak, ażeby liczba wierszy była jednakowa, każdy
-
-wiersz kończył się na tę samą zgłoskę, a treść zajmowała tę samą powierzchnię papieru — po czym drze się je na tę samą liczbę kawałków. Każdą ćwiartkę rozrzuca się w innym miejscu, w równym oddaleniu od obozów, i każdemu zastępowi wskazuje się miejsce, gdzie ma szukać.
+W ćwiczeniu tym może zawodniczyć kilka zastępów. Wtedy bierze się tyle ćwiartek papieru, ile jest zastępów, na każdej wypisuje się ten sam rozkaz i to tak, ażeby liczba wierszy była jednakowa, każdy wiersz kończył się na tę samą zgłoskę, a treść zajmowała tę samą powierzchnię papieru — po czym drze się je na tę samą liczbę kawałków. Każdą ćwiartkę rozrzuca się w innym miejscu, w równym oddaleniu od obozów, i każdemu zastępowi wskazuje się miejsce, gdzie ma szukać.
 
 Na dany znak rozbiegają się zastępy. Jedni zbierają skrzętnie strzępy, drudzy składają je i starają się treść odczytać. Potem następuje wykonanie napisanego rozkazu. Ten zastęp wygrywa, który najwcześniej go wykona. Rozkaz może brzmieć np.: «Zastęp ma stanąć w szeregu wzdłuż prawego brzegu potoku, złożyć rynsztunek za sobą zatrzymując laski, a jego zastępowy ma przyjść do mnie i oznajmić, że zastęp gotowy».
 

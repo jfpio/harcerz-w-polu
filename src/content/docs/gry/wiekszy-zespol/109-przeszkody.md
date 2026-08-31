@@ -33,9 +33,7 @@ tak im marsz utrudniać, ażeby nie zdążyli na czas dojść
 do mety.
 
 Jak z tego wynika, czerwoni będą starali się
-w pierwszym rzędzie zdobyć wiadomości o kierunku
-
-marszu białych. Wyślą przeto w ich stronę tęgich zwiadowców w grupkach po 2—3, by na podstawie przysyłanych raportów urządzić w najodpowiedniejszym miejscu zasadzkę. Zwiadowcy muszą z raz odkrytym nieprzyjacielem utrzymywać ustawiczny kontakt, gdyż biali mogą na pewnym odcinku zmienić drogę marszu, co musiałoby też pociągnąć za sobą zmianę planu czerwonych. Jeżeli czerwonym uda się zbliżyć niepostrzeżenie do białych na odległość 40—50 kroków i to w liczbie co najmniej równej ¼ części siły maszerujących i wypaść nagle z zasadzki, to zasadzka się udała. Jeżeli zaś zostaną w czas odkryci, muszą się cofnąć przed białymi, jeżeli oddział białych w dwójnasób przeważa ich siły.
+w pierwszym rzędzie zdobyć wiadomości o kierunku marszu białych. Wyślą przeto w ich stronę tęgich zwiadowców w grupkach po 2—3, by na podstawie przysyłanych raportów urządzić w najodpowiedniejszym miejscu zasadzkę. Zwiadowcy muszą z raz odkrytym nieprzyjacielem utrzymywać ustawiczny kontakt, gdyż biali mogą na pewnym odcinku zmienić drogę marszu, co musiałoby też pociągnąć za sobą zmianę planu czerwonych. Jeżeli czerwonym uda się zbliżyć niepostrzeżenie do białych na odległość 40—50 kroków i to w liczbie co najmniej równej ¼ części siły maszerujących i wypaść nagle z zasadzki, to zasadzka się udała. Jeżeli zaś zostaną w czas odkryci, muszą się cofnąć przed białymi, jeżeli oddział białych w dwójnasób przeważa ich siły.
 
 Więc też biali nie maszerują bez zabezpieczenia, lecz przez zwiadowców, wysłanych na boki i naprzód, starają się upewnić o bezpieczeństwie drogi. W razie odkrycia zasadzki albo zmuszają czerwonych do odwrotu, albo zmieniają kierunek marszu, przechodząc na inną drogę, którą im wolno się poruszać i przez to krzyżują plany czerwonych. Ci bowiem muszą teraz opuścić miejsce zasadzki, zabiec drogę białym i w innym miejscu próbować napadu. To w każdym razie opóźnia pochód białych.
 
