@@ -24,9 +24,9 @@ export default defineConfig({
       head: [
         { tag: 'meta', attrs: { property: 'og:type', content: 'book' } },
         { tag: 'meta', attrs: { property: 'og:site_name', content: 'Harcerz w polu' } },
-        { tag: 'meta', attrs: { property: 'og:image', content: `${publicSite}/book/cover.jpg` } },
+        { tag: 'meta', attrs: { property: 'og:image', content: `${publicSite}/book/cover.png` } },
         { tag: 'meta', attrs: { name: 'twitter:card', content: 'summary_large_image' } },
-        { tag: 'meta', attrs: { name: 'twitter:image', content: `${publicSite}/book/cover.jpg` } },
+        { tag: 'meta', attrs: { name: 'twitter:image', content: `${publicSite}/book/cover.png` } },
         {
           tag: 'link',
           attrs: {

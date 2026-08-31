@@ -415,7 +415,7 @@ def write_index(game_index: list[dict[str, Any]]) -> None:
         "editUrl: false",
     ]
     body = f"""
-<img class="book-cover-inline" src="{BASE}/book/cover.jpg" alt="Fotografia okładki książki Harcerz w polu" />
+<img class="book-cover-inline" src="{BASE}/book/cover.png" alt="Okładka piątego wydania książki Harcerz w polu" />
 
 **Zabawy i gry terenowe — cyfrowa transkrypcja piątego wydania z 1946 roku.**
 

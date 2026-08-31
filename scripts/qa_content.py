@@ -125,6 +125,10 @@ def main() -> None:
     if not public_pdf.exists() or public_pdf.stat().st_size != 69_337_979:
         fail("Published PDF is missing or does not match the inspected source size", errors)
 
+    cover = ROOT / "public" / "book" / "cover.png"
+    if not cover.exists() or cover.stat().st_size < 500_000:
+        fail("Published cover image is missing or unexpectedly small", errors)
+
     llm_files = [
         ROOT / "public" / "llms.txt",
         ROOT / "public" / "llms-full.txt",
