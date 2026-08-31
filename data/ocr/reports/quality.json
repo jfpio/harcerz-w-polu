@@ -1,0 +1,3659 @@
+{
+  "status": "ocr-beta",
+  "pages": 260,
+  "games": 117,
+  "pageSummary": [
+    {
+      "pdfPage": 1,
+      "averageConfidence": 0.9669247106614113,
+      "markdownCharacters": 2233,
+      "images": 1,
+      "weakWords": 41
+    },
+    {
+      "pdfPage": 2,
+      "averageConfidence": 0.8691154203892619,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 3,
+      "averageConfidence": 0.9749971714364559,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 4,
+      "averageConfidence": 0.8680583531631095,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 5,
+      "averageConfidence": 0.8977349246947499,
+      "markdownCharacters": 101,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 6,
+      "averageConfidence": 0.6208624849874309,
+      "markdownCharacters": 25,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 7,
+      "averageConfidence": 0.9986915691083794,
+      "markdownCharacters": 16,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 8,
+      "averageConfidence": 0.6410166709189434,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 9,
+      "averageConfidence": 0.9548263465337795,
+      "markdownCharacters": 148,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 10,
+      "averageConfidence": 0.9279471419002754,
+      "markdownCharacters": 151,
+      "images": 1,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 11,
+      "averageConfidence": 0.9975584453767594,
+      "markdownCharacters": 1324,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 12,
+      "averageConfidence": 0.9976591106266312,
+      "markdownCharacters": 1467,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 13,
+      "averageConfidence": 0.9970642974492743,
+      "markdownCharacters": 1014,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 14,
+      "averageConfidence": 0.9972894644143537,
+      "markdownCharacters": 1739,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 15,
+      "averageConfidence": 0.9951617330677803,
+      "markdownCharacters": 1681,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 16,
+      "averageConfidence": 0.9956668145262256,
+      "markdownCharacters": 1634,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 17,
+      "averageConfidence": 0.9926278298782752,
+      "markdownCharacters": 959,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 18,
+      "averageConfidence": 0.6778933730178904,
+      "markdownCharacters": 25,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 19,
+      "averageConfidence": 0.9976032658747948,
+      "markdownCharacters": 1378,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 20,
+      "averageConfidence": 0.9964885013460603,
+      "markdownCharacters": 1777,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 21,
+      "averageConfidence": 0.9961561318433613,
+      "markdownCharacters": 1749,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 22,
+      "averageConfidence": 0.9959391499726923,
+      "markdownCharacters": 1702,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 23,
+      "averageConfidence": 0.9957796990428052,
+      "markdownCharacters": 1714,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 24,
+      "averageConfidence": 0.99726447340811,
+      "markdownCharacters": 1725,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 25,
+      "averageConfidence": 0.9952888744434554,
+      "markdownCharacters": 1723,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 26,
+      "averageConfidence": 0.99771989981685,
+      "markdownCharacters": 1730,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 27,
+      "averageConfidence": 0.998838090726113,
+      "markdownCharacters": 572,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 28,
+      "averageConfidence": 0.9939625581349746,
+      "markdownCharacters": 1240,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 29,
+      "averageConfidence": 0.993460218198326,
+      "markdownCharacters": 1574,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 30,
+      "averageConfidence": 0.9975989116353934,
+      "markdownCharacters": 1681,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 31,
+      "averageConfidence": 0.994620184764574,
+      "markdownCharacters": 1562,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 32,
+      "averageConfidence": 0.9966148087362008,
+      "markdownCharacters": 1680,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 33,
+      "averageConfidence": 0.9938521634278353,
+      "markdownCharacters": 1576,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 34,
+      "averageConfidence": 0.9960374885754573,
+      "markdownCharacters": 1609,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 35,
+      "averageConfidence": 0.9975955463079142,
+      "markdownCharacters": 1744,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 36,
+      "averageConfidence": 0.9952797155897929,
+      "markdownCharacters": 1593,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 37,
+      "averageConfidence": 0.9973134546869087,
+      "markdownCharacters": 1799,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 38,
+      "averageConfidence": 0.9963124117168894,
+      "markdownCharacters": 1467,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 39,
+      "averageConfidence": 0.996910256815538,
+      "markdownCharacters": 1823,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 40,
+      "averageConfidence": 0.992206905783679,
+      "markdownCharacters": 1489,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 41,
+      "averageConfidence": 0.9958578821882076,
+      "markdownCharacters": 1581,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 42,
+      "averageConfidence": 0.9963417183889038,
+      "markdownCharacters": 1431,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 43,
+      "averageConfidence": 0.9969650968842932,
+      "markdownCharacters": 1389,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 44,
+      "averageConfidence": 0.9975827054219403,
+      "markdownCharacters": 1472,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 45,
+      "averageConfidence": 0.9968160365353657,
+      "markdownCharacters": 984,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 46,
+      "averageConfidence": 0.9929374070548549,
+      "markdownCharacters": 650,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 47,
+      "averageConfidence": 0.9966290766762462,
+      "markdownCharacters": 1773,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 48,
+      "averageConfidence": 0.9951624464971325,
+      "markdownCharacters": 1701,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 49,
+      "averageConfidence": 0.9961260701860353,
+      "markdownCharacters": 1542,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 50,
+      "averageConfidence": 0.9972963918969356,
+      "markdownCharacters": 1946,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 51,
+      "averageConfidence": 0.9963341050419566,
+      "markdownCharacters": 1739,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 52,
+      "averageConfidence": 0.9967449261579178,
+      "markdownCharacters": 1488,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 53,
+      "averageConfidence": 0.9975819357507836,
+      "markdownCharacters": 1148,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 54,
+      "averageConfidence": 0.9956041667380753,
+      "markdownCharacters": 1461,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 55,
+      "averageConfidence": 0.9936894396964241,
+      "markdownCharacters": 1410,
+      "images": 1,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 56,
+      "averageConfidence": 0.9983525555508127,
+      "markdownCharacters": 1220,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 57,
+      "averageConfidence": 0.9946924899883197,
+      "markdownCharacters": 992,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 58,
+      "averageConfidence": 0.9993328358591502,
+      "markdownCharacters": 1564,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 59,
+      "averageConfidence": 0.9968935688755763,
+      "markdownCharacters": 1363,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 60,
+      "averageConfidence": 0.9961320247514281,
+      "markdownCharacters": 1383,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 61,
+      "averageConfidence": 0.9972427542034342,
+      "markdownCharacters": 999,
+      "images": 2,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 62,
+      "averageConfidence": 0.9937414070098542,
+      "markdownCharacters": 995,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 63,
+      "averageConfidence": 0.9955189162813753,
+      "markdownCharacters": 1591,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 64,
+      "averageConfidence": 0.9942941107474672,
+      "markdownCharacters": 1058,
+      "images": 2,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 65,
+      "averageConfidence": 0.9978433372830755,
+      "markdownCharacters": 1240,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 66,
+      "averageConfidence": 0.9951004795831098,
+      "markdownCharacters": 1582,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 67,
+      "averageConfidence": 0.9947368559203384,
+      "markdownCharacters": 1522,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 68,
+      "averageConfidence": 0.9947946684622272,
+      "markdownCharacters": 1481,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 69,
+      "averageConfidence": 0.9962583655805312,
+      "markdownCharacters": 1608,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 70,
+      "averageConfidence": 0.9972628680457384,
+      "markdownCharacters": 1516,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 71,
+      "averageConfidence": 0.9915914620790538,
+      "markdownCharacters": 782,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 72,
+      "averageConfidence": 0.9931952190318885,
+      "markdownCharacters": 744,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 73,
+      "averageConfidence": 0.996560814640272,
+      "markdownCharacters": 1488,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 74,
+      "averageConfidence": 0.9976839652323458,
+      "markdownCharacters": 1538,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 75,
+      "averageConfidence": 0.9944119373970904,
+      "markdownCharacters": 1216,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 76,
+      "averageConfidence": 0.9971383699618009,
+      "markdownCharacters": 1594,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 77,
+      "averageConfidence": 0.9959830387645104,
+      "markdownCharacters": 1127,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 78,
+      "averageConfidence": 0.9959497089117709,
+      "markdownCharacters": 1310,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 79,
+      "averageConfidence": 0.9968942864354347,
+      "markdownCharacters": 1152,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 80,
+      "averageConfidence": 0.996576283542884,
+      "markdownCharacters": 1537,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 81,
+      "averageConfidence": 0.996829131666237,
+      "markdownCharacters": 914,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 82,
+      "averageConfidence": 0.9914917194541389,
+      "markdownCharacters": 574,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 83,
+      "averageConfidence": 0.9959909340008158,
+      "markdownCharacters": 716,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 84,
+      "averageConfidence": 0.9960672074672464,
+      "markdownCharacters": 1724,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 85,
+      "averageConfidence": 0.9962390414320019,
+      "markdownCharacters": 1625,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 86,
+      "averageConfidence": 0.9949786644331404,
+      "markdownCharacters": 1537,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 87,
+      "averageConfidence": 0.9970231097860246,
+      "markdownCharacters": 1486,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 88,
+      "averageConfidence": 0.9987717657054002,
+      "markdownCharacters": 1499,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 89,
+      "averageConfidence": 0.9955227654414541,
+      "markdownCharacters": 1508,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 90,
+      "averageConfidence": 0.9983673374780284,
+      "markdownCharacters": 1532,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 91,
+      "averageConfidence": 0.996516502044934,
+      "markdownCharacters": 1449,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 92,
+      "averageConfidence": 0.9964110344750241,
+      "markdownCharacters": 1482,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 93,
+      "averageConfidence": 0.9970157045492858,
+      "markdownCharacters": 1414,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 94,
+      "averageConfidence": 0.9962900885375181,
+      "markdownCharacters": 867,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 95,
+      "averageConfidence": 0.9980449815014064,
+      "markdownCharacters": 1531,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 96,
+      "averageConfidence": 0.9939274186505018,
+      "markdownCharacters": 1289,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 97,
+      "averageConfidence": 0.9960799503120824,
+      "markdownCharacters": 1412,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 98,
+      "averageConfidence": 0.9874426148605837,
+      "markdownCharacters": 1536,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 99,
+      "averageConfidence": 0.9958749377312994,
+      "markdownCharacters": 1408,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 100,
+      "averageConfidence": 0.9976716704474317,
+      "markdownCharacters": 1563,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 101,
+      "averageConfidence": 0.9982235590446533,
+      "markdownCharacters": 1634,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 102,
+      "averageConfidence": 0.9973724639225644,
+      "markdownCharacters": 1464,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 103,
+      "averageConfidence": 0.994859632785317,
+      "markdownCharacters": 1295,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 104,
+      "averageConfidence": 0.9914042494169636,
+      "markdownCharacters": 1294,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 105,
+      "averageConfidence": 0.9955853833434404,
+      "markdownCharacters": 1056,
+      "images": 2,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 106,
+      "averageConfidence": 0.9979014765944662,
+      "markdownCharacters": 962,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 107,
+      "averageConfidence": 0.9961421951816893,
+      "markdownCharacters": 1631,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 108,
+      "averageConfidence": 0.9983079048318371,
+      "markdownCharacters": 1660,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 109,
+      "averageConfidence": 0.9978564165863568,
+      "markdownCharacters": 1560,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 110,
+      "averageConfidence": 0.9974788742225995,
+      "markdownCharacters": 2616,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 111,
+      "averageConfidence": 0.995122154817019,
+      "markdownCharacters": 1528,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 112,
+      "averageConfidence": 0.9961034758504316,
+      "markdownCharacters": 750,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 113,
+      "averageConfidence": 0.9978493834198225,
+      "markdownCharacters": 1478,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 114,
+      "averageConfidence": 0.9962480124116407,
+      "markdownCharacters": 1429,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 115,
+      "averageConfidence": 0.9923591056657037,
+      "markdownCharacters": 588,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 116,
+      "averageConfidence": 0.9956082147461951,
+      "markdownCharacters": 1613,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 117,
+      "averageConfidence": 0.9977790360974654,
+      "markdownCharacters": 1628,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 118,
+      "averageConfidence": 0.9961114417761363,
+      "markdownCharacters": 1523,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 119,
+      "averageConfidence": 0.9964458101354207,
+      "markdownCharacters": 1563,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 120,
+      "averageConfidence": 0.9956256037992012,
+      "markdownCharacters": 1527,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 121,
+      "averageConfidence": 0.9935901053480993,
+      "markdownCharacters": 1494,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 122,
+      "averageConfidence": 0.9954240134276863,
+      "markdownCharacters": 1445,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 123,
+      "averageConfidence": 0.9961006807900536,
+      "markdownCharacters": 468,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 124,
+      "averageConfidence": 0.9981378373400498,
+      "markdownCharacters": 1622,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 125,
+      "averageConfidence": 0.9956171720048625,
+      "markdownCharacters": 1674,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 126,
+      "averageConfidence": 0.9976482755899212,
+      "markdownCharacters": 1532,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 127,
+      "averageConfidence": 0.9976988771166365,
+      "markdownCharacters": 1070,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 128,
+      "averageConfidence": 0.9931266490786624,
+      "markdownCharacters": 1553,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 129,
+      "averageConfidence": 0.9931695169224073,
+      "markdownCharacters": 1521,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 130,
+      "averageConfidence": 0.9954667045100232,
+      "markdownCharacters": 1391,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 131,
+      "averageConfidence": 0.9978285999656029,
+      "markdownCharacters": 1638,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 132,
+      "averageConfidence": 0.997941345772819,
+      "markdownCharacters": 1657,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 133,
+      "averageConfidence": 0.9969317502961345,
+      "markdownCharacters": 789,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 134,
+      "averageConfidence": 0.9981040754862552,
+      "markdownCharacters": 1124,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 135,
+      "averageConfidence": 0.9968500124548081,
+      "markdownCharacters": 1616,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 136,
+      "averageConfidence": 0.9895671263034653,
+      "markdownCharacters": 757,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 137,
+      "averageConfidence": 0.995095680029604,
+      "markdownCharacters": 1581,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 138,
+      "averageConfidence": 0.9942337135287714,
+      "markdownCharacters": 823,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 139,
+      "averageConfidence": 0.9988097039400875,
+      "markdownCharacters": 1517,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 140,
+      "averageConfidence": 0.9956122398124202,
+      "markdownCharacters": 1467,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 141,
+      "averageConfidence": 0.9969753162253584,
+      "markdownCharacters": 749,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 142,
+      "averageConfidence": 0.9957082450279905,
+      "markdownCharacters": 1274,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 143,
+      "averageConfidence": 0.9936110558219323,
+      "markdownCharacters": 1640,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 144,
+      "averageConfidence": 0.9909996211650561,
+      "markdownCharacters": 1523,
+      "images": 1,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 145,
+      "averageConfidence": 0.996101212892022,
+      "markdownCharacters": 1041,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 146,
+      "averageConfidence": 0.9933324039924035,
+      "markdownCharacters": 1450,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 147,
+      "averageConfidence": 0.9970775746345979,
+      "markdownCharacters": 1603,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 148,
+      "averageConfidence": 0.9962763368705086,
+      "markdownCharacters": 1496,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 149,
+      "averageConfidence": 0.9958692707878606,
+      "markdownCharacters": 1568,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 150,
+      "averageConfidence": 0.9972385699333238,
+      "markdownCharacters": 1354,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 151,
+      "averageConfidence": 0.9961188571222802,
+      "markdownCharacters": 1472,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 152,
+      "averageConfidence": 0.9952451882307822,
+      "markdownCharacters": 1656,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 153,
+      "averageConfidence": 0.9963309348954168,
+      "markdownCharacters": 1589,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 154,
+      "averageConfidence": 0.994937744452546,
+      "markdownCharacters": 864,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 155,
+      "averageConfidence": 0.994876203983622,
+      "markdownCharacters": 1626,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 156,
+      "averageConfidence": 0.9957697704022873,
+      "markdownCharacters": 1482,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 157,
+      "averageConfidence": 0.9960182729126307,
+      "markdownCharacters": 1556,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 158,
+      "averageConfidence": 0.9984506789870483,
+      "markdownCharacters": 801,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 159,
+      "averageConfidence": 0.9954693908475705,
+      "markdownCharacters": 1444,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 160,
+      "averageConfidence": 0.9968952626972793,
+      "markdownCharacters": 1745,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 161,
+      "averageConfidence": 0.993017809284107,
+      "markdownCharacters": 1463,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 162,
+      "averageConfidence": 0.9964771371769306,
+      "markdownCharacters": 1481,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 163,
+      "averageConfidence": 0.9978826134345091,
+      "markdownCharacters": 535,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 164,
+      "averageConfidence": 0.9943150311161829,
+      "markdownCharacters": 1482,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 165,
+      "averageConfidence": 0.9948117139701718,
+      "markdownCharacters": 1579,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 166,
+      "averageConfidence": 0.9968672470650853,
+      "markdownCharacters": 1629,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 167,
+      "averageConfidence": 0.9968772830489798,
+      "markdownCharacters": 1215,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 168,
+      "averageConfidence": 0.9925870561147595,
+      "markdownCharacters": 1452,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 169,
+      "averageConfidence": 0.993635382808615,
+      "markdownCharacters": 830,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 170,
+      "averageConfidence": 0.9973930820730963,
+      "markdownCharacters": 892,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 171,
+      "averageConfidence": 0.9974763055125082,
+      "markdownCharacters": 1725,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 172,
+      "averageConfidence": 0.9959610829794362,
+      "markdownCharacters": 1510,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 173,
+      "averageConfidence": 0.9984613951002262,
+      "markdownCharacters": 1717,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 174,
+      "averageConfidence": 0.9963495474770248,
+      "markdownCharacters": 1628,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 175,
+      "averageConfidence": 0.9975615989311521,
+      "markdownCharacters": 1671,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 176,
+      "averageConfidence": 0.995496170767828,
+      "markdownCharacters": 1695,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 177,
+      "averageConfidence": 0.9969376277165727,
+      "markdownCharacters": 1386,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 178,
+      "averageConfidence": 0.9948047501804917,
+      "markdownCharacters": 1333,
+      "images": 1,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 179,
+      "averageConfidence": 0.9950681927523395,
+      "markdownCharacters": 1503,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 180,
+      "averageConfidence": 0.9970706696925381,
+      "markdownCharacters": 874,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 181,
+      "averageConfidence": 0.9971676416157685,
+      "markdownCharacters": 1528,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 182,
+      "averageConfidence": 0.9967770422371962,
+      "markdownCharacters": 1705,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 183,
+      "averageConfidence": 0.9967201195451404,
+      "markdownCharacters": 1574,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 184,
+      "averageConfidence": 0.9960715798727249,
+      "markdownCharacters": 1637,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 185,
+      "averageConfidence": 0.998436134443704,
+      "markdownCharacters": 1706,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 186,
+      "averageConfidence": 0.9968606513880702,
+      "markdownCharacters": 1515,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 187,
+      "averageConfidence": 0.9918432754585351,
+      "markdownCharacters": 1532,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 188,
+      "averageConfidence": 0.9953887473758444,
+      "markdownCharacters": 1604,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 189,
+      "averageConfidence": 0.9924614945441791,
+      "markdownCharacters": 1532,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 190,
+      "averageConfidence": 0.9944317801622182,
+      "markdownCharacters": 1502,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 191,
+      "averageConfidence": 0.9942474646734283,
+      "markdownCharacters": 1657,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 192,
+      "averageConfidence": 0.9972975393849228,
+      "markdownCharacters": 388,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 193,
+      "averageConfidence": 0.9960521115505364,
+      "markdownCharacters": 1523,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 194,
+      "averageConfidence": 0.9972693505486294,
+      "markdownCharacters": 778,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 195,
+      "averageConfidence": 0.9973531369956314,
+      "markdownCharacters": 1622,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 196,
+      "averageConfidence": 0.9929616249888302,
+      "markdownCharacters": 1468,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 197,
+      "averageConfidence": 0.9965320478486382,
+      "markdownCharacters": 1405,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 198,
+      "averageConfidence": 0.9974316088028271,
+      "markdownCharacters": 1651,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 199,
+      "averageConfidence": 0.9948405833440802,
+      "markdownCharacters": 1693,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 200,
+      "averageConfidence": 0.9953571141292404,
+      "markdownCharacters": 687,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 201,
+      "averageConfidence": 0.9926412014421624,
+      "markdownCharacters": 1625,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 202,
+      "averageConfidence": 0.997890680515303,
+      "markdownCharacters": 1704,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 203,
+      "averageConfidence": 0.9898150643492918,
+      "markdownCharacters": 1355,
+      "images": 1,
+      "weakWords": 4
+    },
+    {
+      "pdfPage": 204,
+      "averageConfidence": 0.9947598211941739,
+      "markdownCharacters": 1465,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 205,
+      "averageConfidence": 0.9970261231415535,
+      "markdownCharacters": 1044,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 206,
+      "averageConfidence": 0.9964122667326736,
+      "markdownCharacters": 1442,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 207,
+      "averageConfidence": 0.9988164865056495,
+      "markdownCharacters": 1102,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 208,
+      "averageConfidence": 0.9961626786048585,
+      "markdownCharacters": 1350,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 209,
+      "averageConfidence": 0.9959522998669529,
+      "markdownCharacters": 1640,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 210,
+      "averageConfidence": 0.9963387353931342,
+      "markdownCharacters": 984,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 211,
+      "averageConfidence": 0.9973802653146728,
+      "markdownCharacters": 1590,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 212,
+      "averageConfidence": 0.9965056425334907,
+      "markdownCharacters": 984,
+      "images": 1,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 213,
+      "averageConfidence": 0.9968317266395524,
+      "markdownCharacters": 1661,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 214,
+      "averageConfidence": 0.9923358771919246,
+      "markdownCharacters": 1478,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 215,
+      "averageConfidence": 0.992913902729033,
+      "markdownCharacters": 1138,
+      "images": 1,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 216,
+      "averageConfidence": 0.996082553300469,
+      "markdownCharacters": 1706,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 217,
+      "averageConfidence": 0.993117525704577,
+      "markdownCharacters": 1419,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 218,
+      "averageConfidence": 0.9976059726579684,
+      "markdownCharacters": 1069,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 219,
+      "averageConfidence": 0.9973086385828002,
+      "markdownCharacters": 1170,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 220,
+      "averageConfidence": 0.9982886408966052,
+      "markdownCharacters": 1726,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 221,
+      "averageConfidence": 0.9972965122855174,
+      "markdownCharacters": 1709,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 222,
+      "averageConfidence": 0.9972797020080711,
+      "markdownCharacters": 1581,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 223,
+      "averageConfidence": 0.9963713220270518,
+      "markdownCharacters": 1592,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 224,
+      "averageConfidence": 0.9923884119681227,
+      "markdownCharacters": 1535,
+      "images": 0,
+      "weakWords": 3
+    },
+    {
+      "pdfPage": 225,
+      "averageConfidence": 0.9961983859631636,
+      "markdownCharacters": 1675,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 226,
+      "averageConfidence": 0.9961202719575056,
+      "markdownCharacters": 1511,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 227,
+      "averageConfidence": 0.9937554866093526,
+      "markdownCharacters": 1590,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 228,
+      "averageConfidence": 0.993540991372385,
+      "markdownCharacters": 1116,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 229,
+      "averageConfidence": 0.9977830344781053,
+      "markdownCharacters": 1723,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 230,
+      "averageConfidence": 0.9940404010349322,
+      "markdownCharacters": 1477,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 231,
+      "averageConfidence": 0.9972261731314526,
+      "markdownCharacters": 479,
+      "images": 1,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 232,
+      "averageConfidence": 0.9958251560889805,
+      "markdownCharacters": 1696,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 233,
+      "averageConfidence": 0.9942536183191162,
+      "markdownCharacters": 1661,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 234,
+      "averageConfidence": 0.9979395773523403,
+      "markdownCharacters": 1482,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 235,
+      "averageConfidence": 0.9974058826095178,
+      "markdownCharacters": 1679,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 236,
+      "averageConfidence": 0.99876771636043,
+      "markdownCharacters": 1613,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 237,
+      "averageConfidence": 0.9946278691444125,
+      "markdownCharacters": 1561,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 238,
+      "averageConfidence": 0.9976948838882322,
+      "markdownCharacters": 1692,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 239,
+      "averageConfidence": 0.9978710036732756,
+      "markdownCharacters": 1476,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 240,
+      "averageConfidence": 0.9946308175471998,
+      "markdownCharacters": 1695,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 241,
+      "averageConfidence": 0.9936998934134563,
+      "markdownCharacters": 895,
+      "images": 1,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 242,
+      "averageConfidence": 0.9959614004246201,
+      "markdownCharacters": 1650,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 243,
+      "averageConfidence": 0.9965582612640882,
+      "markdownCharacters": 1543,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 244,
+      "averageConfidence": 0.9943870067516478,
+      "markdownCharacters": 1502,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 245,
+      "averageConfidence": 0.9960552881784775,
+      "markdownCharacters": 1730,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 246,
+      "averageConfidence": 0.9977247470673917,
+      "markdownCharacters": 1686,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 247,
+      "averageConfidence": 0.9972558885985915,
+      "markdownCharacters": 1663,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 248,
+      "averageConfidence": 0.995726194513978,
+      "markdownCharacters": 1459,
+      "images": 0,
+      "weakWords": 1
+    },
+    {
+      "pdfPage": 249,
+      "averageConfidence": 0.9929841470385401,
+      "markdownCharacters": 1150,
+      "images": 0,
+      "weakWords": 2
+    },
+    {
+      "pdfPage": 250,
+      "averageConfidence": 0.9976878308652923,
+      "markdownCharacters": 1464,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 251,
+      "averageConfidence": 0.9549622353934262,
+      "markdownCharacters": 939,
+      "images": 0,
+      "weakWords": 12
+    },
+    {
+      "pdfPage": 252,
+      "averageConfidence": 0.9979364914273621,
+      "markdownCharacters": 8003,
+      "images": 1,
+      "weakWords": 9
+    },
+    {
+      "pdfPage": 253,
+      "averageConfidence": 0.9791515133586939,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 254,
+      "averageConfidence": 0.4597344835208615,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 255,
+      "averageConfidence": 0.8570593840726612,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 256,
+      "averageConfidence": 0.9920669556565596,
+      "markdownCharacters": 621,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 257,
+      "averageConfidence": 0.9769926341238924,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 258,
+      "averageConfidence": 0.1198944412609894,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 259,
+      "averageConfidence": 0.9914970003229413,
+      "markdownCharacters": 0,
+      "images": 0,
+      "weakWords": 0
+    },
+    {
+      "pdfPage": 260,
+      "averageConfidence": 0.863192099995884,
+      "markdownCharacters": 6,
+      "images": 0,
+      "weakWords": 0
+    }
+  ],
+  "lowConfidence": [
+    {
+      "pdfPage": 1,
+      "words": [
+        {
+          "text": "The",
+          "confidence": 0.43428859249537116
+        },
+        {
+          "text": "quick",
+          "confidence": 0.5140641680338438
+        },
+        {
+          "text": "The",
+          "confidence": 0.7504738844820664
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7471112179720801
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7780777538007584
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7544400892836578
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7425827165612557
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7212300457668454
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6927514745248102
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6671763101839845
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7079057457429435
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7416443490521655
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6969016483506543
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7104717371327011
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7221287027728328
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7464361169634798
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7356071623114069
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6746258308962504
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6402860181315101
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7022786851545741
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7098052898464375
+        },
+        {
+          "text": "quick",
+          "confidence": 0.668862282758691
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6388862058461124
+        },
+        {
+          "text": "quick",
+          "confidence": 0.675130082151669
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7158214754295773
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6869128053539469
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6357701364254322
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7204644374686076
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7224356159959072
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7106648252334908
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6902222679778222
+        },
+        {
+          "text": "quick",
+          "confidence": 0.6931308174262946
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7752769259902159
+        },
+        {
+          "text": "quick",
+          "confidence": 0.76483884391367
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7316405511657649
+        },
+        {
+          "text": "quick",
+          "confidence": 0.75252198771693
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7632601237027475
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7691285281849906
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7916753641807952
+        },
+        {
+          "text": "quick",
+          "confidence": 0.7907301610383725
+        },
+        {
+          "text": "quick",
+          "confidence": 0.744532484780325
+        }
+      ]
+    },
+    {
+      "pdfPage": 5,
+      "words": [
+        {
+          "text": "M.",
+          "confidence": 0.6878170875073852
+        }
+      ]
+    },
+    {
+      "pdfPage": 9,
+      "words": [
+        {
+          "text": "Gop.",
+          "confidence": 0.4739176564968686
+        },
+        {
+          "text": "1946",
+          "confidence": 0.7382913870402035
+        }
+      ]
+    },
+    {
+      "pdfPage": 10,
+      "words": [
+        {
+          "text": "575:106",
+          "confidence": 0.6694357853598013
+        },
+        {
+          "text": "SP.",
+          "confidence": 0.7079230259080976
+        }
+      ]
+    },
+    {
+      "pdfPage": 15,
+      "words": [
+        {
+          "text": "szalę",
+          "confidence": 0.7691528782249328
+        }
+      ]
+    },
+    {
+      "pdfPage": 16,
+      "words": [
+        {
+          "text": "jednolatków",
+          "confidence": 0.6992227711955051
+        }
+      ]
+    },
+    {
+      "pdfPage": 17,
+      "words": [
+        {
+          "text": "#",
+          "confidence": 0.7549138423510898
+        },
+        {
+          "text": "im.",
+          "confidence": 0.5634771387248237
+        }
+      ]
+    },
+    {
+      "pdfPage": 21,
+      "words": [
+        {
+          "text": "zajedzie,",
+          "confidence": 0.7916391744774303
+        }
+      ]
+    },
+    {
+      "pdfPage": 22,
+      "words": [
+        {
+          "text": "z",
+          "confidence": 0.7062100432016954
+        }
+      ]
+    },
+    {
+      "pdfPage": 23,
+      "words": [
+        {
+          "text": "lany,",
+          "confidence": 0.7958810490827848
+        }
+      ]
+    },
+    {
+      "pdfPage": 25,
+      "words": [
+        {
+          "text": "ogni-sku",
+          "confidence": 0.6354471197233964
+        },
+        {
+          "text": "zżyć",
+          "confidence": 0.7975286861726633
+        }
+      ]
+    },
+    {
+      "pdfPage": 29,
+      "words": [
+        {
+          "text": "skontroluje",
+          "confidence": 0.7180845007662049
+        },
+        {
+          "text": "obyczenie",
+          "confidence": 0.6408717465827768
+        },
+        {
+          "text": "###",
+          "confidence": 0.6511820976648068
+        }
+      ]
+    },
+    {
+      "pdfPage": 31,
+      "words": [
+        {
+          "text": "koniczną",
+          "confidence": 0.7730576845970318
+        },
+        {
+          "text": "###",
+          "confidence": 0.7753596233847799
+        },
+        {
+          "text": "przed",
+          "confidence": 0.7424426646359283
+        }
+      ]
+    },
+    {
+      "pdfPage": 33,
+      "words": [
+        {
+          "text": "z",
+          "confidence": 0.7029625975198569
+        },
+        {
+          "text": "###",
+          "confidence": 0.7771440488448798
+        },
+        {
+          "text": "sama",
+          "confidence": 0.6465416756992106
+        }
+      ]
+    },
+    {
+      "pdfPage": 34,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.7515245624311235
+        }
+      ]
+    },
+    {
+      "pdfPage": 35,
+      "words": [
+        {
+          "text": "którędy",
+          "confidence": 0.6484479159282998
+        }
+      ]
+    },
+    {
+      "pdfPage": 36,
+      "words": [
+        {
+          "text": "lub",
+          "confidence": 0.7026563554951543
+        },
+        {
+          "text": "###",
+          "confidence": 0.6507807347952954
+        }
+      ]
+    },
+    {
+      "pdfPage": 37,
+      "words": [
+        {
+          "text": "sytuacji",
+          "confidence": 0.731231634646152
+        }
+      ]
+    },
+    {
+      "pdfPage": 38,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.5925370747308186
+        }
+      ]
+    },
+    {
+      "pdfPage": 40,
+      "words": [
+        {
+          "text": "niełatwą.",
+          "confidence": 0.7684244035224055
+        },
+        {
+          "text": "###",
+          "confidence": 0.5925713341441888
+        },
+        {
+          "text": "tracący",
+          "confidence": 0.7377133273808708
+        }
+      ]
+    },
+    {
+      "pdfPage": 41,
+      "words": [
+        {
+          "text": "bezwłocznie",
+          "confidence": 0.7479619531333701
+        },
+        {
+          "text": "###",
+          "confidence": 0.6509030885507321
+        }
+      ]
+    },
+    {
+      "pdfPage": 42,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.6512041440932861
+        }
+      ]
+    },
+    {
+      "pdfPage": 43,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.5621409178476836
+        }
+      ]
+    },
+    {
+      "pdfPage": 50,
+      "words": [
+        {
+          "text": "×",
+          "confidence": 0.6377376627580477
+        }
+      ]
+    },
+    {
+      "pdfPage": 51,
+      "words": [
+        {
+          "text": "20°",
+          "confidence": 0.7793738789937139
+        }
+      ]
+    },
+    {
+      "pdfPage": 52,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.5306566955137804
+        }
+      ]
+    },
+    {
+      "pdfPage": 55,
+      "words": [
+        {
+          "text": "2½",
+          "confidence": 0.7155080464301329
+        },
+        {
+          "text": "marcerz",
+          "confidence": 0.5690253687119194
+        }
+      ]
+    },
+    {
+      "pdfPage": 57,
+      "words": [
+        {
+          "text": "linią",
+          "confidence": 0.5352749187921132
+        }
+      ]
+    },
+    {
+      "pdfPage": 59,
+      "words": [
+        {
+          "text": "ma",
+          "confidence": 0.7332162751087197
+        }
+      ]
+    },
+    {
+      "pdfPage": 62,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.6770993397478942
+        }
+      ]
+    },
+    {
+      "pdfPage": 63,
+      "words": [
+        {
+          "text": "w",
+          "confidence": 0.6481651114591681
+        }
+      ]
+    },
+    {
+      "pdfPage": 66,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.7398559450340855
+        },
+        {
+          "text": "dotrzeć",
+          "confidence": 0.5414898256672566
+        }
+      ]
+    },
+    {
+      "pdfPage": 67,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.6995405098569185
+        },
+        {
+          "text": "wądolów",
+          "confidence": 0.6839152401887458
+        }
+      ]
+    },
+    {
+      "pdfPage": 68,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.5253948350764459
+        },
+        {
+          "text": "ew.",
+          "confidence": 0.7370047565896575
+        }
+      ]
+    },
+    {
+      "pdfPage": 69,
+      "words": [
+        {
+          "text": "rozejdą",
+          "confidence": 0.7016844361944354
+        }
+      ]
+    },
+    {
+      "pdfPage": 75,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.7183011302274261
+        },
+        {
+          "text": "1/2",
+          "confidence": 0.7092737049445818
+        }
+      ]
+    },
+    {
+      "pdfPage": 77,
+      "words": [
+        {
+          "text": "których",
+          "confidence": 0.7372568587018457
+        }
+      ]
+    },
+    {
+      "pdfPage": 78,
+      "words": [
+        {
+          "text": "mej",
+          "confidence": 0.7878980558173803
+        }
+      ]
+    },
+    {
+      "pdfPage": 82,
+      "words": [
+        {
+          "text": "C₁",
+          "confidence": 0.6853732063115022
+        }
+      ]
+    },
+    {
+      "pdfPage": 83,
+      "words": [
+        {
+          "text": "#",
+          "confidence": 0.7310580991372809
+        }
+      ]
+    },
+    {
+      "pdfPage": 84,
+      "words": [
+        {
+          "text": "o",
+          "confidence": 0.7509369783360161
+        }
+      ]
+    },
+    {
+      "pdfPage": 85,
+      "words": [
+        {
+          "text": "połowym",
+          "confidence": 0.7211776982251116
+        }
+      ]
+    },
+    {
+      "pdfPage": 86,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.6198440474138717
+        },
+        {
+          "text": "role.",
+          "confidence": 0.6709309376345012
+        }
+      ]
+    },
+    {
+      "pdfPage": 91,
+      "words": [
+        {
+          "text": "Tę",
+          "confidence": 0.6795171843752383
+        }
+      ]
+    },
+    {
+      "pdfPage": 92,
+      "words": [
+        {
+          "text": "stałe",
+          "confidence": 0.7050734011125644
+        }
+      ]
+    },
+    {
+      "pdfPage": 97,
+      "words": [
+        {
+          "text": "utrwala",
+          "confidence": 0.7619620733153543
+        },
+        {
+          "text": "###",
+          "confidence": 0.7772535140098676
+        }
+      ]
+    },
+    {
+      "pdfPage": 98,
+      "words": [
+        {
+          "text": "·",
+          "confidence": 0.48893009246278973
+        },
+        {
+          "text": "·",
+          "confidence": 0.6284051953340825
+        },
+        {
+          "text": "×.",
+          "confidence": 0.6216105828690072
+        }
+      ]
+    },
+    {
+      "pdfPage": 99,
+      "words": [
+        {
+          "text": "jednak",
+          "confidence": 0.7770137576839529
+        }
+      ]
+    },
+    {
+      "pdfPage": 103,
+      "words": [
+        {
+          "text": "nic",
+          "confidence": 0.6380871659632351
+        }
+      ]
+    },
+    {
+      "pdfPage": 105,
+      "words": [
+        {
+          "text": "stanąć",
+          "confidence": 0.7053353866071099
+        }
+      ]
+    },
+    {
+      "pdfPage": 107,
+      "words": [
+        {
+          "text": "nakaz",
+          "confidence": 0.7827224066336785
+        }
+      ]
+    },
+    {
+      "pdfPage": 110,
+      "words": [
+        {
+          "text": "#",
+          "confidence": 0.7549149447629944
+        }
+      ]
+    },
+    {
+      "pdfPage": 111,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.44419619815783595
+        },
+        {
+          "text": "ognik",
+          "confidence": 0.7781820342668023
+        }
+      ]
+    },
+    {
+      "pdfPage": 112,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.775540622584398
+        }
+      ]
+    },
+    {
+      "pdfPage": 114,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.689682818999627
+        }
+      ]
+    },
+    {
+      "pdfPage": 115,
+      "words": [
+        {
+          "text": "pokazały",
+          "confidence": 0.7949279693040202
+        }
+      ]
+    },
+    {
+      "pdfPage": 116,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.6095665444143746
+        }
+      ]
+    },
+    {
+      "pdfPage": 118,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.5741846037175271
+        }
+      ]
+    },
+    {
+      "pdfPage": 119,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.6205965126704217
+        }
+      ]
+    },
+    {
+      "pdfPage": 120,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.4054406771658512
+        }
+      ]
+    },
+    {
+      "pdfPage": 121,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.5141373736681688
+        },
+        {
+          "text": "zadania.",
+          "confidence": 0.7734934452309696
+        }
+      ]
+    },
+    {
+      "pdfPage": 122,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.5088687656074984
+        }
+      ]
+    },
+    {
+      "pdfPage": 125,
+      "words": [
+        {
+          "text": "ustala",
+          "confidence": 0.7345035456008581
+        }
+      ]
+    },
+    {
+      "pdfPage": 128,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.41336350408654615
+        },
+        {
+          "text": "ją",
+          "confidence": 0.6983540085983472
+        }
+      ]
+    },
+    {
+      "pdfPage": 129,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.5925103749532211
+        },
+        {
+          "text": "tyłem",
+          "confidence": 0.7243003913865012
+        }
+      ]
+    },
+    {
+      "pdfPage": 130,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.6756554703136929
+        }
+      ]
+    },
+    {
+      "pdfPage": 135,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.6513146203604673
+        }
+      ]
+    },
+    {
+      "pdfPage": 136,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.5311287874441819
+        }
+      ]
+    },
+    {
+      "pdfPage": 137,
+      "words": [
+        {
+          "text": "zabawa",
+          "confidence": 0.6644667263085905
+        },
+        {
+          "text": "#",
+          "confidence": 0.6224591072655349
+        },
+        {
+          "text": "wkrąść",
+          "confidence": 0.784016579039356
+        }
+      ]
+    },
+    {
+      "pdfPage": 140,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.5253739164232585
+        }
+      ]
+    },
+    {
+      "pdfPage": 142,
+      "words": [
+        {
+          "text": "#",
+          "confidence": 0.6791746280431045
+        }
+      ]
+    },
+    {
+      "pdfPage": 143,
+      "words": [
+        {
+          "text": "podpelnij",
+          "confidence": 0.6292637348653409
+        }
+      ]
+    },
+    {
+      "pdfPage": 144,
+      "words": [
+        {
+          "text": "zostań",
+          "confidence": 0.7667049943359183
+        },
+        {
+          "text": "podkrąć",
+          "confidence": 0.7590226556129657
+        },
+        {
+          "text": "bre",
+          "confidence": 0.3160279530975832
+        }
+      ]
+    },
+    {
+      "pdfPage": 146,
+      "words": [
+        {
+          "text": "pó",
+          "confidence": 0.646592951060391
+        },
+        {
+          "text": "przejściu",
+          "confidence": 0.678510481416425
+        },
+        {
+          "text": "##",
+          "confidence": 0.6891154496571826
+        }
+      ]
+    },
+    {
+      "pdfPage": 148,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.7663731615985764
+        }
+      ]
+    },
+    {
+      "pdfPage": 149,
+      "words": [
+        {
+          "text": "wyteża",
+          "confidence": 0.6007754792670142
+        }
+      ]
+    },
+    {
+      "pdfPage": 150,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.7944065244455863
+        }
+      ]
+    },
+    {
+      "pdfPage": 151,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.7981243012411543
+        }
+      ]
+    },
+    {
+      "pdfPage": 152,
+      "words": [
+        {
+          "text": "pogon",
+          "confidence": 0.6505040818637071
+        }
+      ]
+    },
+    {
+      "pdfPage": 153,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.7184123484192086
+        }
+      ]
+    },
+    {
+      "pdfPage": 154,
+      "words": [
+        {
+          "text": "i",
+          "confidence": 0.6733955375351582
+        }
+      ]
+    },
+    {
+      "pdfPage": 155,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.5537729260994585
+        }
+      ]
+    },
+    {
+      "pdfPage": 156,
+      "words": [
+        {
+          "text": "½",
+          "confidence": 0.6922319193056838
+        },
+        {
+          "text": "#",
+          "confidence": 0.6513547823127435
+        }
+      ]
+    },
+    {
+      "pdfPage": 157,
+      "words": [
+        {
+          "text": "wysłedzić",
+          "confidence": 0.6879144674063938
+        }
+      ]
+    },
+    {
+      "pdfPage": 159,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.6942287951986855
+        }
+      ]
+    },
+    {
+      "pdfPage": 160,
+      "words": [
+        {
+          "text": "wysłedzić",
+          "confidence": 0.7847094377482684
+        }
+      ]
+    },
+    {
+      "pdfPage": 161,
+      "words": [
+        {
+          "text": "zbiorki.",
+          "confidence": 0.7925328244660212
+        },
+        {
+          "text": "##",
+          "confidence": 0.48626521764107855
+        }
+      ]
+    },
+    {
+      "pdfPage": 162,
+      "words": [
+        {
+          "text": "się",
+          "confidence": 0.7916308322029497
+        },
+        {
+          "text": "#",
+          "confidence": 0.5621764355519978
+        }
+      ]
+    },
+    {
+      "pdfPage": 164,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.7034835006329121
+        },
+        {
+          "text": "W",
+          "confidence": 0.7734456369929364
+        }
+      ]
+    },
+    {
+      "pdfPage": 165,
+      "words": [
+        {
+          "text": "stoi",
+          "confidence": 0.6407645504230717
+        },
+        {
+          "text": "wyśledzą",
+          "confidence": 0.7774463929637417
+        }
+      ]
+    },
+    {
+      "pdfPage": 167,
+      "words": [
+        {
+          "text": "zanadto",
+          "confidence": 0.7279825872900731
+        }
+      ]
+    },
+    {
+      "pdfPage": 168,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.5141877564763953
+        },
+        {
+          "text": "wedrze",
+          "confidence": 0.6451013099633605
+        },
+        {
+          "text": "1/3",
+          "confidence": 0.6695854294263263
+        }
+      ]
+    },
+    {
+      "pdfPage": 169,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.5312024601205402
+        }
+      ]
+    },
+    {
+      "pdfPage": 172,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.7293568432957845
+        }
+      ]
+    },
+    {
+      "pdfPage": 174,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.5527506073101297
+        }
+      ]
+    },
+    {
+      "pdfPage": 176,
+      "words": [
+        {
+          "text": "1½—2",
+          "confidence": 0.772785386988806
+        },
+        {
+          "text": "stałe",
+          "confidence": 0.6805591064735649
+        }
+      ]
+    },
+    {
+      "pdfPage": 177,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.7028286565064754
+        }
+      ]
+    },
+    {
+      "pdfPage": 178,
+      "words": [
+        {
+          "text": "cho-",
+          "confidence": 0.7098493455193251
+        },
+        {
+          "text": "rąkwi)",
+          "confidence": 0.7757698328181308
+        }
+      ]
+    },
+    {
+      "pdfPage": 179,
+      "words": [
+        {
+          "text": "zanieślenia",
+          "confidence": 0.7505732487922099
+        },
+        {
+          "text": "###",
+          "confidence": 0.7769028676127706
+        }
+      ]
+    },
+    {
+      "pdfPage": 182,
+      "words": [
+        {
+          "text": "sytuacji.",
+          "confidence": 0.7965482079284524
+        }
+      ]
+    },
+    {
+      "pdfPage": 183,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.7745067321969037
+        }
+      ]
+    },
+    {
+      "pdfPage": 187,
+      "words": [
+        {
+          "text": "herszt",
+          "confidence": 0.5480207359459741
+        },
+        {
+          "text": "wertepy",
+          "confidence": 0.7450315556028673
+        }
+      ]
+    },
+    {
+      "pdfPage": 188,
+      "words": [
+        {
+          "text": "wysłodzić,",
+          "confidence": 0.6603557110694421
+        }
+      ]
+    },
+    {
+      "pdfPage": 189,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.46686899249778496
+        },
+        {
+          "text": "niby",
+          "confidence": 0.7712649976759154
+        },
+        {
+          "text": "(X)",
+          "confidence": 0.748183783206
+        }
+      ]
+    },
+    {
+      "pdfPage": 190,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.6093466604494484
+        }
+      ]
+    },
+    {
+      "pdfPage": 191,
+      "words": [
+        {
+          "text": "której",
+          "confidence": 0.5204418941250434
+        }
+      ]
+    },
+    {
+      "pdfPage": 193,
+      "words": [
+        {
+          "text": "goniec",
+          "confidence": 0.7581137151870938
+        },
+        {
+          "text": "##",
+          "confidence": 0.7939106846642738
+        }
+      ]
+    },
+    {
+      "pdfPage": 196,
+      "words": [
+        {
+          "text": "trenie",
+          "confidence": 0.7227747244758225
+        },
+        {
+          "text": "którędy",
+          "confidence": 0.7293070029707568
+        }
+      ]
+    },
+    {
+      "pdfPage": 197,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.6204299301139138
+        }
+      ]
+    },
+    {
+      "pdfPage": 199,
+      "words": [
+        {
+          "text": "nic",
+          "confidence": 0.7512994149430737
+        },
+        {
+          "text": "i",
+          "confidence": 0.6281687809188873
+        }
+      ]
+    },
+    {
+      "pdfPage": 200,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.7307909929414796
+        }
+      ]
+    },
+    {
+      "pdfPage": 201,
+      "words": [
+        {
+          "text": "którędy",
+          "confidence": 0.706185138160683
+        },
+        {
+          "text": "wysłedzić,",
+          "confidence": 0.7778151868172125
+        },
+        {
+          "text": "nan",
+          "confidence": 0.54959428511528
+        }
+      ]
+    },
+    {
+      "pdfPage": 202,
+      "words": [
+        {
+          "text": "białych,",
+          "confidence": 0.7732741091605305
+        }
+      ]
+    },
+    {
+      "pdfPage": 203,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.6785499751780705
+        },
+        {
+          "text": "wysłedzenia",
+          "confidence": 0.7258029932116653
+        },
+        {
+          "text": "na-",
+          "confidence": 0.5677876655037187
+        },
+        {
+          "text": "natkną",
+          "confidence": 0.690870364750034
+        }
+      ]
+    },
+    {
+      "pdfPage": 204,
+      "words": [
+        {
+          "text": "##",
+          "confidence": 0.5287771217819466
+        }
+      ]
+    },
+    {
+      "pdfPage": 209,
+      "words": [
+        {
+          "text": "zdąży",
+          "confidence": 0.6924083089496612
+        }
+      ]
+    },
+    {
+      "pdfPage": 210,
+      "words": [
+        {
+          "text": "####",
+          "confidence": 0.7477445431980686
+        }
+      ]
+    },
+    {
+      "pdfPage": 212,
+      "words": [
+        {
+          "text": "wysłedzić,",
+          "confidence": 0.7350598252695348
+        }
+      ]
+    },
+    {
+      "pdfPage": 213,
+      "words": [
+        {
+          "text": "obstawiasz",
+          "confidence": 0.6265888699058512
+        }
+      ]
+    },
+    {
+      "pdfPage": 214,
+      "words": [
+        {
+          "text": "żeby",
+          "confidence": 0.7387438621347848
+        },
+        {
+          "text": "##",
+          "confidence": 0.5030109869887256
+        },
+        {
+          "text": "wysłodzić",
+          "confidence": 0.7689330648818877
+        }
+      ]
+    },
+    {
+      "pdfPage": 215,
+      "words": [
+        {
+          "text": "linii",
+          "confidence": 0.7476269485547609
+        },
+        {
+          "text": "wysłodzić",
+          "confidence": 0.6082908665613083
+        }
+      ]
+    },
+    {
+      "pdfPage": 216,
+      "words": [
+        {
+          "text": "wyśledzi",
+          "confidence": 0.7871404519041656
+        }
+      ]
+    },
+    {
+      "pdfPage": 217,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.7308269078381749
+        },
+        {
+          "text": "N",
+          "confidence": 0.5828784045827909
+        }
+      ]
+    },
+    {
+      "pdfPage": 219,
+      "words": [
+        {
+          "text": "#",
+          "confidence": 0.7549138423510898
+        }
+      ]
+    },
+    {
+      "pdfPage": 223,
+      "words": [
+        {
+          "text": "¼",
+          "confidence": 0.7072473542240635
+        }
+      ]
+    },
+    {
+      "pdfPage": 224,
+      "words": [
+        {
+          "text": "zwia-",
+          "confidence": 0.7603825164740223
+        },
+        {
+          "text": "którędy",
+          "confidence": 0.7063970071963215
+        },
+        {
+          "text": "czerwonych",
+          "confidence": 0.6111911447577753
+        }
+      ]
+    },
+    {
+      "pdfPage": 225,
+      "words": [
+        {
+          "text": "przysyłanych",
+          "confidence": 0.7349594650514337
+        },
+        {
+          "text": "¼",
+          "confidence": 0.6562982375292256
+        }
+      ]
+    },
+    {
+      "pdfPage": 226,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.636845116978101
+        }
+      ]
+    },
+    {
+      "pdfPage": 227,
+      "words": [
+        {
+          "text": "wyteża",
+          "confidence": 0.6193781540458991
+        },
+        {
+          "text": "którędy",
+          "confidence": 0.6471493361743044
+        }
+      ]
+    },
+    {
+      "pdfPage": 228,
+      "words": [
+        {
+          "text": "harcerzy",
+          "confidence": 0.7144615952266389
+        }
+      ]
+    },
+    {
+      "pdfPage": 230,
+      "words": [
+        {
+          "text": "pośpiesza",
+          "confidence": 0.7428038116146694
+        },
+        {
+          "text": "##",
+          "confidence": 0.7505838207582648
+        }
+      ]
+    },
+    {
+      "pdfPage": 232,
+      "words": [
+        {
+          "text": "km",
+          "confidence": 0.7475023942090218
+        }
+      ]
+    },
+    {
+      "pdfPage": 233,
+      "words": [
+        {
+          "text": "wysłodzenia",
+          "confidence": 0.6893853472404868
+        },
+        {
+          "text": "Patrolom",
+          "confidence": 0.7788596476503269
+        }
+      ]
+    },
+    {
+      "pdfPage": 237,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.6623915489884128
+        },
+        {
+          "text": "możności",
+          "confidence": 0.7644180515322191
+        }
+      ]
+    },
+    {
+      "pdfPage": 239,
+      "words": [
+        {
+          "text": "###",
+          "confidence": 0.7944094601707701
+        }
+      ]
+    },
+    {
+      "pdfPage": 240,
+      "words": [
+        {
+          "text": "2/3",
+          "confidence": 0.7163462424929687
+        },
+        {
+          "text": "wysłedzenie",
+          "confidence": 0.764821206062951
+        }
+      ]
+    },
+    {
+      "pdfPage": 241,
+      "words": [
+        {
+          "text": "i",
+          "confidence": 0.7957343889147486
+        },
+        {
+          "text": "wysłodzić",
+          "confidence": 0.7089130514675162
+        }
+      ]
+    },
+    {
+      "pdfPage": 242,
+      "words": [
+        {
+          "text": "możliwość",
+          "confidence": 0.7586107493339431
+        }
+      ]
+    },
+    {
+      "pdfPage": 243,
+      "words": [
+        {
+          "text": ":",
+          "confidence": 0.6511878226779213
+        },
+        {
+          "text": "###",
+          "confidence": 0.7661468764248859
+        }
+      ]
+    },
+    {
+      "pdfPage": 244,
+      "words": [
+        {
+          "text": "obszedł",
+          "confidence": 0.7431902066128999
+        },
+        {
+          "text": "###",
+          "confidence": 0.5175078286627763
+        }
+      ]
+    },
+    {
+      "pdfPage": 245,
+      "words": [
+        {
+          "text": "½—5",
+          "confidence": 0.6611401969982443
+        }
+      ]
+    },
+    {
+      "pdfPage": 247,
+      "words": [
+        {
+          "text": "goleń",
+          "confidence": 0.6946838259256815
+        }
+      ]
+    },
+    {
+      "pdfPage": 248,
+      "words": [
+        {
+          "text": ":",
+          "confidence": 0.7767279162414591
+        }
+      ]
+    },
+    {
+      "pdfPage": 249,
+      "words": [
+        {
+          "text": "#",
+          "confidence": 0.6223490926270164
+        },
+        {
+          "text": "b*",
+          "confidence": 0.7879702671697593
+        }
+      ]
+    },
+    {
+      "pdfPage": 251,
+      "words": [
+        {
+          "text": "\\*",
+          "confidence": 0.485228120002065
+        },
+        {
+          "text": "50.",
+          "confidence": 0.787810839253293
+        },
+        {
+          "text": "Heje",
+          "confidence": 0.6229652469096427
+        },
+        {
+          "text": "lisa!",
+          "confidence": 0.778823267669692
+        },
+        {
+          "text": "#",
+          "confidence": 0.7981861114456199
+        },
+        {
+          "text": "61.Za",
+          "confidence": 0.7390943587502975
+        },
+        {
+          "text": "Pościg",
+          "confidence": 0.7464649565658406
+        },
+        {
+          "text": "\\*",
+          "confidence": 0.5441958159610262
+        },
+        {
+          "text": "\\*",
+          "confidence": 0.5176833570472289
+        },
+        {
+          "text": "\\*",
+          "confidence": 0.4994859029143954
+        },
+        {
+          "text": "odcięciu",
+          "confidence": 0.7733020932293923
+        },
+        {
+          "text": "gońców*",
+          "confidence": 0.6522242988150925
+        }
+      ]
+    },
+    {
+      "pdfPage": 252,
+      "words": [
+        {
+          "text": ".",
+          "confidence": 0.7770962466354896
+        },
+        {
+          "text": ".",
+          "confidence": 0.7770768162484741
+        },
+        {
+          "text": ".",
+          "confidence": 0.7546580138430088
+        },
+        {
+          "text": ".",
+          "confidence": 0.7546419332629212
+        },
+        {
+          "text": ".",
+          "confidence": 0.7546383348583513
+        },
+        {
+          "text": ".",
+          "confidence": 0.7545839560582891
+        },
+        {
+          "text": ".",
+          "confidence": 0.776957118180106
+        },
+        {
+          "text": ".",
+          "confidence": 0.7978439616173293
+        },
+        {
+          "text": ".",
+          "confidence": 0.6026167603486524
+        }
+      ]
+    }
+  ]
+}

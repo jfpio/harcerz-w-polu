@@ -1,0 +1,19 @@
+{
+  "name": "harcerz-w-polu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 astro build",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
+    "ocr": "python3 scripts/ocr_book.py 'Harcerz w polu zabawy i gry terenowe.pdf'",
+    "content": "python3 scripts/build_content.py",
+    "qa": "python3 scripts/qa_content.py"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "0.41.10",
+    "astro": "7.2.9",
+    "sharp": "0.35.4"
+  }
+}
