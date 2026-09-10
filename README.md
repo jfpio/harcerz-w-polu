@@ -20,7 +20,7 @@ Transkrypcja zachowuje pisownię wydania z 1946 roku. Ma status publicznej wersj
 
 ## Użycie z modelami językowymi
 
-Możesz skorzystać z [gema „Harcerz w polu” w Google Gemini](https://gemini.google.com/gems/edit/04d84634b020).
+Możesz skorzystać z [gema „Harcerz w polu” w Google Gemini](https://gemini.google.com/gem/1hREsNgnceaNB66RNaOOoq9UqKBnK02JD?usp=sharing).
 
 > **Asystent AI ma się skupiać na pomocy w wyszukaniu odpowiednich gier, eksploracji oraz do zadawania pytań, których często zapominamy przy projektowaniu gier. Pamiętaj jednak, że odpowiedzialność wychowawcza i dobieranie form do obranych przez Ciebie celów spoczywają jedynie na Twoich barkach.**
 
